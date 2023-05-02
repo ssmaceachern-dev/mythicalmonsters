@@ -97,7 +97,9 @@ Players and their characters overcome challenges set forth by the Storyteller by
 
 A standard character has eight aspects to invoke: Strength, Finesse, Endurance, Insight, Wits, Resolve, Wealth, and Profession.
 
-	A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
+```
+A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
+```
 
 A Test can be affected in three ways: Enhancement, Hindrance, and Ease. 
 
@@ -112,7 +114,9 @@ However, there will often be times when invoking an aspect is not enough to clea
 ##	Vigor
  Vigor represents a character’s vitality and is determined by taking the sum of a character’s physical and mental aspects (Strength, Finesse, Endurance, Insight, Wits, and Resolve). This number represents a pool of dice a character can draw from in order to obtain more successes for a given Test.
 
-	A character with Strength 1, Finesse 1, Endurance 1, Insight 1, Wits 1, and Resolve 1 will have 6 vigor to start with.
+```
+A character with Strength 1, Finesse 1, Endurance 1, Insight 1, Wits 1, and Resolve 1 will have 6 vigor to start with.
+```
  
  To spend vigor, a character subtracts an amount from their vigor equal to or less than the rating of the aspect being utilized. For example, if a character with Strength 2 wanted to spend vigor towards a Test, then they would only be able to subtract a maximum of 2 from their vigor pool to roll 2 additional dice towards the Test.
 
@@ -121,7 +125,9 @@ A character can spend as much vigor as they would like towards a Test; however, 
 
 At the same time, there is a cost to spending vigor in the form of *fatigue*. Fatigue is a measurement of a character’s exhaustion and its impact on gameplay is explained further in the Recovery section of this chapter. Whenever a character spends vigor, their fatigue rating increases by 1. 
 
-	A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while increasing their fatigue rating by 1. Then they subtract another 2 dice, roll them, and increase their fatigue rating by 1 yet again.
+```
+A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while increasing their fatigue rating by 1. Then they subtract another 2 dice, roll them, and increase their fatigue rating by 1 yet again.
+```
 
 
 ### Majors & Minors
@@ -138,9 +144,11 @@ When a player spends vigor, there is a chance of earning a *Major* or a *Minor*.
 ### Advancing Aspects
 When a character spends vigor equal to the aspect they are invoking towards a Test and receives a Minor or a Major success, they earn a *mark* towards that aspect. Marks are a measurement of a character's progression towards a given aspect. Once an aspect gains six marks, the aspect’s rating increases by 1 and all marks are reset. Only one mark can be obtained from a given Test though.
 
-	A character with Strength 2 spends 2 vigor and obtains a Minor Success. The character's Strength aspect then gains 1 mark.
+```
+A character with Strength 2 spends 2 vigor and obtains a Minor Success. The character's Strength aspect then gains 1 mark.
 
-	When 6 marks are obtained, the character's Strength advances and becomes Strength 3. All marks are then reset. However, now the character must spend 3 vigor and obtain a Major or Minor in order to earn marks towards Strength.
+When 6 marks are obtained, the character's Strength advances and becomes Strength 3. All marks are then reset. However, now the character must spend 3 vigor and obtain a Major or Minor in order to earn marks towards Strength.
+```
 
 # Actions & Daylight
 To the average adventurer, nothing is more important than daylight. Daylight allows one to follow the road ahead and to see the world. Once daylight runs out though, the world is plunged into night.
@@ -168,7 +176,9 @@ Allows a character to move between a certain number of areas equal to their Move
 ### **Interact with a Location**
 Allows a character to make a Test towards performing an action that affects a location.
 
-	Performing for a crowd, carousing, playing a game, meet with the local government. 
+```
+Performing for a crowd, carousing, playing a game, meet with the local government.
+``` 
 
 ### **Haggling**
 Allows a character to interact with the marketplace of a settlement or with a specific vendor in order to obtain an item.
