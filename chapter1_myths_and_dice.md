@@ -11,15 +11,31 @@ However, if you require assistance, the Making Worlds section of the Storyteller
 # Dice Rules
 In Mythical Monsters, the outcomes of certain actions are determined by rolls of the dice. The numbers **4**, **5**, **6** are counted as **successes** while the numbers **1**, **2**, **3** are considered **blunders**.
 
+<div align="center">
+<img src="images/dice4.png" width="48">
+<img src="images/dice5.png" width="47">
+<img src="images/dice6.png" width="48">
+
+<img src="images/dice1.png" width="48">
+<img src="images/dice2.png" width="48">
+<img src="images/dice3.png" width="48">
+</div>
+
 When dice are rolled, only the successes are initially counted. For example, a roll that produces the result **[1, 2, 4, 5, 6]** would equal **3** successes. Blunders in this sense are neutral and don’t negate successes except in certain circumstances which will be explained later on in this chapter.
 ## Pushes
 **6** is a special number in the game of Mythical Monsters. When a player rolls a 6 on a die, they gain a ***push***. When a character earns a push, not only does the player count the original roll as a success, but they can then roll the same die again. The player gains an additional push for each 6 they obtain. If anything other than a 6 is rolled during a push, then the push ends and the results are accounted for normally.
 ________________
 
 
-The roll below measures out to 2 successes, but there is one 6 which means that the roller gains one push. They then take the one die and reroll it.
-
-Since the roll didn’t result in a 6, the push ends and the roller adds the result to the previous roll causing the total to sum up to 3 successes.
+>The roll below measures out to 2 successes, but there is one 6 which means that the roller gains one push. They then take the one die and reroll it.
+>
+><div align="center">
+><img src="images/dice5.png" width="47">
+><img src="images/dice6.png" width="48">
+><img src="images/dice1.png" width="48">
+></div>
+>
+>Since the roll didn’t result in a 6, the push ends and the roller adds the result to the previous roll causing the total to sum up to 3 successes.
 
 # Challenges
 A challenge is anything that blocks the forward progress of the story or a character from taking an action freely. Narratives are full of challenges that test the abilities of the characters with some only having a trivial impact on the story while others can decide the outcome of life or death. In Mythical Monsters, challenges are created by the Storyteller and presented to the party of characters.
@@ -100,7 +116,7 @@ A standard character has eight aspects to invoke: Strength, Finesse, Endurance, 
 
 > A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
 
-A Test can be affected in three ways: Enhancement, Hindrance, and Ease. 
+The challenge rating of a Test can be affected by three modifiers: Enhancement, Hindrance, and Ease. 
 
 *Enhancement* is represents a number of dice that can be rolled in addition to the dice gained by invoking an aspect. Enhancement is often gained from the quality of an item or through supernatural means. Enhancement dice are rolled after an aspect has been invoked. 
 
