@@ -50,7 +50,7 @@ Blocks are challenges that passively resist forward progress. A block indicates 
 
 
 #### **BLOCK EXAMPLES**
-	A boulder blocking a door, foliage blocking a road, a fence surrounding a manor…
+>A boulder blocking a door, foliage blocking a road, a fence surrounding a manor…
 	
 
 ### Snares
@@ -58,7 +58,7 @@ Snares are challenges that passively resist movement. A snare indicates that if 
 
 
 #### **SNARE EXAMPLES**
-	A briar patch blocking a path through the woods, walking over a pile of collapsed rubble, walking through thick mud…
+>A briar patch blocking a path through the woods, walking over a pile of collapsed rubble, walking through thick mud…
 	
 
 ### Contests
@@ -66,7 +66,7 @@ Contests are obstacles that are made between two active entities. With contests,
 
 
 #### **CONTEST EXAMPLES**
-	Making attacks in engagements, stealth, haggling in the marketplace
+>Making attacks in engagements, stealth, haggling in the marketplace
 	
 
 ### Perils
@@ -74,7 +74,7 @@ Perils are challenges that passively resist forward progress but  also bear cons
 
 
 #### **PERIL EXAMPLES**
-	Jumping across a gaping chasm (Falling), harmful traps, swimming deep underwater…
+>Jumping across a gaping chasm (Falling), harmful traps, swimming deep underwater…
 	
 
 ### Checks
@@ -82,7 +82,7 @@ A check is a challenge where only one success is required to pass. As long as at
 
 
 #### **CHECK EXAMPLES**
-	A character facing their fears, performing a simple yet failable task
+>A character facing their fears, performing a simple yet failable task
 	
 
 ### Open
@@ -90,7 +90,7 @@ Open challenges do not have a hard challenge rating assigned to them. Open chall
 
 
 #### **OPEN CHALLENGE EXAMPLES**
-	Investigating a room, using Insight to make academic judgements, using Wits to perceive details about the environment
+>Investigating a room, using Insight to make academic judgements, using Wits to perceive details about the environment
 	
 # Tests & Invoking Aspects
 Players and their characters overcome challenges set forth by the Storyteller by making Tests. Tests require a character to use one of their available **aspects**. Each aspect carries a **rating** which ranges from 1 to 6 and represents the maximum amount of dice a player can choose to roll when making a Test using that aspect. When a character uses an aspect to make a test, they are *invoking* an aspect.
@@ -99,8 +99,6 @@ A standard character has eight aspects to invoke: Strength, Finesse, Endurance, 
 
 
 > A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
-
-<br />
 
 A Test can be affected in three ways: Enhancement, Hindrance, and Ease. 
 
@@ -117,7 +115,6 @@ However, there will often be times when invoking an aspect is not enough to clea
 
 >A character with Strength 1, Finesse 1, Endurance 1, Insight 1, Wits 1, and Resolve 1 will have 6 vigor to start with.
 
-<br />
 
 To spend vigor, a character subtracts an amount from their vigor equal to or less than the rating of the aspect being utilized. For example, if a character with Strength 2 wanted to spend vigor towards a Test, then they would only be able to subtract a maximum of 2 from their vigor pool to roll 2 additional dice towards the Test.
 
@@ -145,11 +142,11 @@ When a player spends vigor, there is a chance of earning a *Major* or a *Minor*.
 ### Advancing Aspects
 When a character spends vigor equal to the aspect they are invoking towards a Test and receives a Minor or a Major success, they earn a *mark* towards that aspect. Marks are a measurement of a character's progression towards a given aspect. Once an aspect gains six marks, the aspect’s rating increases by 1 and all marks are reset. Only one mark can be obtained from a given Test though.
 
-```
-A character with Strength 2 spends 2 vigor and obtains a Minor Success. The character's Strength aspect then gains 1 mark.
 
-When 6 marks are obtained, the character's Strength advances and becomes Strength 3. All marks are then reset. However, now the character must spend 3 vigor and obtain a Major or Minor in order to earn marks towards Strength.
-```
+>A character with Strength 2 spends 2 vigor and obtains a Minor Success. The character's Strength aspect then gains 1 mark.
+>
+>When 6 marks are obtained, the character's Strength advances and becomes Strength 3. All marks are then reset. However, now the character must spend 3 vigor and obtain a Major or Minor in order to earn marks towards Strength.
+
 
 # Actions & Daylight
 To the average adventurer, nothing is more important than daylight. Daylight allows one to follow the road ahead and to see the world. Once daylight runs out though, the world is plunged into night.
@@ -158,9 +155,9 @@ In Mythical Monsters, a day is broken into six periods with the first four repre
 
 An action is considered complete either when a Test has been made and the results of it declared or when an action of a different type is made.
 
-	For example, if a player spends a Local Action to investigate rumors, the action is only complete after a Test has been made and after the Storyteller narrates the results. 
-	
-	Similarly, if a player uses a World Action to Travel from one town to a new town and then uses a Local Action to explore the new town, then the World Action is considered complete and the clock advances.
+>For example, if a player spends a Local Action to investigate rumors, the action is only complete after a Test has been made and after the Storyteller narrates the results. 
+>
+>Similarly, if a player uses a World Action to Travel from one town to a new town and then uses a Local Action to explore the new town, then the World Action is considered complete and the clock advances.
 
 ## **World Actions**
 A world action is any action that spans a chunk of daytime. Generally, world actions consume around 1 to 4 hours and upon completion advance the World Clock by one period.
