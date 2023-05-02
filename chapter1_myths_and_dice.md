@@ -99,9 +99,13 @@ A standard character has eight aspects to invoke: Strength, Finesse, Endurance, 
 
 	A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
 
-A Test can be affected in three ways: Enhancement, Hindrance, and Ease. Enhancement is represents a number of dice that can be rolled in addition to the dice gained by invoking an aspect. Enhancement is often gained from the quality of an item or through supernatural means.
+A Test can be affected in three ways: Enhancement, Hindrance, and Ease. 
 
-Hindrance in turn represents an increase to a challenge's existing rating. Actions performed in nightfall or darkness are often hindered significantly 
+*Enhancement* is represents a number of dice that can be rolled in addition to the dice gained by invoking an aspect. Enhancement is often gained from the quality of an item or through supernatural means. Enhancement dice are rolled after an aspect has been invoked. 
+
+*Hindrance* in turn represents an increase to a challenge's existing rating. Actions performed in nightfall or darkness are often hindered significantly. In particular cases where something is said to be *fully hindered*, that means the challenge rating of performing said task while fully hindered is increased by 6.
+
+*Ease* on the other hand represents a number of automatic successes towards a given Test. These successes are counted before the Test is made. If Ease alone can satisfy the challenge rating of a given Test, then the Test automatically succeeds.
 
 However, there will often be times when invoking an aspect is not enough to clear a Test. When this occurs, a character may need to rely on their *vigor*.
 
