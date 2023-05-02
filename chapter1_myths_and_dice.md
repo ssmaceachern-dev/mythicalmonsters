@@ -97,9 +97,9 @@ Players and their characters overcome challenges set forth by the Storyteller by
 
 A standard character has eight aspects to invoke: Strength, Finesse, Endurance, Insight, Wits, Resolve, Wealth, and Profession.
 
-<code>
-A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
-</code>
+
+> A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
+
 
 A Test can be affected in three ways: Enhancement, Hindrance, and Ease. 
 
