@@ -268,23 +268,24 @@ The game of Mythical Monsters follows the following pattern.
 
 1. **The Storyteller describes the environment and situation to the players.** The story begins and the characters are informed of their current circumstances.
 
-		The characters find themselves in a burning tavern. There is fire all around and smoke threatens to steal their breaths away if they don’t react soon. A fire is blocking the main entrance out but there are windows all around.
+	>The characters find themselves in a burning tavern. There is fire all around and smoke threatens to steal their breaths away if they don’t react soon. A fire is blocking the main entrance out but there are windows all around.
+	
 2. **The players decide what actions their characters take in response and the Storyteller determines the challenge.** The players can use their characters' abilities to react accordingly. The Storyteller takes this information and determines if there is anything challenging the actions of the characters.
 
-		One player declares their intent to jump through one of the windows. The storyteller states that jumping through the window is fairly easy and says succeeding would require a CR 2 Finesse Test.
+	>One player declares their intent to jump through one of the windows. The storyteller states that jumping through the window is fairly easy and says succeeding would require a CR 2 Finesse Test.
 
 3. **The players invoke aspects against their Tests and determine if they wish to spend vigor.** The players roll dice according to the rating of their invoked aspects along with any enhancement.
 
-		The player jumping through the window makes their Finesse Test and obtains only 1 success. It's not enough and so they declare they would like to use vigor. They subtract a few dice from their vigor pool, add a point of fatigue, and roll the dice. They gain 2 more successes which allows them to complete the test
+	>The player jumping through the window makes their Finesse Test and obtains only 1 success. It's not enough and so they declare they would like to use vigor. They subtract a few dice from their vigor pool, add a point of fatigue, and roll the dice. They gain 2 more successes which allows them to complete the test
 
 4. **The Storyteller summarizes the results**. After the players have completed their Tests, the Storyteller narrates the aftermath. The Storyteller would decide here whether they would wish to add Tension to a Test's results.
 
 	**No Tension**
 
-		The Storyteller declares that the player has passed their Test and states they have jumped through the window successfully.
+	>The Storyteller declares that the player has passed their Test and states they have jumped through the window successfully.
 
 	**Tension**
 
-		The Storyteller declares they are adding Tension to the test and describe that the window is much narrower than the character had gauged. They roll their dice and the successes they receive raises the difficuly to CR 4. Now the player must use more vigor to clear the challenge or rely on an ally for help.
+	>The Storyteller declares they are adding Tension to the test and describe that the window is much narrower than the character had gauged. They roll their dice and the successes they receive raises the difficuly to CR 4. Now the player must use more vigor to clear the challenge or rely on an ally for help.
 
 From here, this cycle would repeat and vary throughout the course of the adventure with different Tests coming into play depending on the circumstances caroused by the players and their decisions.
