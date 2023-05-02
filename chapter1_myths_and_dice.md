@@ -115,20 +115,20 @@ However, there will often be times when invoking an aspect is not enough to clea
 ##	Vigor
  Vigor represents a character’s vitality and is determined by taking the sum of a character’s physical and mental aspects (Strength, Finesse, Endurance, Insight, Wits, and Resolve). This number represents a pool of dice a character can draw from in order to obtain more successes for a given Test.
 
-```
-A character with Strength 1, Finesse 1, Endurance 1, Insight 1, Wits 1, and Resolve 1 will have 6 vigor to start with.
-```
- 
- To spend vigor, a character subtracts an amount from their vigor equal to or less than the rating of the aspect being utilized. For example, if a character with Strength 2 wanted to spend vigor towards a Test, then they would only be able to subtract a maximum of 2 from their vigor pool to roll 2 additional dice towards the Test.
+>A character with Strength 1, Finesse 1, Endurance 1, Insight 1, Wits 1, and Resolve 1 will have 6 vigor to start with.
+
+<br />
+
+To spend vigor, a character subtracts an amount from their vigor equal to or less than the rating of the aspect being utilized. For example, if a character with Strength 2 wanted to spend vigor towards a Test, then they would only be able to subtract a maximum of 2 from their vigor pool to roll 2 additional dice towards the Test.
 
 
 A character can spend as much vigor as they would like towards a Test; however, each usage of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2.
 
 At the same time, there is a cost to spending vigor in the form of *fatigue*. Fatigue is a measurement of a character’s exhaustion and its impact on gameplay is explained further in the Recovery section of this chapter. Whenever a character spends vigor, their fatigue rating increases by 1. 
 
-```
-A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while increasing their fatigue rating by 1. Then they subtract another 2 dice, roll them, and increase their fatigue rating by 1 yet again.
-```
+
+>A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while increasing their fatigue rating by 1. Then they subtract another 2 dice, roll them, and increase their fatigue rating by 1 yet again.
+
 
 
 ### Majors & Minors
