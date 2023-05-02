@@ -149,11 +149,34 @@ When a player spends vigor, there is a chance of earning a *Major* or a *Minor*.
 
 * A *Major Success* occurs when all vigor dice rolled land on a 6. The number of successes from the roll equals double the number of dice used. So if a Major Success is achieved with 4 dice, then the result equals 8 successes total.
 
+<div align="center">
+<img src="images/dice6.png" width="48">
+<img src="images/dice6.png" width="48">
+<img src="images/dice6.png" width="48">
+</div>
+
 * A *Minor Success* occurs when all vigor dice rolled result in a success. A Minor Success indicates a favorable condition and provides 1 additional success to the roll. So if a Minor Success was achieved with 4 dice, then the result equals 5 successes total. 
+<div align="center">
+<img src="images/dice4.png" width="48">
+<img src="images/dice5.png" width="47.5">
+<img src="images/dice6.png" width="48">
+</div>
 
 * A *Minor Blunder* occurs when all vigor dice rolled result in a blunder. A Minor Blunder indicates the occurrence of an inconvenience. When a Minor Blunder is rolled, the amount of successes achieved towards overcoming a Test is reduced by 1. If no successes can be reduced, then the challenge rating of the obstacle itself is increased by 1.
+  
+<div align="center">
+<img src="images/dice1.png" width="48">
+<img src="images/dice2.png" width="48">
+<img src="images/dice3.png" width="48">
+</div>
 
 * A *Major Blunder* occurs when all vigor dice rolled land on a 1. A Major Blunder indicates that a significant misfortune has occurred. When a Major Blunder is rolled, the amount of successes achieved towards overcoming a Test is reduced equal to the number of dice rolled. If no successes can be reduced, then the challenge rating of the obstacle itself is increased by the number of major blunders achieved.
+
+<div align="center">
+<img src="images/dice1.png" width="48">
+<img src="images/dice1.png" width="48">
+<img src="images/dice1.png" width="48">
+</div>
 
 ### Advancing Aspects
 When a character spends vigor equal to the aspect they are invoking towards a Test and receives a Minor or a Major success, they earn a *mark* towards that aspect. Marks are a measurement of a character's progression towards a given aspect. Once an aspect gains six marks, the aspect’s rating increases by 1 and all marks are reset. Only one mark can be obtained from a given Test though.
