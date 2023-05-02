@@ -100,6 +100,7 @@ A standard character has eight aspects to invoke: Strength, Finesse, Endurance, 
 
 > A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
 
+<br />
 
 A Test can be affected in three ways: Enhancement, Hindrance, and Ease. 
 
