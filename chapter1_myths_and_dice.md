@@ -97,9 +97,9 @@ Players and their characters overcome challenges set forth by the Storyteller by
 
 A standard character has eight aspects to invoke: Strength, Finesse, Endurance, Insight, Wits, Resolve, Wealth, and Profession.
 
-```
+<code>
 A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
-```
+</code>
 
 A Test can be affected in three ways: Enhancement, Hindrance, and Ease. 
 
@@ -154,6 +154,12 @@ When 6 marks are obtained, the character's Strength advances and becomes Strengt
 To the average adventurer, nothing is more important than daylight. Daylight allows one to follow the road ahead and to see the world. Once daylight runs out though, the world is plunged into night.
 
 In Mythical Monsters, a day is broken into six periods with the first four representing daylight and the last two representing nightfall. During this time, characters can perform a range of actions which will naturally consume time depending on how long they take to perform. To keep track of this, the players and the Storyteller collaborate on maintaining the World Clock.
+
+An action is considered complete either when a Test has been made and the results of it declared or when an action of a different type is made.
+
+	For example, if a player spends a Local Action to investigate rumors, the action is only complete after a Test has been made and after the Storyteller narrates the results. 
+	
+	Similarly, if a player uses a World Action to Travel from one town to a new town and then uses a Local Action to explore the new town, then the World Action is considered complete and the clock advances.
 
 ## **World Actions**
 A world action is any action that spans a chunk of daytime. Generally, world actions consume around 1 to 4 hours and upon completion advance the World Clock by one period.
