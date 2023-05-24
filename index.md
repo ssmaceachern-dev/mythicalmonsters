@@ -6,13 +6,13 @@
 
 [Chapter 4 - Engagements](/chapter4_engagements.md)
 
-[Chapter 5 - Progression](/chapter4_engagements.md)
+[Chapter 5 - Progression](/chapter5_progression.md)
 
-[Chapter 6 - Downtime](/chapter4_engagements.md)
+[Chapter 6 - Downtime](/chapter6_downtime.md)
 
-[Chapter 7 - The World](/chapter4_engagements.md)
+[Chapter 7 - The World](/chapter7_theworld.md)
 
-[Chapter 8 - The Supernatural](/chapter4_engagements.md)
+[Chapter 8 - The Supernatural](/chapter8_thesupernatural)
 
-[Chapter 9 - Impairments](/chapter4_engagements.md)
+[Chapter 9 - Impairments](/chapter9_impairments.md)
 
