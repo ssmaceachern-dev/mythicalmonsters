@@ -568,17 +568,17 @@ Shields are a hybrid between weapons and armor as they can be used for both offe
 | Material | Natural Resistances | Size Rating | Rarity | S Vuln. | P Vuln. | B Vuln. |
 | -------- | ------------------- | ----------- | ------ | ------- | ------- | ------- |
 | Wood     | --                  | 1           | 1      | X       |         | X       |
-| Wood     | --                  | 1           | 2      | X       |         | X       |
-| Wood     | --                  | 1           | 3      | X       |         | X       |
+| Wood     | --                  | 2           | 2      | X       |         | X       |
+| Wood     | --                  | 3           | 3      | X       |         | X       |
 | Bronze   | Fire 1, Acid 2      | 1           | 1      |         |         | X       |
-| Bronze   | Fire 1, Acid 2      | 1           | 2      |         |         | X       |
-| Bronze   | Fire 1, Acid 2      | 1           | 3      |         |         | X       |
+| Bronze   | Fire 1, Acid 2      | 2           | 2      |         |         | X       |
+| Bronze   | Fire 1, Acid 2      | 3           | 3      |         |         | X       |
 | Iron     | Fire 2, Acid 1      | 1           | 1      |         |         | X       |
-| Iron     | Fire 2, Acid 1      | 1           | 2      |         |         | X       |
-| Iron     | Fire 2, Acid 1      | 1           | 3      |         |         | X       |
+| Iron     | Fire 2, Acid 1      | 2           | 2      |         |         | X       |
+| Iron     | Fire 2, Acid 1      | 3           | 3      |         |         | X       |
 | Steel    | Fire 3, Acid 2      | 1           | 4      |         |         | X       |
-| Steel    | Fire 3, Acid 2      | 1           | 5      |         |         | X       |
-| Steel    | Fire 3, Acid 2      | 1           | 6      |         |         | X       |
+| Steel    | Fire 3, Acid 2      | 2           | 5      |         |         | X       |
+| Steel    | Fire 3, Acid 2      | 3           | 6      |         |         | X       |
 
 #### **Ranged Weapons**
 Ranged weapons are used to send a piece of ammunition at a target from a distance. The use of any ranged weapon requires the use of both hands.
@@ -610,9 +610,9 @@ Next choose an armor set for the character to begin playing in. The key elements
 | Material    | Natural Resistances    | Armor Type  | Armor Rating | Noise | Rarity | S Vuln. | P Vuln. | B Vuln |
 | ----------- | ---------------------- | ----------- | ------------ | ----- | ------ | ------- | ------- | ------ |
 | Cotton      |                        | Weave       | 1            | 0     | 0      | X       | X       | X      |
-| Cotton      | Cold 1                 | Gambeson    | 2            | 0     | 1      | X       | X       | X      |
+| Cotton      |                        | Gambeson    | 2            | 0     | 1      | X       | X       | X      |
 | Linen       |                        | Weave       | 1            | 0     | 0      | X       | X       | X      |
-| Linen       | Cold 1                 | Gambeson    | 2            | 0     | 1      | X       | X       | X      |
+| Linen       |                        | Gambeson    | 2            | 0     | 1      | X       | X       | X      |
 | Wool        | Cold 1                 | Weave       | 1            | 0     | 0      | X       | X       | X      |
 | Wool        | Cold 1                 | Gambeson    | 2            | 0     | 1      | X       | X       | X      |
 | Common Hide | Cold 1, Fire 1, Acid 1 | Hide        | 1            | 0     | 0      | X       | X       | X      |
@@ -625,10 +625,10 @@ Next choose an armor set for the character to begin playing in. The key elements
 | Bronze      | Fire 1, Acid 2         | Mail        | 2            | 2     | 1      |         | X       | X      |
 | Bronze      | Fire 1, Acid 2         | Brigandine  | 3            | 2     | 2      |         | X       | X      |
 | Bronze      | Fire 1, Acid 2         | Plate       | 3            | 3     | 3      |         |         | X      |
-| Steel       | Fire 3, Acid 2         | Breastplate | 2            | 0     | 2      |         | X       | X      |
-| Steel       | Fire 3, Acid 2         | Mail        | 3            | 2     | 3      |         | X       | X      |
-| Steel       | Fire 3, Acid 2         | Brigandine  | 4            | 2     | 4      |         | X       | X      |
-| Steel       | Fire 3, Acid 2         | Plate       | 4            | 3     | 4      |         |         | X      |
+| Steel       | Fire 3, Acid 2         | Breastplate | 2            | 0     | 4      |         | X       | X      |
+| Steel       | Fire 3, Acid 2         | Mail        | 3            | 2     | 4      |         | X       | X      |
+| Steel       | Fire 3, Acid 2         | Brigandine  | 4            | 2     | 5      |         | X       | X      |
+| Steel       | Fire 3, Acid 2         | Plate       | 4            | 3     | 6      |         |         | X      |
 
 ### Determine Apparel
 Apparel describes what a given character is wearing that does not contribute towards their armor. The quality rating of this apparel becomes equal to the character's Wealth rating.
