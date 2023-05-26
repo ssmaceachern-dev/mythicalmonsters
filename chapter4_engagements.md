@@ -162,7 +162,7 @@ Characters suffering from Conditions can make Endurance Tests and Resolve Tests 
 Only one Physical Condition and one Mental Condition can be recovered in this fashion. For example, if a character gained the Staggered Condition and the Stunned Condition during a Round, they must choose which Condition they are going to apply their Endurance Test towards during Recovery. However, if a character is both Stunned and Distracted, then they can make both an Endurance Test and a Resolve Test during Recovery.
 
 ## Size Steps
-Size plays an important factor in the world of Mythical Monsters, as some creatures can be as tall as giants or as small as fairies. When taking Actions against such creatures, one needs to know the size step. The size step is the difference in size (or “steps”) between two creatures.
+Size plays an important factor in the world of Mythmakers, as some creatures can be as tall as giants or as small as fairies. When taking Actions against such creatures, one needs to know the size step. The size step is the difference in size (or “steps”) between two creatures.
 
 When two creatures of the same size interact, the size step becomes 0. However, if an Average person were to face against a Giant creature, then the size step becomes 1. See the table below for more examples.
 

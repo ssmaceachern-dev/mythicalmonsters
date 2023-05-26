@@ -1,15 +1,15 @@
 # Myths & Dice
-Mythical Monsters is a collaborative fantasy roleplaying game about taking the roles of characters in a world of myths, magic, and monsters. One player, the Storyteller, acts as the world itself and the arbiter of the rules while the other players act as characters within the adventure created by the Storyteller.
+Mythmakers is a collaborative fantasy roleplaying game about taking the roles of characters in a world of myths, magic, and monsters. One player, the Storyteller, acts as the world itself and the arbiter of the rules while the other players act as characters within the adventure created by the Storyteller.
 
 # Your World
-The world of Mythical Monsters is setting agnostic. There is no fixed world or universe where the game is intended to take place. Instead, Mythical Monsters is meant to act as a system or a framework of rules for having adventures within a fantastical setting. The system assumes elements of fantasy exist but does not presume to know the precise details of your world.
+The world of Mythmakers is setting agnostic. There is no fixed world or universe where the game is intended to take place. Instead, Mythmakers is meant to act as a system or a framework of rules for having adventures within a fantastical setting. The system assumes elements of fantasy exist but does not presume to know the precise details of your world.
 
 Your world belongs to you. Even if you take inspiration from a canon setting in popular media or use one wholesale, it is still your world in the end.
 
 However, if you require assistance, the Making Worlds section of the Storyteller Guide provides some ideas on how to begin creating a setting for play.
 
 # Dice Rules
-In Mythical Monsters, the outcomes of certain actions are determined by rolls of the dice. The numbers **4**, **5**, **6** are counted as **successes** while the numbers **1**, **2**, **3** are considered **blunders**.
+In Mythmakers, the outcomes of certain actions are determined by rolls of the dice. The numbers **4**, **5**, **6** are counted as **successes** while the numbers **1**, **2**, **3** are considered **blunders**.
 
 <div align="center">
 <img src="images/dice4.png" width="48">
@@ -23,7 +23,7 @@ In Mythical Monsters, the outcomes of certain actions are determined by rolls of
 
 When dice are rolled, only the successes are initially counted. For example, a roll that produces the result **[1, 2, 4, 5, 6]** would equal **3** successes. Blunders in this sense are neutral and don’t negate successes except in certain circumstances which will be explained later on in this chapter.
 ## Pushes
-**6** is a special number in the game of Mythical Monsters. When a player rolls a 6 on a die, they gain a ***push***. When a character earns a push, not only does the player count the original roll as a success, but they can then roll the same die again. The player gains an additional push for each 6 they obtain. If anything other than a 6 is rolled during a push, then the push ends and the results are accounted for normally.
+**6** is a special number in the game of Mythmakers. When a player rolls a 6 on a die, they gain a ***push***. When a character earns a push, not only does the player count the original roll as a success, but they can then roll the same die again. The player gains an additional push for each 6 they obtain. If anything other than a 6 is rolled during a push, then the push ends and the results are accounted for normally.
 ________________
 
 
@@ -36,12 +36,16 @@ ________________
 ></div>
 >
 >Since the roll didn’t result in a 6, the push ends and the roller adds the result to the previous roll causing the total to sum up to 3 successes.
+><div align="center">
+><img src="images/dice4.png" width="48">
+></div>
 
 # Challenges
-A challenge is anything that blocks the forward progress of the story or a character from taking an action freely. Narratives are full of challenges that test the abilities of the characters with some only having a trivial impact on the story while others can decide the outcome of life or death. In Mythical Monsters, challenges are created by the Storyteller and presented to the party of characters.
+A challenge is anything that blocks the forward progress of the story or a character from taking an action freely. Stories are full of challenges that test the abilities of the characters within them. Some challenges can prove to be trivial while others may determine the fate of the world itself. In Mythmakers, challenges are created by the Storyteller and presented to the party of characters at key points in the story.
 
 
-In Mythical Monsters, a challenge’s difficulty is measured by its challenge rating, or CR for short. The challenge rating represents the amount of successes needed in order for the obstacle to be overcome. An obstacle rated at CR 4 requires 4 successes in order for it to be considered overcome.
+In Mythmakers, a challenge’s difficulty is represented by its challenge rating, or CR for short. The challenge rating represents the amount of successes needed in order for the obstacle to be overcome.
+>A CR 4 obstacle requires 4 successes in order for it to be considered overcome.
 
 
 All challenges generally fit within the following scale of difficulty:
@@ -58,7 +62,7 @@ All challenges generally fit within the following scale of difficulty:
 | CR 6                  | A heroic obstacle. Masters can only hope to overcome it.                 |
 | CR 7+                 | A mythical obstacle. Stories are told about those who overcome them.     |
 ## Challenge Types
-While a challenge rating can indicate the amount of successes needed to overcome a given obstacle, the challenge type also indicates how those successes are taken into account. 
+While a challenge rating can indicate the amount of successes needed to overcome a given obstacle, the challenge type also indicates how those successes are taken into account and what happens should the players fail to overcome the challenge. 
 
 
 ### Blocks
@@ -78,19 +82,19 @@ Snares are challenges that passively resist movement. A snare indicates that if 
 	
 
 ### Contests
-Contests are obstacles that are made between two active entities. With contests, one side is exerting pressure while another side provides resistance. If the contesting side earns more pressure than the contested side’s resistance, then the margin of pressure exerted is inflicted on the other party. If the contesting side’s pressure is equal or less than the contested side’s resistance, then a stalemate is reached and nothing happens.
+Contests are obstacles that are made between two active entities. With contests, one side is exerting pressure while another side provides resistance. If the contesting side earns more pressure than the contested side’s resistance, then an effect is achieved that benefits the contesting side. If the contesting side’s pressure is equal or less than the contested side’s resistance, then a stalemate is reached and nothing happens.
 
 
 #### **CONTEST EXAMPLES**
->Making attacks in engagements, stealth, haggling in the marketplace
+>Attacking in engagements, stealthing past oblivious guards, haggling in the marketplace
 	
 
 ### Perils
-Perils are challenges that passively resist forward progress but  also bear consequences for failing to overcome them. Perils are often accompanied with some kind of hazard, or a risky situation that places some kind of pressure on a character or group.
+Perils are challenges that passively resist forward progress but also bear consequences for failing to overcome them. Perils are often accompanied with some kind of hazard, or a risky situation putting pressure on a character or group.
 
 
 #### **PERIL EXAMPLES**
->Jumping across a gaping chasm (Falling), harmful traps, swimming deep underwater…
+>Jumping across a gaping chasm, harmful traps, swimming deep underwater…
 	
 
 ### Checks
@@ -135,12 +139,13 @@ However, there will often be times when invoking an aspect is not enough to clea
 To spend vigor, a character subtracts an amount from their vigor equal to or less than the rating of the aspect being utilized. For example, if a character with Strength 2 wanted to spend vigor towards a Test, then they would only be able to subtract a maximum of 2 from their vigor pool to roll 2 additional dice towards the Test.
 
 
-A character can spend as much vigor as they would like towards a Test; however, each usage of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2.
+A character can spend as much vigor as they would like towards a Test; however, each usage of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2. At the same time, there is a cost to spending vigor in the form of *fatigue*.
 
-At the same time, there is a cost to spending vigor in the form of *fatigue*. Fatigue is a measurement of a character’s exhaustion and its impact on gameplay is explained further in the Recovery section of this chapter. Whenever a character spends vigor, their fatigue rating increases by 1. 
+### Recovery
+A character begins play with a Recovery rating equal to half of their vigor rating (rounded down).  Whenever a character spends any amount of vigor, their Recovery rating decreases by 1. 
 
 
->A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while increasing their fatigue rating by 1. Then they subtract another 2 dice, roll them, and increase their fatigue rating by 1 yet again.
+>A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while decreasing their Recovery rating by 1. Then they subtract another 2 dice, roll them, and decrease their Recovery rating by 1 yet again.
 
 
 
@@ -190,7 +195,7 @@ When a character spends vigor equal to the aspect they are invoking towards a Te
 # Actions & Daylight
 To the average adventurer, nothing is more important than daylight. Daylight allows one to follow the road ahead and to see the world. Once daylight runs out though, the world is plunged into night.
 
-In Mythical Monsters, a day is broken into six periods with the first four representing daylight and the last two representing nightfall. During this time, characters can perform a range of actions which will naturally consume time depending on how long they take to perform. To keep track of this, the players and the Storyteller collaborate on maintaining the World Clock.
+In Mythmakers, a day is broken into six periods with the first four representing daylight and the last two representing nightfall. During this time, characters can perform a range of actions which will naturally consume time depending on how long they take to perform. To keep track of this, the players and the Storyteller collaborate on maintaining the World Clock.
 
 An action is considered complete either when a Test has been made and the results of it declared or when an action of a different type is made.
 
@@ -235,7 +240,7 @@ A Free Action is an action that any given character can perform with no hassle a
 ## Movement
 Walking through abandoned ruins, swimming across a river, and traveling the countryside are all examples of movement a character can make while on their adventures.
 
-In Mythical Monsters, a character moves through a landscape by making Move Actions. Move Actions are a form of free action that allow any character or creature to move through an uninhibiting space. Outside of engagements, a character spends an action to gain a number of Move Actions equal to their size plus their endurance rating.
+In Mythmakers, a character moves through a landscape by making Move Actions. Move Actions are a form of free action that allow any character or creature to move through an uninhibiting space. Outside of engagements, a character spends an action to gain a number of Move Actions equal to their size plus their endurance rating.
 
 
 | Action             | Movement                                       |
@@ -264,7 +269,7 @@ Downtime Actions are actions a character can make between adventures or sections
 If the action a character wishes to take falls beyond the purview of the actions defined above, then it becomes an *improvised* action. For these, use the existing rules as a guideline and determine an approximate amount of time it would take to complete the action and rule it accordingly. If it would take a few hours, then it is most likely a world action. If its something that can be done instantly, then it may be a Free Action.
 
 # How to Play
-The game of Mythical Monsters follows the following pattern.
+The game of Mythmakers follows the following pattern.
 
 1. **The Storyteller describes the environment and situation to the players.** The story begins and the characters are informed of their current circumstances.
 

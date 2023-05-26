@@ -4,7 +4,7 @@
 
 ## Earning Marks
 
-As characters engage in the world of Mythical Monsters, they will undoubtedly experience moments of growth both physically and mentally. In the game, this growth is measured in terms of **_marks_**.
+As characters engage in the world of Mythmakers, they will undoubtedly experience moments of growth both physically and mentally. In the game, this growth is measured in terms of **_marks_**.
 
 Characters gain a mark when they earn a Minor Success or a Major Success while spending vigor to use a Physical, Mental, or Supernatural aspect towards a challenge.
 

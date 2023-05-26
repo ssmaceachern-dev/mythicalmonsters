@@ -14,12 +14,12 @@ Natural Damage represents the range of natural damage types that can be found in
 
 ## The Environment
 
-The world of Mythical Monsters is not always one basked in the light of day. Adventurers and would-be heroes can come to expect darkness and dangerous perils on their journey. This section covers how aspects of the Environment can affect play. 
+The world of Mythmakers is not always one basked in the light of day. Adventurers and would-be heroes can come to expect darkness and dangerous perils on their journey. This section covers how aspects of the Environment can affect play. 
 
 
 ### Vision
 
-A day in the world of Mythical Monsters is composed of six Turns. The first four of these Turns take place within broad daylight, but the last two are enveloped by darkness.
+A day in the world of Mythmakers is composed of six Turns. The first four of these Turns take place within broad daylight, but the last two are enveloped by darkness.
 
 The lighting in a scene can affect Actions taken by a creature depending on their vision. For example, a creature with Common Vision can see without obstacles in Daylight and Bright Light. However, in Dim Light and Darkness, performing Actions is indeed by the amount indicated in the table below unless the creature makes a **Wits Test **for the Turn. For each success a character earns from the Test, the Hindrance is lowered by 1. Any remaining hindrance is stacked against Actions performed by the creature on that Turn.
 
@@ -28,7 +28,7 @@ If a character performs an Action against a creature in a differently lit square
 
 ### Land
 
-In the world of Mythical Monsters, there are fifteen types of terrains: **Open, Canyons, Forests, Tundra, Hills, Jungles, Deserts, Oasis, Mountains, Marshes, Swamps, Rivers, Valleys, Urban, or Underground.**
+In the world of Mythmakers, there are fifteen types of terrains: **Open, Canyons, Forests, Tundra, Hills, Jungles, Deserts, Oasis, Mountains, Marshes, Swamps, Rivers, Valleys, Urban, or Underground.**
 
 In each Land is a variety of obstacles that can obstruct movement, restrict vision, or even test one’s fortitude in the form of its climate.
 
@@ -56,13 +56,13 @@ An able creature can attempt to resist some of the fall damage by making a **Fin
 
 ## Hunger
 
-Traveling on the road can result in times where one does not have the luxury of a tavern or a home cooked meal to warm them against the nightly cold. For this purpose, many adventurers and journeymen carry around _rations_. In Mythical Monsters, rations represent a combination of a character’s food and water supply.
+Traveling on the road can result in times where one does not have the luxury of a tavern or a home cooked meal to warm them against the nightly cold. For this purpose, many adventurers and journeymen carry around _rations_. In Mythmakers, rations represent a combination of a character’s food and water supply.
 
 Eating rations increases a character’s vigor equal to the Quality rating of the rations. Upon using rations, the quality of the rations decreases by 1. If a character goes a day without eating food or rations, then their Fatigue increases by 1 at the beginning of the next day.
 
 
 ## Stealth 
 
-Stealth in Mythical Monsters is a game of one creature’s finesse versus another creature’s wits and awareness. Whenever a creature attempts to subtly perform an action, they must make a Finesse Test against the flat Wits rating of any nearby creatures before performing the action. If the Finesse Test is greater than the creature’s Wits ratings, then the character can make the relevant Test without arousing suspicion.
+Stealth in Mythmakers is a game of one creature’s finesse versus another creature’s wits and awareness. Whenever a creature attempts to subtly perform an action, they must make a Finesse Test against the flat Wits rating of any nearby creatures before performing the action. If the Finesse Test is greater than the creature’s Wits ratings, then the character can make the relevant Test without arousing suspicion.
 
 However, if the results of the Finesse Test meet or fall below the creature’s Wits rating, then they gain a level of detection. There are three levels of detection: Wary, Alert, and Searching. Wary creatures are

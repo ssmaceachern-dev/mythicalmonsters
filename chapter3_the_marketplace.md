@@ -5,10 +5,22 @@ Heroes are often defined by their actions and deeds but adventuring is more than
 A character's ability to interact with the marketplace is primarily defined by their Wealth rating, an abstract measurement of their financial resources. A given Wealth rating determines the maximum **market value** of an item they can obtain when interacting with the marketplace.
 
 ## Items
-All items within Mythical Monsters have a size rating and a quality rating.
+All items within Mythmakers have a size rating and a quality rating.
 
 ### Size
 An item’s size rating represents both how large an item is and also how much space it takes up when placed within a pack or container. Items with a size rating of zero such as jewelry, trinkets, or written letters have no impactful size or weight up to a reasonable degree.
+
+| SIZE     | SIZE RATING |
+| -------- | ----------- |
+| Mini     | 0           |
+| Tiny     | 1           |
+| Little   | 2           |
+| Small    | 3           |
+| Average  | 4           |
+| Giant    | 5           |
+| Huge     | 6           |
+| Colossal | 7           |
+| Mythical | 8           |
 
 ### Quality
 An item’s quality rating represents both an item’s quality and its durability. The quality rating of an item generally ranges between 1 and 6, with each value being tied to a descriptor as shown in the table below. As the game progresses, items can degrade or increase in quality. When an item’s quality rating reaches zero through whatever means, it is broken and cannot be used until repaired.
@@ -229,7 +241,7 @@ Shields are a hybrid between weapons and armor as they can be used for both offe
 | Steel    | Fire 3, Acid 2      | 3           | 6      |         |         | X       |
 
 ### Armor Sets
-Armor is the basis of protection within the world of Mythical Monsters. Common materials for armor generally include all types of Material. In the game, armor is represented by a character’s Armor Set.
+Armor is the basis of protection within the world of Mythmakers. Common materials for armor generally include all types of Material. In the game, armor is represented by a character’s Armor Set.
 
 To build an Armor Set, start by choosing one Material and then pair it with an Armor Type that matches its Material Class.
 
@@ -278,7 +290,7 @@ A pack cannot contain an item that is larger than its own size and characters ca
 A character can wear as many packs as is within reasonable boundaries of the imagination. If the Total Size of the items a character is carrying exceeds their Carrying Capacity, then the character’s Movement is hindered by the difference. In addition, any Encumbrance a character has also acts as Hindrance to all Tests based on Physical Aspects.
 
 ### Lights
-The world of Mythical Monsters, while fantastical, is full of monsters and creatures that prowl in the night. For many creatures, darkness hinders wits and so light is needed. In order for a light source to be used, it must either be placed upon a surface or held in at least one hand.
+The world of Mythmakers, while fantastical, is full of monsters and creatures that prowl in the night. For many creatures, darkness hinders wits and so light is needed. In order for a light source to be used, it must either be placed upon a surface or held in at least one hand.
 
 Items that provide lighting cast out a radiance which represents the number of squares of unhindered vision for creatures with normal vision. Each turn that a light source is lit or casts illumination, its quality decreases by 1. When a light source’s quality reaches zero, then it is used up and it no longer casts light.
 
@@ -293,7 +305,7 @@ Items that provide lighting cast out a radiance which represents the number of s
 ### Rations
 This section describes rations which are used to stave off fatigue and restore vigor when they are used in the Exploration and Travel stages of gameplay.
 
-Traveling on the road can result in times where one does not have the luxury of a tavern or a home cooked meal to warm them against the nightly cold. For this purpose, many adventurers and journeymen carry around rations. In Mythical Monsters, rations represent a combination of a character’s food and water supply.
+Traveling on the road can result in times where one does not have the luxury of a tavern or a home cooked meal to warm them against the nightly cold. For this purpose, many adventurers and journeymen carry around rations. In Mythmakers, rations represent a combination of a character’s food and water supply.
 
 Eating rations reduces a character’s Fatigue by 1 and increases their vigor equal to the quality of the rations. Upon using rations, the amount of rations decreases by 1. However, if a character goes a day without eating Rations, then their Fatigue increases by 1 the next day.
 

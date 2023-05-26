@@ -5,10 +5,10 @@ Rich nobles, blessed clergymen, and master guildsmen have no need for adventure 
 
 But you've got that spark in you. There's a part of you that yearns for what lies beyond these foothills. To discover what fathomless yet wondrous riches lie in a land where giants wander.
 
-This section will guide you through the steps needed to form a character from the aether capable of adventuring in a world of Mythical Monsters.
+This section will guide you through the steps needed to form a character from the aether capable of adventuring in a world of Mythmakers.
 
 ## The Recipe of a Legend
-The creation of a given character for the Mythical Monsters Roleplaying Game follows the following steps. Each step will provide the default options available to you and walk you through what to add to your character sheet.
+The creation of a given character for the Mythmakers Roleplaying Game follows the following steps. Each step will provide the default options available to you and walk you through what to add to your character sheet.
 
 1. Receive Starting Experience
 2. Determine Ancestry
@@ -146,7 +146,7 @@ ___
 ***Bestial Nose*** Creatures with a bestial nose gain +1 Ease to Sense Tests involving scents.
 ___
 ## Determine Natures
-A character is so much more than words or numbers on a page. They are a vision; an ideal in your mind with characteristics and flaws. In Mythical Monsters, these qualities take the form of three natures: *traits*, *virtues*, and *troubles*. Regardless of a character's starting experience, a character begins play with two traits, two virtues, and two troubles.
+A character is so much more than words or numbers on a page. They are a vision; an ideal in your mind with characteristics and flaws. In Mythmakers, these qualities take the form of three natures: *traits*, *virtues*, and *troubles*. Regardless of a character's starting experience, a character begins play with two traits, two virtues, and two troubles.
 
 | Traits | Virtues | Troubles |
 | ------ | ------- | -------- |
@@ -210,7 +210,7 @@ A good way to come up with a trouble is to find words or things that can be plac
     - I fear... spiders
 
 ## Advance Aspects
-An aspect is a representation of a creature’s capabilities. There are eight aspects for a given character in Mythical Monsters: Strength, Finesse, Endurance, Insight, Wits, Resolve, Sense, and Wealth. Each aspect forms the base of a Test in order to overcome a challenge.
+An aspect is a representation of a creature’s capabilities. There are eight aspects for a given character in Mythmakers: Strength, Finesse, Endurance, Insight, Wits, Resolve, Sense, and Wealth. Each aspect forms the base of a Test in order to overcome a challenge.
 
 **When you have reached this step**, locate the row in the table below that corresponds to your character's starting experience. The number under Aspect Advancements represents the number of advancements you can make on any Aspect.
 
@@ -224,7 +224,7 @@ An aspect is a representation of a creature’s capabilities. There are eight as
     Ingram Wolfsbane is starting out as a Novice and begins with 1 Aspect Advancement. They've already gained a natural aspect advancement in Endurance from being a dwarf so we'll advance their Strength instead. With this advancement, we'll increase Ingram's Strength rating from 1 to 2.
 
 ## Advance Professions
-Professions represent your character’s backgrounds and areas of expertise in a given trade before delving into the world of Mythical Monsters. 
+Professions represent your character’s backgrounds and areas of expertise in a given trade before delving into the world of Mythmakers. 
 
 A given rating in a Profession represents an amount of Enhancement that can be added to Insight Tests that relate to a given skill set. It also allows characters to make items or perform services associated with that Profession by making a Profession Test.
 
@@ -371,13 +371,13 @@ Spend an advancement by picking a Trade that interests you and go to the Profess
 
 
 ## Advance Knowledge
-Characters will also possess familiarity in certain areas of knowledge beyond their normal profession. A rating in a given knowledge acts as Enhancement whenever a character makes an Insight Test that uses that knowledge with some exceptions. In Mythical Monsters, there are two kinds of knowledge: *Common*, *Esoteric*, and *Linguistic*.
+Characters will also possess familiarity in certain areas of knowledge beyond their normal profession. A rating in a given knowledge acts as Enhancement whenever a character makes an Insight Test that uses that knowledge with some exceptions. In Mythmakers, there are two kinds of knowledge: *Common*, *Esoteric*, and *Linguistic*.
 
 Common Knowledge is knowledge that most people will have some familiarity with and is divided into four main areas: **Local**, **Occult**, **Nature**, and **Lore**. 
 
 Esoteric Knowledge is specific knowledge that only a significantly smaller group of people know such as a knowledge of frogs or a dead language.
 
-Linguistics comprises the knowledge of languages beyond the common language shared throughout the connected parts of the fantasy world. Mythical Monsters offers the following default languages beyond common: **fae**, **dragon**, **dwarvish**, **goblin**, and **bestial**. Any additions or modifications to this list are subject to the Storyteller. Unlike Common or Esoteric knowledges, a rating in a language acts as Ease instead of Enhancement towards Tests against challenges based on understanding the contextual use of a given language.
+Linguistics comprises the knowledge of languages beyond the common language shared throughout the connected parts of the fantasy world. Mythmakers offers the following default languages beyond common: **fae**, **dragon**, **dwarvish**, **goblin**, and **bestial**. Any additions or modifications to this list are subject to the Storyteller. Unlike Common or Esoteric knowledges, a rating in a language acts as Ease instead of Enhancement towards Tests against challenges based on understanding the contextual use of a given language.
 
 **When you've reached this step**, locate the row in the table below that corresponds to your character's starting experience. The number under Knowledge Advancements represents the number of advancements you can make towards either a Common, Esoteric, or Linguistic Knowledge. All forms of knowledge start with no rating and require at least one advancement in order for the character to be able to use the knowledge towards Tests.
 
@@ -393,7 +393,7 @@ Locate the Knowledge section on your character sheet and decide which areas of K
     After reviewing the options for Knowledge, Lore might be a fitting choice for our would-be adventurer as a beginning knowledge. So we find the Common Knowledge section of the character sheet and increase the rating of Lore by 1.
 
 ## Advance Practices
-A practice in Mythical Monsters represents a specialized form of training or supernatural ability that a character can use to their advantage. There are two forms a practice can take: Martial or Supernatural.
+A practice in Mythmakers represents a specialized form of training or supernatural ability that a character can use to their advantage. There are two forms a practice can take: Martial or Supernatural.
 
 **When you've reached this step**, locate the row in the table below that corresponds to your character's starting experience. The number under Practice Advancements represents the number of advancements you can make towards either a Martial or Supernatural Practice. All practices start with no rating and require at least one advancement in order for the character to be able to use the knowledge towards Tests.
 
@@ -428,7 +428,7 @@ Under Class, write Martial and then increase its rating from 0 to 1. Martial Pra
     Ingram Wolfsbane has had some training what with being a mercenary and all. So under the Practices section, lets give them some Martial Training. Lets choose Slash as a specialization and use the advancement to give it a rating of 1.
 
 ### **Supernatural Practices**
-Within the world of Mythical Monsters, there are those who are capable of performing wondrous feats. Those who can manifest their will upon the mundane world do so through their supernatural practice. A supernatural practice has two components: an intent and a form. An intent is a special verb that describes how a given supernatural power is being used and the form describes what that power is affecting. Together, they create a phrase indicating what someone can do with their supernatural powers.
+Within the world of Mythmakers, there are those who are capable of performing wondrous feats. Those who can manifest their will upon the mundane world do so through their supernatural practice. A supernatural practice has two components: an intent and a form. An intent is a special verb that describes how a given supernatural power is being used and the form describes what that power is affecting. Together, they create a phrase indicating what someone can do with their supernatural powers.
 
 | Intent | Form | Supernatural Practice |
 | ------ | ---- | --------------------- |
@@ -460,7 +460,7 @@ The table below summarizes the five intents available to you. Supernatural power
 | Sense   | The domain of senses comprises the realms of what is perceivable by other forms. Odors, tastes, images, sounds, and sensations are but some examples of the breadth encapsulated by this form |
 
 #### **Supernatural Specializations**
-Within the game of Mythical Monsters, there are three specializations of supernatural power: Magical, Devotional, and Mystical. Each class has a Class Boon which is unique to that class of power.
+Within the game of Mythmakers, there are three specializations of supernatural power: Magical, Devotional, and Mystical. Each class has a Class Boon which is unique to that class of power.
 ___
 **MAGICAL**
 
@@ -638,7 +638,7 @@ Apparel describes what a given character is wearing that does not contribute tow
     Ingram Wolfsbane's apparel consists of a broad sunhat, roughed up pants, and a dark tan doublet. They also wear a set of earrings on each ear.
 
 ### Determine a Starting Pack
-Starting Packs are composed of goods to quickly get an adventurer on their way. In Mythical Monsters, a character's inventory consists of two parts: a pack and the held items.
+Starting Packs are composed of goods to quickly get an adventurer on their way. In Mythmakers, a character's inventory consists of two parts: a pack and the held items.
 
 Packs are containers that a character or creature can equipt in order to carry items on their journeys. As with most items, packs have a size and quality rating. However, the capacity of a pack indicates the maximum total sum of size that can fit in it. A pack cannot have a size rating greater than the creature wearing it.
 
@@ -648,7 +648,7 @@ Held items are just that: Items that have a size, rarity, and quality rating. Ho
 
 **When you get to this step**, peruse the packs below and pick one that stands out to you. Once you've chosen a pack, copy the various details over to the corresponding section of your character sheet. For the quality ratings of the pack itself and the items within it, take your Wealth aspect and subtract the rarity each given item and enter the result into the adjacent quality rating field.
 
-    Ingram Wolfsbane's journey is just beginning and so starting them off with a Journeyman's Pack will give them the basic essentials for surviving the world of Mythical Monsters. We'll record all of the various values for a Journeyman's Pack into the corresponding Pack section of our character sheet along with the Inventory section below it.
+    Ingram Wolfsbane's journey is just beginning and so starting them off with a Journeyman's Pack will give them the basic essentials for surviving the world of Mythmakers. We'll record all of the various values for a Journeyman's Pack into the corresponding Pack section of our character sheet along with the Inventory section below it.
 
 ___
 **Journeyman's Pack**
