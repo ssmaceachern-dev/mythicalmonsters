@@ -115,7 +115,7 @@ Open challenges do not have a hard challenge rating assigned to them. Open chall
 # Tests & Invoking Aspects
 Players and their characters overcome challenges set forth by the Storyteller by making Tests. Tests require a character to use one of their available **aspects**. Each aspect carries a **rating** which ranges from 1 to 6 and represents the maximum amount of dice a player can choose to roll when making a Test using that aspect. When a character uses an aspect to make a test, they are *invoking* an aspect.
 
-A standard character has eight aspects to invoke: Strength, Finesse, Endurance, Insight, Wits, Resolve, Wealth, and Profession.
+A standard character has eight aspects to invoke: Strength, Finesse, Endurance, Sense, Insight, Wits, Resolve, Wealth, and Profession.
 
 
 > A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
@@ -142,7 +142,9 @@ To spend vigor, a character subtracts an amount from their vigor equal to or les
 A character can spend as much vigor as they would like towards a Test; however, each usage of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2. At the same time, there is a cost to spending vigor in the form of *fatigue*.
 
 ### Recovery
-A character begins play with a Recovery rating equal to half of their vigor rating (rounded down).  Whenever a character spends any amount of vigor, their Recovery rating decreases by 1. 
+A character begins play with a Recovery rating equal to half of their vigor rating (rounded down). Whenever a certain period of time passes, a character regains vigor equal to their Recovery rating. However when a character spends vigor towards a Test in any amount, their Recovery rating decreases by 1. 
+
+While their is a maximum value that a character's Recovery can be, there is no minimum meaning that it is possible to have a negative Recovery rating at a given point in time. When this occurs, a character loses vigor equal to the negative value. Restorying Recovery is achieved through Rests which are explained later on in this chapter.
 
 
 >A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while decreasing their Recovery rating by 1. Then they subtract another 2 dice, roll them, and decrease their Recovery rating by 1 yet again.
@@ -193,11 +195,11 @@ When a character spends vigor equal to the aspect they are invoking towards a Te
 
 
 # Actions & Daylight
+Actions in Mythmaker are defined as a specific period of time in which a Test is being made. For example, a World Action indicates that completing a Test would take at least 4 hours. An Engagement Action on the other hand would only take an instant. An action is considered complete either when a Test has been made and the results of it declared or when an action of a different type is made.
+
 To the average adventurer, nothing is more important than daylight. Daylight allows one to follow the road ahead and to see the world. Once daylight runs out though, the world is plunged into night.
 
 In Mythmakers, a day is broken into six periods with the first four representing daylight and the last two representing nightfall. During this time, characters can perform a range of actions which will naturally consume time depending on how long they take to perform. To keep track of this, the players and the Storyteller collaborate on maintaining the World Clock.
-
-An action is considered complete either when a Test has been made and the results of it declared or when an action of a different type is made.
 
 >For example, if a player spends a Local Action to investigate rumors, the action is only complete after a Test has been made and after the Storyteller narrates the results. 
 >
@@ -260,7 +262,7 @@ If more than one character is capable of making or contributing towards a Test, 
 In order to make an assist, both characters must be capable of making the same Test. In Tests that involve recalling specific lore or knowledge, a characters would need to have an aspect, profession, or relevant feature that allows them to assist another character with knowledge in that subject.
 
 ## Engagement Actions
-Engagement actions are actions expressly for the purpose of handling engagements. Engagements come into play whenever fast paced events occur such as combat or overcoming a peril. These actions happen moment-to-moment and are detailed further in the Engagements section.
+Engagement actions are actions that happen in an instant or draw everyone involved into a moment-to-moment playthrough of events. Engagements come into play whenever fast paced events occur such as combat or overcoming a peril. The Engagements section details this further in the Engagements section.
 
 ## Downtime Actions
 Downtime Actions are actions a character can make between adventures or sections of their journey. Unlike normal actions, Downtime actions take place over the span of entire days or even weeks. More details and actions a character can take during downtime are provided in the Downtime section.

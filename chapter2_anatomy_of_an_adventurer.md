@@ -44,9 +44,9 @@ Each Ancestry will have two options for a **Natural Aspect Advancement** specifi
 
 Next, record the size and size rating of the ancestry. When adding senses to the sheet, some ancestries will either have options for a given sense or have an extra sense to add. You can review the senses in the section after Ancestries.
 
-    Ingram Wolfsbane is a proud dwarf. Faced with the choice between Endurance or Resolve as their natural aspect advancement, lets go with Endurance to make them extra hardy. We'll find the Endurance aspect on the character sheet and increase it from its starting rating of 1 to 2. 
-    
-    Next, we'll enter Average under the Size section and 4 under the Size Rating section. Under Sense Rating, we'll put 3. Now as we get to the Senses themselves, we have another choice: We can either give this dwarf Common Sight or Dark Sight. We'll choose Common Sight for now and add Common Hearing.
+>Ingram Wolfsbane is a proud dwarf. Faced with the choice between Endurance or Resolve as their natural aspect advancement, lets go with Endurance to make them extra hardy. We'll find the Endurance aspect on the character sheet and increase it from its starting rating of 1 to 2. 
+>    
+>Next, we'll enter Average under the Size section and 4 under the Size Rating section. Under Sense Rating, we'll put 3. Now as we get to the Senses themselves, we have another choice: We can either give this dwarf Common Sight or Dark Sight. We'll choose Common Sight for now and add Common Hearing.
 
 ### Ancestries
 ___
@@ -167,7 +167,7 @@ Traits take the form of a word or a phrase used to describe a character's affini
 
 When a character invokes a trait, they gain one extra die of enhancement whenever a situation incorporates or tests that trait. However the Test must somehow incorporate that trait. Being physically strong has little influence in a game of wits, after all.
 
-    Ingram Wolfsbane's traits are Strong (Strength) and Courageous (Resolve). Ingram's Strong trait can be invoked whenever a Test involves a feat of strength. Her Courageous trait in turn can be invoked whenever a Test involves a feat of resolve against fear.   
+>Ingram Wolfsbane's traits are Strong (Strength) and Courageous (Resolve). Ingram's Strong trait can be invoked whenever a Test involves a feat of strength. Her Courageous trait in turn can be invoked whenever a Test involves a feat of resolve against fear.   
 
 ### Virtues
 A character's virtues form the guiding stars of their journey. They are themes, concepts, or philosophies they choose to embody which can both help or test their resolve. Like Traits, Virtues are represented by a word or phrase which can be invoked to provide one die of Enhancement towards a given Test. However, Virtues can only enhance Tests that invoke a character's Resolve.
@@ -183,9 +183,9 @@ One way to come up with a virtue is to find words that can be placed at the end 
 | I am a champion of... | People who cannot defend themselves |
 | I will protect...     | My family                           |
 
-    Ingram Wolfsbane values courage and defending the weak. Therefore under the Virtues section of their character sheet, Ingram will have:
-    - I believe in... being courageous
-    - I am a champion... of the weak
+>Ingram Wolfsbane values courage and defending the weak. Therefore under the Virtues section of their character sheet, Ingram will have:
+>    - I believe in... being courageous
+>    - I am a champion... of the weak
 
 
 ### Troubles
@@ -205,9 +205,9 @@ A good way to come up with a trouble is to find words or things that can be plac
 | I fear...            | Fungus         |
 | I cannot resist...   | Gourmet Food   |
 
-    Ingram Wolfsbane has trouble with gambling and spiders. Under the Troubles section of their character sheet, Ingram will have:
-    - I cannot resist... gambling
-    - I fear... spiders
+>Ingram Wolfsbane has trouble with gambling and spiders. Under the Troubles section of their character sheet, Ingram will have:
+>    - I cannot resist... gambling
+>    - I fear... spiders
 
 ## Advance Aspects
 An aspect is a representation of a creature’s capabilities. There are eight aspects for a given character in Mythmakers: Strength, Finesse, Endurance, Insight, Wits, Resolve, Sense, and Wealth. Each aspect forms the base of a Test in order to overcome a challenge.
@@ -221,7 +221,7 @@ An aspect is a representation of a creature’s capabilities. There are eight as
 | Journeyman          | 3                   | 4               |
 | Master              | 4                   | 5               |
 
-    Ingram Wolfsbane is starting out as a Novice and begins with 1 Aspect Advancement. They've already gained a natural aspect advancement in Endurance from being a dwarf so we'll advance their Strength instead. With this advancement, we'll increase Ingram's Strength rating from 1 to 2.
+>Ingram Wolfsbane is starting out as a Novice and begins with 1 Aspect Advancement. They've already gained a natural aspect advancement in Endurance from being a dwarf so we'll advance their Strength instead. With this advancement, we'll increase Ingram's Strength rating from 1 to 2.
 
 ## Advance Professions
 Professions represent your character’s backgrounds and areas of expertise in a given trade before delving into the world of Mythmakers. 
@@ -242,7 +242,7 @@ There are fourteen trades that a character can find a Profession in upon making 
 
 Spend an advancement by picking a Trade that interests you and go to the Professions section of the character sheet. Under Trade, enter the Trade you've selected and then set the rating equal to the number of advancements you're spending on it. If you have more than once advancement available to you, you can choose to spread them across an additional number of Trades.
 
-    Now it's time to choose a Profession for Ingram Wolfsbane. From the Novice tier, we get 1 Profession Advancement. Lets make Ingram a mercenary. Under their Trade we'll put Military and under Profession we'll put Mercenary. Then we'll increase the Profession's rating from 0 to 1.
+>Now it's time to choose a Profession for Ingram Wolfsbane. From the Novice tier, we get 1 Profession Advancement. Lets make Ingram a mercenary. Under their Trade we'll put Military and under Profession we'll put Mercenary. Then we'll increase the Profession's rating from 0 to 1.
 
 ### Example Professions
 
@@ -390,7 +390,7 @@ Linguistics comprises the knowledge of languages beyond the common language shar
 
 Locate the Knowledge section on your character sheet and decide which areas of Knowledge you would like to advance. If you choose to put an advancement towards an Esoteric knowledge, fill the portion left of the rating with a specific knowledge of your choosing and increase its adjacent rating by 1. For advancements spent towards Linguistic knowledge, choose one of the default languages above or from the set provided by your Storyteller and write it in under the Languages section of the sheet and increase its rating by 1.
 
-    After reviewing the options for Knowledge, Lore might be a fitting choice for our would-be adventurer as a beginning knowledge. So we find the Common Knowledge section of the character sheet and increase the rating of Lore by 1.
+>After reviewing the options for Knowledge, Lore might be a fitting choice for our would-be adventurer as a beginning knowledge. So we find the Common Knowledge section of the character sheet and increase the rating of Lore by 1.
 
 ## Advance Practices
 A practice in Mythmakers represents a specialized form of training or supernatural ability that a character can use to their advantage. There are two forms a practice can take: Martial or Supernatural.
@@ -425,7 +425,7 @@ Under Class, write Martial and then increase its rating from 0 to 1. Martial Pra
 | Conditioning            | Gain Enhancement equal to the rating of this Practice whenever a character has at least one rank in a specific Condition                                      |                                                                                           |
 | Environment Training    | Gain Enhancement equal to the rating of this Practice whenever a character makes an Action within the specified environment                                   | Grassland,  Forest, Tundra, Coast, Desert, Mountain, Swamp, City,  Underground, or Unique |
 
-    Ingram Wolfsbane has had some training what with being a mercenary and all. So under the Practices section, lets give them some Martial Training. Lets choose Slash as a specialization and use the advancement to give it a rating of 1.
+>Ingram Wolfsbane has had some training what with being a mercenary and all. So under the Practices section, lets give them some Martial Training. Lets choose Slash as a specialization and use the advancement to give it a rating of 1.
 
 ### **Supernatural Practices**
 Within the world of Mythmakers, there are those who are capable of performing wondrous feats. Those who can manifest their will upon the mundane world do so through their supernatural practice. A supernatural practice has two components: an intent and a form. An intent is a special verb that describes how a given supernatural power is being used and the form describes what that power is affecting. Together, they create a phrase indicating what someone can do with their supernatural powers.
@@ -493,14 +493,14 @@ Characters with access to a mystical practice are tried to a bastion of power lo
 **When choosing to play a mystical character**, write down Mystical under Class in the Practice section of the character sheet. Then set the value under Resources to be double the starting rating of the mystical practice.
 ___
 
-    Lets pretend Ingram Wolfsbane has some kind of supernatural gift instead of martial training. Perhaps they are a chosen paladin to a dwarf deity. First we need to choose the practice associated with this divine pact. Lets go with Create Fire as our supernatural practice. Then under specialization, we write Devotional before giving the practice a rating of 1. However, Devotional practices also gain the benefit of a Resource from their boon so the value under Resource becomes 2.
+>Lets pretend Ingram Wolfsbane has some kind of supernatural gift instead of martial training. Perhaps they are a chosen paladin to a dwarf deity. First we need to choose the practice associated with this divine pact. Lets go with Create Fire as our supernatural practice. Then under specialization, we write Devotional before giving the practice a rating of 1. However, Devotional practices also gain the benefit of a Resource from their boon so the value under Resource becomes 2.
 
 ## Choose Starting Equipment
 Now it is time to determine the character’s starting Equipment. A new character must choose their starting **Weapons**, **Armor Set**, **Apparel**, **Starting Pack**, and **Trinket**.
 
 When picking out a given piece of equipment or item, you'll want to take note of its *market value*. A character can only purchase an item when its market value is less than or equal to their Wealth rating. The market value of an item is determined by two factors: the general rarity of the item and its quality. An item's rarity will be listed on its respective table meaning the quality of the item will become your wealth rating minus the item's rarity.
 
-    If you have a starting Wealth of 3 and you wish to buy an item with Rarity 2, then the maximum quality that item can be is 1.
+>If you have a starting Wealth of 3 and you wish to buy an item with Rarity 2, then the maximum quality that item can be is 1.
 
 **When you get to this section**, locate the row that corresponds to your character's starting experience to find your character's Starting Wealth. If you haven't used any aspect advancements yet, you can spend them towards improving your wealth rating. Then review each of the following sections and follow the instructions for selecting your character's starting gear.
 
@@ -522,16 +522,16 @@ When choosing a character’s starting weapon, a player has the following option
 
 **When you get to this step**, choose one of the starting sets above and then find corresponding weapons below to match the set. Then record the details into the Weapons section of your character sheet. For ranged weapons, you'll record both the ranged weapon and the ammunition.
 
-    Ingram Wolfsbane has Martial Training in slashing weapons so we'll want to find a weapon that can perform that weapon action. A bastard sword fits this critera well enough so we'll copy the corresponding details for the sword into the Weapon's section of the character sheet. Ingram's Wealth is 2 and the rarity of the entry is 1 so the quality of the bastard sword will be 1. It's a shoddy thing to start with, but surely a fortuitous quest can pay for an upgrade.
-
-    We also get access to a shield. With Ingram's Wealth of 2, we can only really afford the first basic wooden shield. So we'll copy the relevant details into the Shield section to finish this part off.
+>Ingram Wolfsbane has Martial Training in slashing weapons so we'll want to find a weapon that can perform that weapon action. A bastard sword fits this critera well enough so we'll copy the corresponding details for the sword into the Weapon's section of the character sheet. Ingram's Wealth is 2 and the rarity of the entry is 1 so the quality of the bastard sword will be 1. It's a shoddy thing to start with, but surely a fortuitous quest can pay for an upgrade.
+>
+>We also get access to a shield. With Ingram's Wealth of 2, we can only really afford the first basic wooden shield. So we'll copy the relevant details into the Shield section to finish this part off.
 
 #### **Melee Weapons**
 Light weapons are weapons that can only be wielded in one hand whereas Heavy weapons require both hands. Versatile weapons fall in the middle where less strength is required to wield them in both hands but where more strength is required to wield it in one.
 
 The Size rating of a weapon indicates the minimum Strength aspect rating required in order to use a weapon’s size rating as Enhancement towards either Weapon actions or resisting them. A character with less strength than the required amount can still wield it but does not receive this benefit.
 
-    A size rating such as 1/2 means that the weapon has an effective size rating of 1 when wielded in one hand and 2 when wielded in two hands.
+>A size rating such as 1/2 means that the weapon has an effective size rating of 1 when wielded in one hand and 2 when wielded in two hands.
 
 | Type      | Material              | Weapon        | Size Rating | Rarity | S   | P   | B   |
 | --------- | --------------------- | ------------- | ----------- | ------ | --- | --- | --- |
@@ -605,7 +605,7 @@ Next choose an armor set for the character to begin playing in. The key elements
 
 **When you get to this step**, peruse the available armor sets below and pick one that stands out to you. Once you've chosen an armor set, copy down the various elements into the Armor Set section of your character sheet. For the quality rating of the armor set, take your Wealth aspect and subtract the rarity of the armor set.
 
-    Ingram Wolfsbane is a front line fighter who will probably be taking their fair share of blows when push comes to shove. With their Wealth of 2, an Iron Breastplate makes the most sense for them. So we'll find the entry for Iron Breastplate on the table below and record the entry onto the Armor Set section of the character sheet. Ingram's Wealth is 2 and the armor's rarity is 1 so the quality of the armor set will start at 1.
+>Ingram Wolfsbane is a front line fighter who will probably be taking their fair share of blows when push comes to shove. With their Wealth of 2, an Iron Breastplate makes the most sense for them. So we'll find the entry for Iron Breastplate on the table below and record the entry onto the Armor Set section of the character sheet. Ingram's Wealth is 2 and the armor's rarity is 1 so the quality of the armor set will start at 1.
 
 | Material    | Natural Resistances    | Armor Type  | Armor Rating | Noise | Rarity | S Vuln. | P Vuln. | B Vuln |
 | ----------- | ---------------------- | ----------- | ------------ | ----- | ------ | ------- | ------- | ------ |
@@ -635,7 +635,7 @@ Apparel describes what a given character is wearing that does not contribute tow
 
 **When you get to this step**, you are at liberty to describe the items your character is wearing. Jewelry or other equippable trinkets are listed here as well.
 
-    Ingram Wolfsbane's apparel consists of a broad sunhat, roughed up pants, and a dark tan doublet. They also wear a set of earrings on each ear.
+>Ingram Wolfsbane's apparel consists of a broad sunhat, roughed up pants, and a dark tan doublet. They also wear a set of earrings on each ear.
 
 ### Determine a Starting Pack
 Starting Packs are composed of goods to quickly get an adventurer on their way. In Mythmakers, a character's inventory consists of two parts: a pack and the held items.
@@ -644,11 +644,11 @@ Packs are containers that a character or creature can equipt in order to carry i
 
 Held items are just that: Items that have a size, rarity, and quality rating. However, the size of an item cannot surpass the size rating of the pack its inside.
 
-    A standard adventuring backpack has size 3 and capacity 8. It can hold up to eight size 1 items or four size 2 items or some alternative variations. But it cannot carry an item with size 4.
+>A standard adventuring backpack has size 3 and capacity 8. It can hold up to eight size 1 items or four size 2 items or some alternative variations. But it cannot carry an item with size 4.
 
 **When you get to this step**, peruse the packs below and pick one that stands out to you. Once you've chosen a pack, copy the various details over to the corresponding section of your character sheet. For the quality ratings of the pack itself and the items within it, take your Wealth aspect and subtract the rarity each given item and enter the result into the adjacent quality rating field.
 
-    Ingram Wolfsbane's journey is just beginning and so starting them off with a Journeyman's Pack will give them the basic essentials for surviving the world of Mythmakers. We'll record all of the various values for a Journeyman's Pack into the corresponding Pack section of our character sheet along with the Inventory section below it.
+>Ingram Wolfsbane's journey is just beginning and so starting them off with a Journeyman's Pack will give them the basic essentials for surviving the world of Mythmakers. We'll record all of the various values for a Journeyman's Pack into the corresponding Pack section of our character sheet along with the Inventory section below it.
 
 ___
 **Journeyman's Pack**
@@ -850,6 +850,6 @@ Now comes the hardest task of any would-be adventurer... choosing a name for one
 
 From there, think about their appearance! There is an appearance section of the sheet where you can jot down key details such as hair or eye color. Or you can use the space to doodle what your character might look like instead.
 
-    With Ingram Wolfsbane, we sort of cheated and gave them a name from the start. But lets describe their appearance. Ingram is a stocky character with braided raven-black hair. Their eyes are like coals but their nose is rosy red. There is a scar on their left brow as well.
+>With Ingram Wolfsbane, we sort of cheated and gave them a name from the start. But lets describe their appearance. Ingram is a stocky character with braided raven-black hair. Their eyes are like coals but their nose is rosy red. There is a scar on their left brow as well.
 
 And just like that, you've got a character ready for play. If your character has a supernatural practice, it would be worth your time to review the Supernatural section next for more details on what it has to offer.
