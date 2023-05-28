@@ -5,61 +5,98 @@ Engagements are used to fast-paced or time critical events. While combat is the 
 
 ## Surprise
 
-At the beginning of an engagement, the Storyteller evaluates if a surprise is able to be granted. Most forms of surprise occur when one group in stealth begins the engagement by making a number of actions towards another group.
+At the beginning of an engagement, the Storyteller evaluates if a surprise is able to be granted. Most forms of surprise occur when one group in stealth chooses to start the engagement towards another oblivious group.
 
-When a surprise occurs, all creatures involved in the surprise gain one Engagement turn to perform Actions. All creatures on the receiving end of the surprise cannot perform Actions and are unable to muster resistance to any Contested Actions received on that turn. Once all creatures initiating the surprise have gone, all involved parties are added to the Turn Order.
+When a surprise occurs, all creatures involved in the surprise gain one Engagement turn to perform Engagement Actions. All creatures targeted by the surprise cannot perform Actions and can only muster as much resistance towards Contested Actions as their passive abilities and armor allow. Once all creatures initiating the surprise have gone, all involved parties are added to the Turn Order.
 
 
 ## The Turn Order
 
-After all surprises have been handled, all players and opposing forces involved in the engagement are sorted in descending order according to their Wits rating. During this stage, players can choose to bolster their Wits rating by spending vigor to increase their position in the order.
+After all surprises have been handled, all players and opposing forces involved in the engagement are sorted in descending order according to their Wits rating. In Mythmakers, the order of actions is determined by those who can mentally react the quickest.
 
-In a tie, the players have superiority, meaning that if a player and an opposing force earn the same result, then the player goes first. If two players tie, then they decide between themselves who goes first.
+During this stage, players can choose to bolster their Wits rating by spending vigor to increase their position in the order.
+
+In a tie, the player characters have superiority, meaning that if a player and an opposing force earn the same result, then the player goes first. If two players tie with one another, then they can decide between themselves who goes first.
 
 
 ## The Engagement Turn
 
-Engagement turns have their own special time span known as _moments_. In one moment, a creature can take three Free Actions, one Contested Action, and as many Move Actions as they are capable of taking.
+Engagement turns have their own special time span known as _moments_. A moment passes when everyone involved in the Engagement has had their chance to perform an Engagement Action. On a given Turn, a creature can make three Free Actions, make Contested Actions, and as many Move Actions as they are capable of taking.
 
 As mentioned in the Myths & Dice section, there are three kinds of Actions: **Free Actions**, **Contested Actions**, and **Move Actions**.
 
 ### Free Actions
 A Free Action is an action that has no obstacles associated with it and costs no vigor. In an Engagement, a given creature can only make three Free Actions per Turn.
 
-|Free Action|Description|
-|-|-|
-|Speak|Speaking within an engagement produces a short amount of dialogue that can be used to signal intent, speak with the opposing party, or relay fear at the sight of a big intimidating creature. When a creature uses a Free action to speak with another creature, the opposing creature may reply for free.|
-|Perceive|Perceiving allows a character either to make an Insight Test to overcome a hindering element of the environment or make an observation and acquire details about a present area, creature, or object. If they possess a relevant knowledge or profession, they can also make an Insight Test to learn any details or clues regarding a creature or situation.|
-|Rest|A rest allows a creature to reduce their Fatigue and Wounds by 1. This is negated if the character spends vigor, takes damage, makes a Contested Action, or a Move Action after a character takes this action|
-|Interact|Drawing a weapon, opening an unlocked door, or grabbing an object on one’s person are examples of free actions.|
-|Use Item|Using an item other than a weapon counts as a free action unless it is otherwise specified.|
+| Free Action | Description                                                                                                                                                                                                                                                                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Speak       | Speaking within an engagement produces a short amount of dialogue that can be used to signal intent, speak with the opposing party, or relay information to one's allies. When a creature uses a Free Action to speak with another creature, the receiving creature may reply for free without consuming their own Free Actions.                              |
+| Perceive    | Perceiving allows a character either to make an Insight Test to overcome a hindering element of the environment or make an observation and acquire details about a present area, creature, or object. If they possess a relevant knowledge or profession, they can also make an Insight Test to learn any details or clues regarding a creature or situation. |
+| Rest        | A rest allows a creature to increase their Recovery and Wounds by 1. This is negated if the character spends vigor, takes wounds, makes a Contested Action, or makes a Move Action during their turn.                                                                                                                                                         |
+| Interact    | Drawing a weapon, opening an unlocked door, or grabbing an object from a character's own pack                                                                                                                                                                                                                                                                 |
+| Use Item    | Using an item other than a weapon such as a potion or a specific tool.                                                                                                                                                                                                                                                                                        |
 
 ### Contested Actions
-Contested Actions are actions that are obstructed by some obstacle and require the use of a Test and possibly even vigor in order to overcome them. A given creature can only start one Contested Action per Engagement turn.Other creatures can then contribute towards the same Contest by making Assisting Actions.
+Contested Actions are actions that are obstructed by some obstacle and require the use of a Test and possibly even vigor in order to overcome them. A given creature can only start one Contested Action per Engagement turn.
 
-|Contested Action|Description|
+When a character starts a Contested Action against a target, they make a Test to generate pressure based on the action they are performing. Pressure is negated by a target's resistance towards that given type which can either be generated during the initial Test or during the target's Turn.
+
+When everyone in the Turn Order has gone, all pressure placed upon a character is accounted for with different types of pressure resulting in different effects.
+| Pressure | Effect |
 |-|-|
-|Weapon Action|Use a weapon to make one Weapon action to create physical pressure against another creature. The Weapon actions a character has available to them depends on the Weapon’s class (Melee, Ranged, Shield).|
-|Brace|Use an aspect to create physical resistance or condition resistance during your turn.|
-|Impair|Apply an Aspect to create conditional pressure.|
-|Maneuver|Apply an Aspect to perform a special maneuver|
-|Retreat|Signal a Retreat that other players can immediately respond to. This turns the Engagement into a Chase.|
-|Focus|Use a Supernatural Practice to create a supernatural effect by spending vigor or resources to accrue focus points.|
+|Physical Pressure|Subtracts from a character's Vitality rating. If a character's Vitality rating reaches 0, then any further pressure is subtracted from their vigor instead and must make Resolve Checks to stay conscious|
+|Natural Pressure|Mainly consists of Fire, Cold, and Acid. Fire Pressure, Cold Pressure, and Acid Pressure are accounted for individually. Seek their entries in the Impairments section for more information.|
+|Impairing Pressure|A character receives an impairment during their next Turn equal to the amount of Impairing Pressure they have received. The effects of this depends on the specific Impairment which can be found in the Impairments section|
 
-### Making a Contested Action
-Inflicting physical pressure, causing conditional pressure, or performing maneuvers are forms of  Contested Actions. Contested Actions occur whenever one side is creating **_pressure_** which forces the other side to answer with **_resistance_**. In an Engagement turn, a character can either start one Contested Action towards an uncontested target or _assist_ in another’s Contested Action.
+| Contested Action | Description                                                                                                                                                                                                                                                                                                                 |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Use Weapons      | Use held armaments to make Weapon actions equal to the number of held weapons in order to either create physical pressure towards another creature or create resistance against incoming pressure. The Weapon actions available character has available to them depends on the held Weapon’s class (Melee, Ranged, Shield). |
+| Impair           | Apply an Aspect to create conditional pressure.                                                                                                                                                                                                                                                                             |
+| Maneuver         | Apply an Aspect to perform a special maneuver                                                                                                                                                                                                                                                                               |
+| Retreat          | Signal a Retreat that other players can immediately respond to. This turns the Engagement into a Chase.                                                                                                                                                                                                                     |
+| Focus            | Use a Supernatural Practice to create a supernatural effect by spending vigor or resources to accrue focus points.                                                                                                                                                                                                          |
 
-There are three kinds of pressure a character can exert: **Physical Pressure**, **Natural Pressure**, or **Conditional Pressure**.
+#### Use Weapons
+A character can make a number of Weapon Actions equal to the number of held weapons in their hands. A swashbuckler wielding a rapier in one hand and a dagger in the other, for instance, can make two Weapon Actions. A berserker wielding just a single greatsword on the other hand would only be able to take make one Weapon action.
 
-**Physical Pressure** is created when a creature makes a Weapon Action or attempts to cause Piercing, Slashing, or Bludgeoning damage to a target. Physical Pressure is accumulated together meaning that if a character receives both Piercing Pressure and Slashing Pressure in a Round, the Pressure is summed together into a cumulative amount of Physical Pressure. Any pressure that a creature has received will convert into Wounds when the World Turns.
+##### **Standard Melee Weapon Actions**
+| Weapon Action | Invoked Aspect | Creates...          |
+| ------------- | -------------- | ------------------- |
+| Slash         | Strength       | Physical Pressure   |
+| Pierce        | Finesse        | Physical Pressure   |
+| Bludgeon      | Strength       | Physical Pressure   |
+| Throw         | Finesse        | Physical Pressure   |
+| Brace         | Strength       | Physical Resistance |
+| Parry         | Finesse        | Physical Resistance |
 
-**Natural Pressure** is created when a creature uses a natural element such as Fire, Cold, Acid, or Magic to damage a target. Each form of Natural Pressure is considered individually. This means that if a character receives Fire Pressure and Cold Pressure in a Round, they are evaluated separately. Any natural pressure a character has received will turn into ranks of a natural condition
+##### **Standard Ranged Weapon Actions**
+| Weapon Action | Invoked Aspect | Creates...        |
+| ------------- | -------------- | ----------------- |
+| Aim           | Finesse        | Base Range        |
+| Loose         | Finesse        | Physical Pressure |
 
-**Movement Pressure **is pressure designed to move a character from their current position to another position. If this 
+##### **Standard Shield Weapon Actions**
+| Weapon Action | Invoked Aspect | Creates...          |
+| ------------- | -------------- | ------------------- |
+| Bludgeon      | Strength       | Physical Pressure   |
+| Throw         | Finesse        | Physical Pressure   |
+| Brace         | Strength       | Physical Resistance |
+___
+Slash, Pierce, and Bludgeon are standard weapon actions that allow a character to invoke the aspect associated with them towards creating physical pressure. Physical pressure is potential damage that a target may receive at the end of the Engagement Turn when all pressure is added together. 
 
-**Conditional Pressure** is created when a creature makes an Action or uses an Aspect to cause another target to suffer a Physical or Mental Condition. Weapon Actions can also be used to create Conditional Pressure if they are used in an appropriate way such as using a club to try and inflict Stun pressure.
+If a character satisfies the Strength Requirement of a given weapon, they can use the weapon's size rating as Enhancement towards the Test. A weapon will state which of the three actions its capable of performing. It is possible to attempt make a weapon action a weapon is not normally capable of but doing so results in the Test being hindered by 1.
 
-If a creature receives any form of pressure before the turn order is through, then they will be unable to use Move actions until all of the pressure they’ve sustained has been fully resisted or negated.
+The target on the receiving end of this physical pressure must then make an Armor Test. If the target's Armor Set has a physical vulnerability to the Weapon Action being made against them, then the Armor Rating of the Armor Set is rolled to generate resistance. However, if the Armor Set does not have a physical vulnerability to the Weapon Action, then the target's Armor Rating acts as the de facto challenge rating. If the amount of physical pressure created is more than the resistance of the target, then the target is *under pressure* and cannot use their Move Actions to shift away until the pressure is negated either on their turn or by an ally.
+___
+Brace and Parry are standard weapon actions that allow a character to invoke the aspect associated with them to create physical resistance. If a character is under pressure, then they must use a Weapon Action to Brace or Parry to try and remove pressure if they wish to move around freely.
+___
+Throwing can be performed on any object. In order to throw a weapon or item at a target, the target must be within the throwers base range. The default base range for any creature is anything within the same zone. A creature's base range increases by 1 zone for every point that their Strength exceeds the object's size rating that they are trying to throw. However, if this condition is not satisfied, the creature can make a Contested Action to make a Strength Test with the object's size as the challenge rating. If they succeed, they can throw the object one additional zone away from where they are.
+
+Once a target is inside the base range, the creature making the throw makes a Finesse Test. If the creature's Strength Rating is less than the size rating of the object, then the Finesse Test is hindered by the object's size rating. However, if the throwing creature's Strength is equal or greater than the object's size, then no hindrance is applied. The type of Weapon Action being performed on the target is whatever makes sense in the moment. For example, if a mug is being thrown at a rowdy tavern patron, then Bludgeon applies. However, if someone is throwing a dart or a dagger, then Pierce applies.
+
+
+#### **Impair**
+The Impair Action can be used to 
 
 **Assists**
 

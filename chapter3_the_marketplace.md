@@ -36,7 +36,7 @@ An item’s quality rating represents both an item’s quality and its durabilit
 | Masterwork | 6       |
 
 ### Collections
-Within Mythmakers, some items such as rations and candles are grouped together into a single item. They still bear size and quality ratings but are affected by usage. This aspect is detailed further in any item section with a usage passage.
+Within Mythmakers, some items such as rations and candles are grouped together into a single item. They still bear size and quality ratings but are affected by **Usage**. This aspect is detailed further in any item section with a **Usage** passage.
 
 ## Market Value
 The market value serves as an approximation for how costly an item is to purchase using resources or a character’s Wealth aspect. An item’s market value is determined by taking the accumulated sum of its rarity rating and its quality rating. The lowest an item’s market value can possibly be is zero. If any modifiers cause the market value of an item to fall below zero, then its market value is set to zero.
@@ -88,6 +88,17 @@ To sell an item to the marketplace, a character first begins by determining the 
 
 However, if the market value of the item is equal or greater to their Wealth rating, then they can make a Market Test. In a Market Test, a character rolls a number of dice equal to the item's market value. Each success grants them a mark to their Wealth rating. When a character gains six marks towards Wealth, all marks are reset and a character's Wealth aspect increases by 1.
 
+## Buying or Selling in Bulk
+To determine the market value of buying or selling multiple items, all that needs to be done is to see where the sum falls based on the following ladder. Two items with a Market Value of 1 is valued the same as one item with a Market Value of 2.
+
+| Market Value (MV)                         | Equivalent |
+| ----------------------------------------- | ---------- |
+| MV 1 + MV 1                               | MV 2       |
+| MV2 + MV 2                                | MV 3       |
+| MV 3 + MV 3 + MV 3                        | MV 4       |
+| MV 4 + MV 4 + MV 4 + MV 4                 | MV 5       |
+| MV 5 + MV 5 + MV 5 + MV 5 + MV 5          | MV 6       |
+| MV N<sub>1</sub> + ... + MV N<sub>n</sub> | MV (N+1)   |
 
 ## Haggling
 When buying and selling goods and services from the marketplace, the market value can be influenced through haggling. Whether buying or selling, the interaction begins when the character starts a Resolve Contest with a vendor. After all, one side is trying to push the market value of an item and the other side is trying to resist.
@@ -104,10 +115,13 @@ When a player arrives at a vendor in the marketplace, they will be given a marke
 The result of the Insight Test is measured against the market value of the item itself. A result that is greater or equal to the actual market value of the item allows a character to determine whether a vendor is trying to upsell the item.
 
 ## Goods & Services
-The purpose of this section is to layout how the market values of certain groups of items are determined as well as provide reference tables for interested buyers. The usage passage in each section describes how that items quality is influenced during play.
+The purpose of this section is to layout how the market values of certain groups of items are determined as well as provide reference tables for interested buyers. The **Usage** passage in each section describes how that items quality is influenced during play.
 
 ### Weapons
 Weapons in the game have three additional properties compared to the average item: a Material and a Class. The material of a weapon is whatever material would be striking an opponent upon contact. A weapon’s Class determines both the size and how it's wielded. There are three Weapon Classes: Melee Weapons, Ranged Weapons, and Shields.
+
+### **Usage**
+When a weapon is used in an action and the action, when paired with vigor, results in a Minor or Major Blunder, then the quality rating of the weapon decreases by 1.
 
 #### **Standard Materials**
 | Material | Rarity        | Bonus                            |
@@ -208,6 +222,19 @@ The **Hold** action is a free action that allows a character to turn the Loose a
 | Wood     | Heavy Crossbow | 90ft/3 Zones | 3           | 3      |     |     | X   |
 | Wood     | Hand Crossbow  | 90ft/3 Zones | 2           | 3      |     |     | X   |
 
+
+##### Ammunition
+In order for ranged weapons to be used on a target, ammunition must be available in the character's quiver.
+
+##### **Usage**
+Whenever a ranged attack is made on a target, make a Quality Test. Roll dice equal to the quality rating of the ammunition. If the result is greater or equal to the current quality of the ammunition, then the quality remains the same. If the result is less than the ammunition's current quality rating, then decrease the quality by 1. When an ammunition's quality rating reaches 0, then the ranged weapon cannot be used to make ranged attacks.
+
+| Ammunition | Used By     | Size Rating | Rarity | S   | P   | B   |
+| ---------- | ----------- | ----------- | ------ | --- | --- | --- |
+| Rocks      | Slingstaffs | 1           | 0      |     |     | X   |
+| Arrows     | Bows        | 1           | 1      |     | X   |     |
+| Bolts      | Crossbows   | 1           | 2      |     | X   |     |
+
 #### **Shields**
 Shields are a hybrid between weapons and armor as they can be used for both offense and defense. To construct a shield, first choose a shield material and then determine its size rating. A shield’s size rating can serve as Enhancement whenever a character makes a Contested action to create physical resistance or as Enhancement to a Contest. Shields can also function as a melee weapon and get access to all of the Weapon Actions that entail so long as the shield fits the criteria for each Weapon Action.
 
@@ -275,7 +302,7 @@ Apparel consists of what a character wears beneath their armor. Clothing, jewelr
 The limits of Apparel are mostly consigned to the boundaries of common sense. For example, a character with two hands can really only wear two gloves unless magical mutations or supernatural trickery grants them a third.
 
 ### Packs
-Packs are containers that allow characters to carry more on their person than their arms, armor, and apparel. Backpacks, satchels, bags, coin purses, and even carts represent packs that facilitate the containment of items every adventurer needs to continue their journeys. Packs, apart from having a quality and a size of their own, also possess a capacity rating. This value represents the maximum cumulative size it can carry.
+Packs are containers that allow characters to carry more on their person in addition to their arms, armor, and apparel. Backpacks, satchels, bags, coin purses, and even carts represent packs that facilitate the containment of items every adventurer needs to continue their journeys. Packs, apart from having a quality and a size of their own, also possess a capacity rating. This value represents the maximum cumulative size it can carry.
 
 | Pack     | Capacity | Size Rating |
 | -------- | -------- | ----------- |
@@ -286,13 +313,13 @@ Packs are containers that allow characters to carry more on their person than th
 
 A pack cannot contain an item that is larger than its own size and characters cannot wear packs that are of equal or larger size than they are. However, you can certainly have packs inside other packs. In these instances, the pack’s Size rating is used rather than its capacity.
 
-#### Encumbrance
-A character can wear as many packs as is within reasonable boundaries of the imagination. If the Total Size of the items a character is carrying exceeds their Carrying Capacity, then the character’s Movement is hindered by the difference. In addition, any Encumbrance a character has also acts as Hindrance to all Tests based on Physical Aspects.
+#### **Encumbrance**
+A character can wear as many packs as is within reasonable boundaries of the imagination. If the Total Size of the items a character is carrying exceeds their Carrying Capacity, then the character’s Movement is hindered by the difference. In addition, any Encumbrance a character has also acts as Hindrance to all Tests based on Physical Aspects (Strength, Finesse).
 
 ### Lights
 The world of Mythmakers, while fantastical, is full of monsters and creatures that prowl in the night. For many creatures, darkness hinders wits and so light is needed. In order for a light source to be used, it must either be placed upon a surface or held in at least one hand.
 
-Items that provide lighting cast out a radiance which represents the number of squares of unhindered vision for creatures with normal vision. Each turn that a light source is lit or casts illumination, its quality decreases by 1. When a light source’s quality reaches zero, then it is used up and it no longer casts light.
+Items that provide lighting cast out a radiance which represents the number of zones illuminated by the light. Any zones within a light's radiance are treated as if they were in normal lighting.
 
 | Item           | Radiance | Size Rating | Rarity        |
 | -------------- | -------- | ----------- | ------------- |
@@ -302,16 +329,30 @@ Items that provide lighting cast out a radiance which represents the number of s
 | Tallow Candles | 1        | 1           | Common (0)    |
 | Matchsticks    | 1        | 0           | Common (0)    |
 
-### Rations
-This section describes rations which are used to stave off fatigue and restore vigor when they are used in the Exploration and Travel stages of gameplay.
+#### **Usage**
+Whenever a character within the group spends a Local action and advances the World Clock, make a Quality Test. Roll dice equal to the quality rating of the light. If the result is greater or equal to the current quality of the light, then the quality remains the same. If the result is less than the light's current quality rating, then decrease the quality by 1. When a light's quality rating reaches 0, then it no longer creates light.
 
-Traveling on the road can result in times where one does not have the luxury of a tavern or a home cooked meal to warm them against the nightly cold. For this purpose, many adventurers and journeymen carry around rations. In Mythmakers, rations represent a combination of a character’s food and water supply.
+### Rations & Meals
+Heroism and ideals may sound good on paper, but they fall short on an empty stomach. Meals keep the wheels of adventure turning by allowing characters to restore lost Recovery as a result of spending vigor. The most basic form of meals are rations which comprise of dried meats, jerky, and oats to sustain an adventurer while on the road. 
 
-Eating rations reduces a character’s Fatigue by 1 and increases their vigor equal to the quality of the rations. Upon using rations, the amount of rations decreases by 1. However, if a character goes a day without eating Rations, then their Fatigue increases by 1 the next day.
+| Item    | Size Rating | Rarity     |
+| ------- | ----------- | ---------- |
+| Rations | 1           | Common (0) |
+| Meals   | 1           | Varies     |
 
-Rations can be used as many times as the characters feel necessary but they can only be used during the Exploration or Travel stages during Rests, not during Engagements. When a ration’s Quality rating has been reduced to zero, it is used up.
+Meals, on the other hand, are items of food that can range from cooked stew, meats, preserved vegetables, and so on. Unlike rations, meals grant potentially greater benefits upon consumption. Meals require a cooking kit or access to a kitchen in order to be produced. See the Camping section in Chapter 6 for additional details.
+
+#### **Usage**
+Rations can only be used during a Short Rest, Long Rest, or during Travel. When a ration is used, increase the character's Recovery rating by 1 before vigor is regained and then make a Quality Test. Roll dice equal to the quality rating of the rations. If the result is greater or equal to the current quality of the rations, then the quality remains the same. If the result is less than the ration's current quality rating, then decrease the quality by 1. When a ration's quality rating reaches 0, then all rations have been consumed and its size rating becomes 0 as well.
+
+Meals function the same as rations except when a meal is used, its quality rating is used to increase Recovery before vigor is regained. A Quality Test is made afterwards.
 
 ### Adventuring Gear
+Adventuring gear describes ordinary items that are used on a daily basis throughout a given adventure. The description of the item describes what they are used for as well as any additional properties.
+
+#### **Usage**
+Unless an item's description states otherwise, whenever an item is used in an action and the action, when paired with vigor, results in a Minor or Major Blunder, the the quality rating of the item decreases by 1.
+
 | Item               | Size Rating | Rarity | Description                                                                                                                                                                                                                                                                                                     |
 | ------------------ | ----------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cooking Kit        | 2           | 0      | Pots, pans, and other utensils used to prepare food. If a character is making camp and also possesses a Nature, Profession, or Knowledge relating to cooking, then they can make an appropriate Test. The results of this Test can be used as Enhancement by the rest of the group during a Rest while camping. |
@@ -364,7 +405,9 @@ This section describes Mounts and the equipment associated with them. When purch
 | Mount Rations | 2              | 0      | Rations used to feed mounts. These can be substituted with normal Rations. Mounts must be fed at least once a day or else they will resist orders.                                         |
 
 ### Taverns
-Staying at a tavern can provide benefits in the forms of a place to rest and a level of quality care. The Market Value of a tavern indicates the level of Wealth a character must possess in order to stay one night at the establishment. In exchange for staying at the tavern, the character can use the Quality rating of the tavern as Enhancement on their Endurance Tests during a Rest.
+Staying at a tavern can provide benefits in the forms of a place to rest and a level of quality care. The Market Value of a tavern indicates the level of Wealth a character must possess in order to stay one night at the establishment. 
+
+Staying at a tavern allows a character to use the Quality rating of the tavern to increase their Recovery Rating. If this increases the Recovery rating beyond their normal maximum, then the character can keep the excess.
 
 ### Enchantments
 In addition to an item’s size and quality ratings, it is possible for items to be equipped with Enchantments as well. Enchantments imbue an object with supernatural abilities or properties and function independently of the object itself. Additionally, if the object’s own Quality rating reaches 0 and becomes broken, then the Enchantment will also cease to function until the object is restored.

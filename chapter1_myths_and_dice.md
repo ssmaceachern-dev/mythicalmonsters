@@ -139,10 +139,10 @@ However, there will often be times when invoking an aspect is not enough to clea
 To spend vigor, a character subtracts an amount from their vigor equal to or less than the rating of the aspect being utilized. For example, if a character with Strength 2 wanted to spend vigor towards a Test, then they would only be able to subtract a maximum of 2 from their vigor pool to roll 2 additional dice towards the Test.
 
 
-A character can spend as much vigor as they would like towards a Test; however, each usage of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2. At the same time, there is a cost to spending vigor in the form of *fatigue*.
+A character can spend as much vigor as they would like towards a Test; however, each **Usage** of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2. At the same time, there is a cost to spending vigor in the form of *fatigue*.
 
 ### Recovery
-A character begins play with a Recovery rating equal to half of their vigor rating (rounded down). Whenever a certain period of time passes, a character regains vigor equal to their Recovery rating. However when a character spends vigor towards a Test in any amount, their Recovery rating decreases by 1. 
+A character begins play with a maximum Recovery rating equal to half of their vigor rating (rounded down). Whenever a certain period of time passes, a character regains vigor equal to their Recovery rating. However when a character spends vigor towards a Test in any amount, their Recovery rating decreases by 1. 
 
 While their is a maximum value that a character's Recovery can be, there is no minimum meaning that it is possible to have a negative Recovery rating at a given point in time. When this occurs, a character loses vigor equal to the negative value. Restorying Recovery is achieved through Rests which are explained later on in this chapter.
 
@@ -215,7 +215,7 @@ Allows a character to move up to a certain number of miles equal to their Moveme
 Allows a character or a group of characters to establish a camp for the sake of rest, nourishment, and resisting the elements of the wild.
 
 ### **Long Rest**
-A character that makes a Long Rest can reduce their fatigue rating equal to their Recovery rating. The character can also make an Recovery Test to reduce their wounds equal to the number of successes achieved.
+A character that makes a Long Rest can increase their Recovery rating equal to their maximum Recovery value. The character can also make an Recovery Test to reduce their wounds equal to the number of successes achieved.
 
 ## **Local Actions**
 A local action is any action that spans a short amount of time or focuses on a locale. Generally, local actions consume around 15 to 60 minutes and upon completion add 1 tick to the World Clock. When any given member of the party has used 4 Local Actions and added 4 ticks to the World Clock, all ticks are reset and the World Clock advances by one period.
