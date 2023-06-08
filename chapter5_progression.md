@@ -6,51 +6,44 @@
 
 As characters engage in the world of Mythmakers, they will undoubtedly experience moments of growth both physically and mentally. In the game, this growth is measured in terms of **_marks_**.
 
-Characters gain a mark when they earn a Minor Success or a Major Success while spending vigor to use a Physical, Mental, or Supernatural aspect towards a challenge.
-
-Characters gain a mark when they apply either a Physical, Mental, or Supernatural aspect and spend vigor equal to their current rating in the aspect and earn a Minor Success or a Major Success. 
+Characters gain a mark when they invoke an aspect and then earn a Minor Success or a Major Success after spending vigor equal to their current rating in the aspect. 
 
 
 ---
 
->A character with a Strength of 2 needs to spend 2 vigor and either obtain a Minor Success, a Major Success, a Minor Blunder, or a Major Blunder in order to earn one mark.
->
->Alternatively, a character with the Magical Practice of Create Fire at a rating of 2 must spend 2 vigor towards Focus Power (on top of Ease that they earn from their practice) and obtain a Minor Success, a Major Success, a Minor Blunder, or a Major Blunder in order to earn one mark
+>A character with a Strength of 2 must spend 2 vigor and obtain a Minor or Major Success in order to earn one mark towards their Strength aspect.
 
 
 ---
 
-When a character has earned **six marks **in a given Aspect, then the Aspect increases by 1 and the amount of marks obtained reset to zero.
+When a character has earned six marks towards an aspect, then the aspect's rating increases by 1 and all marks are reset.
 
+## Improving Knowledge
+Improving knowledge can occur when a character's Common, Esoteric, or Linguistic knowledge is used as Enhancement towards a Test. If the dice rolled result in a Minor or Major Success and the number of dice rolled equal the applied Knowledge's rating, then the applied knowledge rating gains a mark. When a given Knowledge gains six marks, its rating increases by 1 and all marks are reset.
 
-## Improving Professions, Knowledge, or Practices
+However, a character's rating in a given Knowledge cannot exceed the rating of their Memory aspect. A character cannot receive marks unless their Memory rating is greater than the rating of the applied knowledge.
 
-Aspects are not the only things that can be improved with marks. A character can also gain marks towards improving Professional skill, Knowledge, or a Practice.
+## Improving Professions
+Within Mythmaker, Professions function as both Aspects and Knowledge. When a character makes a Profession Test to perform a Test, they can use vigor towards the Test and receive marks as with a normal Aspect. However, if the Profession is used as Enhancement towards a Memory Test, then it can also receive a mark. If the dice rolled result in a Minor or Major Success and the number of dice rolled equal the applied Profession's rating, then the character receives a mark towards that Profession.
 
-In order to earn a mark towards these characteristics, they must be incorporated into a Contested Action where vigor was spent. If the spent vigor results in a Minor Success, a Major Success, a Minor Blunder, or a Major Blunder then the character gains a mark towards those applied characteristics. This also means it is possible for a character to gain marks towards both aspects and characteristics at the same time.
+## Improving Martial Practices
+As a character engages in combat, the experience they receive can lead to the betterment of a Martial Practice if they possess a rating in one. If the dice rolled result in a Minor or Major Success and the number of dice rolled equal the applied Martial Practice's rating, then the applied Martial Practice gains a mark. When a given Martial Practice gains six marks, its rating increases by 1 and all marks are reset.
 
+However, a character's rating in a given Martial Practice cannot exceed the rating of their Finesse aspect. A character cannot receive marks unless their Finesse rating is greater than the rating of the applied knowledge.
 
----
+## Improving Supernatural Practices
 
->A character with an Insight of 3 and Knowledge (Folklore) 2 must spend at least 2 vigor towards applying Insight related to Myths and obtain a Minor Success, a Major Success, a Minor Blunder, or a Major Blunder.
->
->If only 2 vigor is spent and obtains a special result, then only the Knowledge (Folklore) can receive a mark. If three are rolled, then both Knowledge (Folklore) and the applied aspect receive a mark.
+A character with a rating in a Supernatural Practice gains the opportunity to obtain marks through the continued use of this practice.
 
-
----
-
-
-## Learning New Skills
-
-Characters can also _learn _new professions, new Knowledge, and new Practices that they did not possess before. In order to learn a new skill, a character must be in an environment where they can learn the new skill or knowledge.
-
-The character must then make an Insight Check. When a character has succeeded on six _consecutive_ Insight Checks in this fashion, they can increase their new Skill rating from 0 to 1. However, if any of the Insight Checks fail during this process, then they must start over.
-
-Characters with the skills that another is trying to train in can assist in this by applying their relevant Profession, Knowledge, or Practice towards the other’s roll.
+Creating a supernatural effect requires defining its four attributes: Power, Area, Range, and Duration. When a character spends vigor towards the Power aspect of an effect and obtains a Minor or Major success, they earn a mark towards that Supernatural Practice.
 
 
 ## Obtaining Mastery
 
-When an Aspect, Profession, Knowledge, or Practice manages to get enough Marks to surpass a rating of 6, it gains a rank of Mastery. A rank of Mastery allows a character to gain Ease towards that respective characteristic equal to the rank of Mastery. When a character gains a rank in this fashion, the marks for that characteristic reset and then the character must earn a number of marks equal to their rating plus the ranks of Mastery they possess in it.
+When an aspect, knowledge, profession, or practice rating reaches the maximum value of 6, any further marks go towards achieving a Mastery in that rating. A rank of Mastery allows a character to gain Ease towards Tests that use the rating equal to the rank of Mastery. 
 
-For example, if a character had 2 ranks of Mastery in their Strength Aspect, then every time they used the Strength Aspect, they would get 2 Ease (or 2 automatic successes) towards performing the Action.
+When a character gains a rank in this fashion, the marks for that rating reset like normal but the rating remains at 6. Instead, a diamond adjacent to the aspect is filled to represent the character's ascent into mastering an ability.
+
+The highest mastery a given aspect can achieve is six diamonds.
+
+>A character with Strength 6 obtains the sixth mark they needed to increase the rating. They remove all marks and fill in a diamond. Now whenever they make a Test using Strength, they gain 1 Ease automatically.

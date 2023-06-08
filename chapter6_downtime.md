@@ -1,62 +1,80 @@
 
 # Downtime
 
-After the characters have returned from their adventure, the Storyteller may provide Downtime to the players to do with as they wish. In Downtime, the rules of the game relax and the focus becomes the individual activities of the characters outside the scope of the usual adventure. This section covers some activities characters can perform during their own Downtime.
+After the characters have returned from their adventure, the Storyteller may provide Downtime to the players to do with as they wish. In Downtime, the rules of the game relax and the focus becomes the individual activities of the characters outside the scope of the usual adventure. 
+
+There are two kinds of Downtime Actions a character can perform: **Daily Actions** and **Weekly Actions**. As so named, Daily Actions take one day to complete and Weekly Actions take a week. This section describes a number Downtime Actions a character can take that can be either Daily or Weekly Actions.
 
 
 ## Training
 
-During downtime, characters can choose to spend their time honing their Aspects, Professions, Knowledge, or Practices. In order to gain the benefits of training, a character must spend at least one week fully concentrated on the task and must have the means and materials to improve the ability being trained. After one week of training, a character gains one Ease towards improving at the ability of their choice. Once this Ease has been gained, the character can either make a **Test **using a number of dice equal to their rating using this Ease or they can save the Ease for the following week.
+During downtime, characters can choose to spend their time training their ability in an aspect, profession, knowledge, or practice they currently possess a rating in. Training cannot be used towards an ability a character does not have a rating in. Training can only target one ability at a given time.
 
-If a character decides to take the Test, then they must earn a Minor Success, a Major Success, a Minor Blunder, or a Major Blunder. Ease is then applied to the roll and replaces any Blunders with successes as if the character had rolled a 5 instead. Ease used in this fashion is lost if the roll is anything other than a Major or Minor.
+### **Daily Action**
+When a character spends a Daily Action towards Training, they gain the option to make a Training Test. To make a Training Test, the character rolls a number of dice equal to the rating of the aspect, profession, knowledge, or practice they are trying to train. If the result is a Minor or Major Success, then the character obtains a mark. Any other result causes the Training attempt to fail.
 
-However, if a character decides not to make a Test and to instead hold onto their Ease from training, they can opt to spend the Ease instead towards acquiring a rank outright. Once a character has acquired enough Ease equal to the rating of the Aspect being trained, they can spend the Ease altogether and earn a Mark.
+However, a character can opt to pass on the Training Test instead. When this option is taken, the character receives one Ease towards their next Training Test. If the character's next Training Test still fails even with Ease, then the Ease is lost and the character must start the attempt over.
 
-Once a character has earned a Mark, all Ease acquired from training is reset. 
+A character will continue to accumulate Ease for each Daily Action spent towards Training without making a Training Test. Once a character has obtained enough Ease to equal the rating of the ability, all Ease obtained is reset and the character gains a mark in that trained ability.
+
+### **Weekly Action**
+A character obtains Ease towards a Training Test for every day of the week. Any Ease that isn't spent towards obtaining a Mark carries over into the next Training Test.
 
 
----
+___
+## Learning a New Skill
 
->A character spending a week of training Strength 2 gains one Ease at the end of that week. They can then decide to spend the Ease towards a Strength Test or hold onto the Ease for another week.
->
->If they choose to make a Test, they must roll 2 dice and earn a Minor Success, Major Success, Minor Blunder, or Major Blunder. The one Ease is then used to convert one Blunder into one Success for the sake of achieving this. If the character manages to earn one of the special rolls, then they gain a Mark towards Strength and all Ease is reset. Upon failing however, all Ease is reset and the character must spend another week training.
->
->If the character decides to wait another week and gain another point of Ease though, they can spend the 2 Ease saved towards automatically earning a Mark in Strength instead.
+Characters can spend Downtime Actions towards learning skills, professions, knowledge, or practices they do not possess a rating in. In order to learn a new skill, the character must possess teaching material or have access to a mentor who can teach them.
 
+### **Daily Action**
+When a character spends a Daily Action towards Learning a new skill, they gain the ability to make an Insight Check. A Check requires only one success to pass. When a character has succeeded on this Check, they gain one Mark towards their new skill.
+
+When a character has succeeded on six _consecutive_ Insight Checks in this fashion, they can increase their new skill's rating from 0 to 1. However, if they fail an Insight Check at any point, then all marks obtained thus far are reset.
+
+### **Weekly Action**
+A character that spends a Weekly Action towards learning a new skill can increase their rating in the new skill from 0 to 1 once the week has ended.
 
 ---
 
 
 ## Mentoring
+Mentoring allows characters who possess a rating in a given ability to share their knowledge with willing pupils. In essence, this allows one character to teach one or more characters in their attempts at learning a new skill or training one they already possess.
 
-Characters can also choose to assist characters training in Downtime by providing mentorship in the relevant Aspects, Professions, Knowledge, or Practices. In order for a character to mentor another, they must satisfy two conditions: They must possess a rating in the associated ability equal to or greater to the character receiving the mentorship and they must succeed on an Insight Check after a week of mentoring the characters in question.
+In order for a character to be a mentor, they must possess a rating in a skill or aspect greater than whoever they are teaching.
 
-If the mentoring character succeeds on the Insight Check, then the mentored character gains an additional point of Ease towards their training. However, if the mentoring character fails, then they provide a point of Hindrance to the mentored character. This Hindrance only lasts for the week and does not affect the mentored character’s accumulated Ease.
+### **Daily Action**
+A character who spends a Daily Action mentoring another must make a Resolve Test. Each success obtained in the Resolve Test can be added towards another character's Training Test when improving an ability or Insight Check when learning a new skill.
 
+If the mentor uses a number of dice equal to their Resolve rating and gains a Minor or Major success as a result of this test, then they gain a mark towards Resolve.
 
----
+### **Weekly Action**
+Characters who are being mentored gain Ease towards their Training Tests or Learning Tests equal to the Resolve of the mentoring character. If a character earns any amount of marks while being mentored, then the mentoring character gains one mark in Resolve.
 
->Consider a case where a Mentor with Strength 3 Insight 1 is mentoring another character with  Strength 2. After one week has passed, the mentored character gains one Ease. The Mentor must then make an Insight Check and earn one success.
->
->If the Mentor succeeds on the Insight Check, then the mentored character gains an additional point of Ease and would be able to spend it on a Mark. However, if the Mentor fails, then the mentored character gains Hindrance for that week and wouldn’t be able to get the Mark until after another week of training.
+\*If a mentored character gains enough marks to advance a rating such that the rating matches the mentoring character's rating, then the mentoring character also gains a mark in that skill.
 
+___
 
----
+## Working a Profession
 
+Characters who possess a rating in a profession can choose to spend their Downtime working their trade in an attempt to earn extra Wealth. In order to obtain Wealth, a character requires a rating in a given profession as well as a workplace willing to hire them and pay them for their time.
 
-## Working
+### **Daily Action**
+A character begins work by making a Profession Test. Each success obtained during this Test increases the Market Value of their service by 1. Once this action is completed, a character takes the total Market Value accumulated and makes a Market Test as if they were selling to the marketplace. See the Marketplace section for details on selling to the Marketplace.
 
-Characters looking to improve their Wealth Aspect can choose to work their Profession during Downtime. Characters that spend a week working in a profession they have a rating in can make a **Profession Test. **Any successes earned from this test carry on to the next week and are cumulative. Once a character has earned more successes than their Wealth rating, their Wealth rating increases by 1 and all successes earned thus far are reset.
+### **Weekly Action**
+A character that spends a Weekly Action towards Working a Profession gains Ease towards the Market Test equal to their Profession's rating. The character than makes a Profession Test. Each success obtained during this Test increases the Market Value of their service by 1. Once this action is completed, a character takes the total Market Value accumulated and makes a Market Test as if they were selling to the marketplace. See the Marketplace section for details on selling to the Marketplace.
+___
 
+## Investigating
+Downtime may come either between adventures or even directly in the middle of one. Characters interested in gaining more information can spend their Downtime Actions investigating leads or obtaining information now made available to them.
 
-## Researching
+The player describes the kind of information they wish to pursue and the Storyteller determines the challeneges associated with the inquiry and whether certain moves could be condensed into Daily Actions or must be stretched across an entire Weekly Action.
 
-Downtime is also the perfect time to research mysteries or intriguing discoveries made over the course of the previous adventure. Characters are at liberty to move around in the setting and apply their Aspects and Knowledge where they can serve to illuminate whatever ails their curiosity. Any traveling or expenses are handled as they would be during normal play.
-
+___
 
 ## Crafting
 
-Crafting allows for the players and their characters to create their own means of supply. There are three requirements for crafting any item within the game: **Materials**, a rating in a relevant **Profession**, and a **Toolkit**.
+Crafting allows for the the characters to create their gear and items. There are three requirements for crafting any item within the game: **Materials**, a rating in a relevant **Profession**, and a **Toolkit**.
 
 The **_Materials_** serve as the material components of the item. For most items, there is one core material with any others simply being auxiliary or to embellish the item with finer details.
 
@@ -64,10 +82,10 @@ To craft an item though, one needs knowledge and experience in a **_Profession_*
 
 And finally, a **_Toolkit_** is needed to craft the item itself. For blades, a blacksmithing toolkit or a forge is required. For making potions, an alchemy toolkit is needed. Toolkits themselves are items that can be made but may require materials of their own.
 
-Once all three requirements have been met, a character can begin crafting their very own items. To begin, the character determines the Rarity of the Material and the Rarity of the item type and together these form the Crafting challenge rating.
+Once all three requirements have been met, a character adds the rarity of the Material they are working with alongside the rarity of the item they are trying to make. If the item they are trying to make falls beyond the scope of items set in the Marketplace section, then the Storyteller can step in and determine an approximate rarity. This sum acts as the Crafting Challenge Rating.
 
-Each week that a character spends crafting allows them to make a **Profession Test** with each success contributing towards overcoming the Crafting CR. Vigor cannot be used towards this Test. These successes are cumulative meaning all of the successes earned from Profession Tests each week are added together  towards the matching the Crafting CR. Once the Crafting CR is met, the item’s quality increases by 1 and any excess successes contribute towards increasing the quality again.
+### **Daily Action**
+A character begins work by making a Profession Test. Each success obtained during this Test contributes towards overcoming the Crafting Challenge Rating of the item. If the result of the Test matches or exceeds the challenge rating, then the item obtains a mark. Once an item has obtained six marks, its quality rating increases from 0 to 1. All excess successes contribute towards the next Profession Test.
 
-However, if any of the Profession Tests result in Minor Blunders, then the item’s quality decreases by 1. If the result is a Major Blunder, then the materials become unusable.
-
-If a Minor Success, Major Success, Minor Blunder, or Major Blunder are achieved during the Profession Test, then the character gains a mark towards their applied Profession.
+### **Weekly Action**
+Each week that a character spends crafting allows them to make a **Profession Test** to craft the item. However, the crafter gains Ease equal to their Profession's rating multiplied by the number of days in the week.

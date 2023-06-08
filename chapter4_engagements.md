@@ -96,7 +96,44 @@ Once a target is inside the base range, the creature making the throw makes a Fi
 
 
 #### **Impair**
-The Impair Action can be used to 
+The Impair Action can be used to give a target an Impairment. Impairements are status conditions that can actively hinder a target without causing direct damage. To create Impairing Pressure, a player describes how they want to cause a specific impairment. Then the Storyteller answers with the kind of Test they would need to make.
+
+Generally, it can be assumed that physical impairments will require a physical aspect to be invoked. When the test is made, the target of the action makes a corresponding Test with a physical aspect of their choice.
+|Test|Resistance|
+|-|-|
+|Physical Aspect (Strength, Finesse)| Physical Resistance (Strength, Finesse)|
+|Mental Aspect (Resolve)|Mental Resistance (Resolve)|
+
+If the target receives excess pressure, then the target is considered *under pressure*. Unlike physical pressure, impairing pressure comes into play the moment it is created. This means that if a creature receives pressure towards the Stunned impairment, any subsequent Tests would be affected by the impairment as if they had ranks in it.
+
+##### **Physical Impairments**
+|Impairment|Description|Effect|
+|-|-|-|
+|Staggered|A staggered creature walks unsteadily or has lost their balance. A fully staggered creature can be considered prone|Actions that use physical aspects are hindered equal to the rank of this impairment. The creature is also unable to perform actions that require at least two hands.|
+|Stunned|A creature has received a concussive blow and is unable to react physically or mentally|Actions that use physical or mental aspects are hindered equal to the rank of this impairment. If a creature reaches the maximum rank of this Impairment, they become unconscious|
+|Restrained|A creature is being grappled or subdued in some way, shape, or form|Actions that use physical aspects are hindered equal to the rank of this impairment. If a creature is actively restraining another, then both creatures occupy the same area for the sake of determining targets. Creatures with the restrained impairment are unable to move|
+|Blinded|A creature's vision has been impaired or subjected to total darkness and cannot see|All actions that require sight are hindered equal to the rank of this impairment|
+|Deafened|A creature's sense of hearing has been muffled or damaged as a result of a loud sound|All actions that require hearing are hindered equal to the rank of this impairment|
+|Silenced|A creature is gagged or unable to speak properly due to interference|All actions that require the ability to speak are hindered equal to the rank of this impairment|
+|Poisoned|A creature has been subjected to a poison|The effects of a poison depend on the nature of the specific poison|
+|Diseased|A creature has been placed in contact with a disease|The effects of a disease depend on the nature of the specific disease|
+
+##### **Mental Impairments**
+|Impairment|Description|Effect|
+|-|-|-|
+|Troubled|A creature has been exposed to a personal trouble of theirs or has had a trouble creatued for them through supernatural means|All actions are hindered equal to the rank of this impairment|
+|Distracted|A creature's attention has been rapt by an entrancing pattern or been pulled by a grabbing display|All actions made towards a target other than the source of the distraction are hindered equal to the rank of this impairment|
+|Frightened|A creature has been intimidated or supernaturally frightened|All actions made against the source of fear are hindered equal to the rank of this impairment. A creature cannot move closer to the source of the fear.|
+|Charmed|A creature's disposition towards another has been altered or they have been supernaturally given an Ideal to follow|All actions that act contrary to the Ideal are hindered equal to the rank of this impairment|
+|Confused|A creature's wits are unable to process what is before them or have been supernaturally altered|All actions are hindered equal to the rank of this impairment|
+
+##### **Natural Impairments**
+|Impairment|Description|Effect|
+|-|-|-|
+|Burning|A creature is on fire|On the World’s Turn, a creature receives Wounds equal to the rank of this impairment and then this impairment's rank increases by one. The quality rating of a creature’s Armor Set and Apparel decreases by one for each Round this impairment remains on the creature.|
+|Freezing|A creature is exposed to cold pressure|On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment|
+|Suffocating|A creature is unable to breathe|On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment|
+|Petrifying|A creature is being turned into stone or some other materia|On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment|
 
 **Assists**
 
@@ -106,76 +143,47 @@ For example, if one character made a Slash Weapon Action towards a creature on o
 
 #### Maneuvers
 
-Maneuvers are special Contested Actions that allow characters to influence another creature’s positioning through the use of Aspects.
+Maneuvers are special Contested Actions that allow characters to influence another creature’s positioning through the use of Aspects. The effects of maneuvers happen immediately.
 
 **Shove**
 
-A Shove maneuver is used to push another creature or object a number of squares. In order to Shove a creature, you must make a **Strength Test** which can be resisted. For every success you earn, the target is shoved 5ft/1sq.
+A Shove maneuver is used to push another creature or object from one zone to another. In order to perform a shove, the shoving creature must make a **Strength Test** which can be resisted if the target is active. The target can then make a Test to resist using a physical aspect or supernatural ability. If the shoving creature earns more successes than the target, then the target is immediately shoved into one adjacent zone of the shoving creature's choosing. For each increment that the shoving creature surpasses the target's resistance, the shoving creature can choose to move the target one additional zone.
 
-**Trip**
-
-A Trip maneuver is used to cause another creature to either fall or waver in balance. In order to Trip a creature, you must make a **Finesse Test** which can be resisted by the target. If the target fails to resist the maneuver, then they gain ranks of the Staggered condition equal to the margin.
+If the creature or object has a larger size rating than the shoving creature, then the Test to shove is hindered by the number of size steps.
 
 **Charge**
 
-A Charge maneuver is used to give Enhancement to an action through the use of Movement along a surface. In order to make a Charge maneuver, a creature must move a number of squares equal to twice their size rating. This movement must be unimpeded and running through anything with movement resistance such as a Snare negates the charge.
+A Charge maneuver is used to give Enhancement to an action through the use of movement along a surface. In order to make a Charge, a creature uses their Move Actions to move through a number of connected zones. The character then gains Enhancement to their next Contested Action equal to the number of zones they have moved across to reach their target. However, any Contested Actions made against the charing creature also gain an equal amount of Enhancement.
 
-Once this has been accomplished, a creature can use their size rating as Enhancement towards an Action using a physical aspect.
+A character under pressure cannot make a Charge until the pressure has been fully resisted.
 
 **Plummet**
 
-A Plummet maneuver is used to give Enhancement to an action through falling. In order to use a Plummet, a character must fall a number of squares equal to their size rating.
+A Plummet maneuver is used to give Enhancement to an action through falling. In order to use a Plummet, a character must fall from one zone into another. 
 
-Once this has been accomplished, a creature can use their Size rating as Enhancement towards the character’s next Weapon Action.
+Once this has been accomplished, a creature can use their Size rating as Enhancement towards their next Contested Action.
 
 **Swap**
 
-A Swap maneuver is used when one character wants to switch places with another. Both characters must be within one Size Step of one another in order for a swap to occur. This consumes a Free action from both participants.
+A Swap maneuver is used when one character wants to switch places with another. Both characters must be within one Size Step of one another and must be within the same zone in order for a swap to occur. This consumes a Move Action from both participants. Any pressure that was on one character gets transferred to the character swapping in.
 
 ### Move Actions
-A Move Action allows a creature to move 5ft/1sq of distance. A character starts their turn with a number of Move Actions equal to their Size rating + Endurance rating. 
+A Move Action allows a creature to move from one zone to another. A zone is a defined area within a given location. For example, the image below depicts a tavern broken up into a number of zones. During your Turn, you can move a number of zones equal to your character’s Size rating plus their Endurance rating. A character can move beyond this allotted amount by spending one point of vigor and subtracing one point from Recovery for each additional zone traveled.
 
-A character can take more Move Actions but at a cost of one point of vigor per Move Action
+<div align="center">
+<img src="images/engagement_map_example.png" width="100%">
+</div>
 
-During your Turn, you can move a number of squares equal to your character’s Size rating plus their Endurance rating. A character can move beyond this allotted amount by spending one point of vigor for each additional square moved. If a character has not gained Fatigue on their Turn, then they gain one point of Fatigue from this action.
+|Move Action|Description|
+|-|-|
+|Move into Cover|Spend a Move Action to shift behind available cover in a given zone. The Storyteller will describe what is available to you and how much cover it provides. Generally, only one creature can occupy a source of cover unless otherwise stated. A cover's provided size rating acts as Enhancement towards any Armor Tests or Contested Actions made while in cover. However, melee weapon actions are hindered equal to the size rating of the cover while it is in use|
+|Leave Cover|A creature behind cover must spend a move action to move out of cover in a given zone. The creature loses the benefits of cover but their melee weapon actions are no longer hindered|
 
 ### Delay Turn
-Once a creature’s Turn has been reached in the Turn Order, they gain the ability to delay making a Contested Action. A delay allows a creature to suspend their turn until after another creature in the turn order has gone.
+A delay allows a creature to suspend their turn until after another creature in the turn order has gone. A delayed Turn can only be started after another creature has already performed their actions. The character's placement in the turn order resets once a new Turn has been started.
 
-Delaying a Turn can prove useful when coordinating efforts against particular foes or for observing how an Engagement unfolds before choosing to make an Action.
+Delaying a Turn can prove useful when coordinating efforts against particular foes or for observing how an Engagement unfolds before choosing to step in.
 
-### Resistance
-Where there is pressure, there is resistance. When a character or creature is on the receiving end of a Contested Action, they can respond by creating resistance. The resistance a character creates must match the type of pressure being exerted against them (Physical, Natural, or Conditional). However, if the Contested Action is assisted by another creature, then the resisting creature may apply vigor after the Assist has been rolled.
-
-When a creature creates Resistance, they choose an Action that matches the type of Pressure being exerted upon them. A physical Weapon Action can be resisted by a physical Weapon Action or through the use of a Physical Aspect.
-
-**Physical Resistance**
-
-Physical Pressure is made with the intent to cause physical damage and can only be responded to with Physical Resistance. This Physical Resistance can take the form of a complimentary Weapon Action or the use of a Physical Aspect. If the Physical Pressure on a target manages to exceed their Physical Resistance, then the target must make an Armor Test.
-
-**Armor Tests**
-
-Armor Tests allow a character receiving Physical Pressure to use their Armor to absorb some of the incoming damage. If the type of Physical Pressure being applied matches a Physical Vulnerability of an Armor Set, the target must make an Armor Test and roll a number of dice equal to the Armor Set’s Armor rating. Each success earned reduces the incoming Physical Pressure by 1.
-
-However, if the Physical Pressure applied does not match an Armor Set’s Physical Vulnerabilities, then the target does not need to roll any dice and can reduce Physical Pressure equal to the Armor Set’s Armor rating.
-
-An Armor Test can only be used once per type of Physical Pressure (Slashing, Piercing, Bludgeoning).
-
-**Natural Resistance**
-
-In a world of natural and supernatural forces, a character can be expected to face against more than blades. Certain Armor Sets are equipped with Natural Resistances based on the Materials they are made from or the Supernatural Power they’ve been enchanted with.
-
-An Armor Set’s Natural Resistances represents the number of successes it negates when struck by a given amount of Pressure of that matching Damage Type. If a character’s Armor Set does not have a Natural Resistance to the Damage Type tied with a Weapon Action, then the character has an effective Resistance of 0 towards that damage and may suffer a Condition based on the Damage Type.
-
-**Practices**
-
-Practices can also be utilized towards increasing Resistance on Tests. For example, the Parrying Speciality provides Enhancement towards Resistance when a Finesse Test is made. In this example, a character would be able to enhance their Finesse Test using a number of dice equal to their rating in the Parrying Speciality.
-
-**Cover**
-
-Characters can also take advantage of their environment and use surrounding objects as cover to increase their Resistance to incoming attacks. To use Cover, the Storyteller determines the appropriate amount of Cover and how much it hinders incoming attacks.
-
-Generally, most forms of cover will provide Enhancement towards Resistance equal to their Size rating.
 
 ### Retreating
 A Retreat is a special Action that a player can declare during an Engagement to signal an escape. When a player signals a Retreat, all other players in the Engagement can choose to participate in the Retreat or remain in the Engagement.
@@ -192,9 +200,9 @@ For example, if a character was successfully hit by a burning Torch during the R
 Once all Pressure has been applied, all Pressure generated in the Round is reset to zero.
 
 ## Recovery
-Once the World Turns, all active participants in the Engagement gain Recovery. A character regains vigor equal to their Recovery rating minus their current Fatigue.
+Once the World Turns, all active participants in the Engagement gain Recovery. A character regains vigor equal to their Recovery rating.
 
-Characters suffering from Conditions can make Endurance Tests and Resolve Tests to recover from Physical and Mental Conditions respectively. The amount of successes earned from a Test reduces the inflicted Condition’s rank by the achieved amount. 
+Characters suffering from Impairments can make Endurance Tests and Resolve Tests to recover from Physical and Mental Conditions respectively. The amount of successes earned from a Test reduces the inflicted Condition’s rank by the achieved amount. 
 
 Only one Physical Condition and one Mental Condition can be recovered in this fashion. For example, if a character gained the Staggered Condition and the Stunned Condition during a Round, they must choose which Condition they are going to apply their Endurance Test towards during Recovery. However, if a character is both Stunned and Distracted, then they can make both an Endurance Test and a Resolve Test during Recovery.
 
