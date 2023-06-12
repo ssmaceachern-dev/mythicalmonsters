@@ -1,5 +1,5 @@
 # The Natural World
-
+The purpose of this section is to explain portions of the natural world in relation to the game itself.
 
 ## Natural Damage
 
@@ -12,18 +12,17 @@ Natural Damage represents the range of natural damage types that can be found in
 **Acid** - Creatures that take Acid damage receive wounds equal to the level of Acid applied. If the level of Acid is more than a creature’s Armor Set’s Natural Resistance, then the creature selects a piece of the Armor Set and reduces its quality equal to the difference.
 
 
-## The Environment
+## Vision
 
-The world of Mythmakers is not always one basked in the light of day. Adventurers and would-be heroes can come to expect darkness and dangerous perils on their journey. This section covers how aspects of the Environment can affect play. 
+Light in Mythmaker is either illuminating or hindering depending on the creatures interacting with it. Fully Hindered indicates that any Test made during Daylight or Night for a given creature is hindered by 6. Torchlight or any light source that casts a radiance allows a creature with Common or Far Sight to act normally as long as they stay within the zones illuminated by the light.
 
+Actions made within an unlit zone are hindered by six. However, Actions made against creatures or objects within a lit zone do not suffer the same penalities as long as the creature performing them can influence the zone such as with ranged weapons or supernatural effects.
 
-### Vision
-
-A day in the world of Mythmakers is composed of six Turns. The first four of these Turns take place within broad daylight, but the last two are enveloped by darkness.
-
-The lighting in a scene can affect Actions taken by a creature depending on their vision. For example, a creature with Common Vision can see without obstacles in Daylight and Bright Light. However, in Dim Light and Darkness, performing Actions is indeed by the amount indicated in the table below unless the creature makes a **Wits Test **for the Turn. For each success a character earns from the Test, the Hindrance is lowered by 1. Any remaining hindrance is stacked against Actions performed by the creature on that Turn.
-
-If a character performs an Action against a creature in a differently lit square, then they must make the Wits Test against the hindrance of that square’s lighting.
+| Vision       | Daylight       | Night          |
+| ------------ | -------------- | -------------- |
+| Common Sight | --             | Fully Hindered |
+| Dark Sight   | Fully Hindered | --             |
+| Far Sight    | --             | Fully Hindered |
 
 
 ### Land
@@ -37,32 +36,47 @@ In each Land is a variety of obstacles that can obstruct movement, restrict visi
 
 Falling is one of the most common hazards associated with Perils. When a creature falls, the scene immediately transitions into an Engagement.
 
-Because Falling is a result of a natural force, any movement from falling takes place during the World’s Turn upon which **any falling creature moves 10 squares in the direction of gravity**.
+Because Falling is a result of a natural force, any movement from falling takes place during the World’s Turn upon which they descend one zone's worth of movement. If the creature descends into a zone with a floor, then they will receive physical pressure equal to the number of zones they moved between multiplied by their Size rating.
 
-A creature can fall a number of squares equal to their own Size rating before taking damage. For each additional square of movement that a creature falls beyond their own Size rating, they will receive one point of damage upon impact.
-
-An able creature can attempt to resist some of the fall damage by making a **Finesse Test**.
-
-
----
-
->An Average Sized (Size rating 4) creature is knocked off a ledge and begins Falling. Once the Order of Events has run its course, it becomes the World’s Turn and the creature falls 10ft/2sq.
->
->If the creature falls 20ft, then it takes 6 Bludgeoning damage once it collides with the ground. 
-
-
----
-
-
-## Hunger
-
-Traveling on the road can result in times where one does not have the luxury of a tavern or a home cooked meal to warm them against the nightly cold. For this purpose, many adventurers and journeymen carry around _rations_. In Mythmakers, rations represent a combination of a character’s food and water supply.
-
-Eating rations increases a character’s vigor equal to the Quality rating of the rations. Upon using rations, the quality of the rations decreases by 1. If a character goes a day without eating food or rations, then their Fatigue increases by 1 at the beginning of the next day.
+An able creature can attempt to resist some of the physical pressure by making a **Finesse Test**. If the physical pressure exerted is enough to surpass the falling creature's Wounds rating and remove all vigor afterwards immediately dies from the impact.
 
 
 ## Stealth 
 
-Stealth in Mythmakers is a game of one creature’s finesse versus another creature’s wits and awareness. Whenever a creature attempts to subtly perform an action, they must make a Finesse Test against the flat Wits rating of any nearby creatures before performing the action. If the Finesse Test is greater than the creature’s Wits ratings, then the character can make the relevant Test without arousing suspicion.
+Stealth in Mythmaker is a developing contest between the creatures in stealth and their quarry. For the purposes of describing how Stealth works, the creature in stealth will be referred to as a Rogue and the creature on the other side will be referred to as an Observer.
 
-However, if the results of the Finesse Test meet or fall below the creature’s Wits rating, then they gain a level of detection. There are three levels of detection: Wary, Alert, and Searching. Wary creatures are
+A Rogue begins Stealth by making a Finesse Test. The result of this Test acts as the creature's Stealth rating as they move around a location and shift between areas. During Stealth, a creature uses their Move Actions to shift from one location to another as if they were using Local Actions. 
+
+For example, the tavern below would serve as a Location that contains multiple areas within it.
+
+>A target the party is after has been discovered to be hiding somewhere within a tavern. A member of the party becomes a Rogue and makes a Finesse Test to begin stealth.
+
+
+
+<div align="center">
+<img src="images/engagement_map_example.png" width="100%">
+</div>
+
+
+If a Rogue enters a location that also contains other creatures, then their Stealth Test is measured against the flat Sense ratings of the creatures within the location.
+
+An Observer begins Stealth in the state *oblivious*. They are unaware of the Rogue and go about their rountines as normal. A Rogue in this situation is *undetected* and gains the following abilities:
+- An undetected Rogue gains the ability to start an Engagement and initiate a Surprise.
+- An undetected Rogue gains enhancement on the first Contested action they take equal to their current Stealth rating.
+
+A Rogue's actions while in stealth consume Move Actions. Recall that the Explore a Location action grants a character Move Actions equal to $Endurance + Size$. With these Move Actions you can perform the following Stealth Actions.
+
+|Stealth Action|Description|
+|-|-|
+|Move into Adjacent Area|Spend a Move Action while in Stealth to move from one Area to an adjacent Area|
+|Interact with Area|Spend a Move Action to Interact with an Object in the current Area. Make a new Stealth Test|
+|Hide|Spend a Move Action to take cover or move into an available hiding spot. Make a new Stealth Test against an Observer's Sense Test. If you succeed, then you can spend a Local Action to reduce the level of detection from Wary to Oblivious or you can spend a World Action to reduce the level of detection from Alert to Wary|
+
+### Stages of Detection
+|Awareness|Description|
+|-|-|
+|Oblivious|A stealthing creature can start an Engagement with a surprise. Stealthing creatures can use their Stealth rating as Enhancement on their next action if they start an Engagement|
+|Wary|A stealthing creature cannot start an Engagement with a surprise. The observing creatures are now aware of a potential presence nearby. Stealthing creatures can use their Stealth rating as Enhancement on their next action if they start an Engagement. The observing creatures can start a Detect Contest. The stealthing creature must invoke their Finesse rating while the observing creatures invoke their Sense rating. If the observing creatures succeed the Contest, they learn which zone|
+|Alert|A stealthing creature cannot start an Engagement with a surprise. Stealthing creatures cannot use their Stealth rating as Enhancement on their next action if they start an Engagement.|
+
+If multiple creatures are in stealth together, then all creatures must make a Finesse Test. The creature with the lowest result represents the group as the group moves around a location. If a Detect Contest is started, every creature in the group needs to make a Finesse Test with the lowest acting as the result against the Sense Tests of each member of the observing group.

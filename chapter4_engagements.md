@@ -42,16 +42,17 @@ Contested Actions are actions that are obstructed by some obstacle and require t
 When a character starts a Contested Action against a target, they make a Test to generate pressure based on the action they are performing. Pressure is negated by a target's resistance towards that given type which can either be generated during the initial Test or during the target's Turn.
 
 When everyone in the Turn Order has gone, all pressure placed upon a character is accounted for with different types of pressure resulting in different effects.
-| Pressure | Effect |
-|-|-|
-|Physical Pressure|Subtracts from a character's Vitality rating. If a character's Vitality rating reaches 0, then any further pressure is subtracted from their vigor instead and must make Resolve Checks to stay conscious|
-|Natural Pressure|Mainly consists of Fire, Cold, and Acid. Fire Pressure, Cold Pressure, and Acid Pressure are accounted for individually. Seek their entries in the Impairments section for more information.|
-|Impairing Pressure|A character receives an impairment during their next Turn equal to the amount of Impairing Pressure they have received. The effects of this depends on the specific Impairment which can be found in the Impairments section|
+| Pressure           | Effect                                                                                                                                                                                                                       |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Physical Pressure  | Subtracts from a character's Vitality rating. If a character's Vitality rating reaches 0, then any further pressure is subtracted from their vigor instead and must make Resolve Checks to stay conscious                    |
+| Natural Pressure   | Mainly consists of Fire, Cold, and Acid. Fire Pressure, Cold Pressure, and Acid Pressure are accounted for individually. Seek their entries in the Impairments section for more information.                                 |
+| Impairing Pressure | A character receives an impairment during their next Turn equal to the amount of Impairing Pressure they have received. The effects of this depends on the specific Impairment which can be found in the Impairments section |
 
 | Contested Action | Description                                                                                                                                                                                                                                                                                                                 |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Use Weapons      | Use held armaments to make Weapon actions equal to the number of held weapons in order to either create physical pressure towards another creature or create resistance against incoming pressure. The Weapon actions available character has available to them depends on the held Weapon’s class (Melee, Ranged, Shield). |
 | Impair           | Apply an Aspect to create conditional pressure.                                                                                                                                                                                                                                                                             |
+| Recover          | Apply an Aspect to reduce impairing pressure caused by an Impairment.                                                                                                                                                                                                                                                     |
 | Maneuver         | Apply an Aspect to perform a special maneuver                                                                                                                                                                                                                                                                               |
 | Retreat          | Signal a Retreat that other players can immediately respond to. This turns the Engagement into a Chase.                                                                                                                                                                                                                     |
 | Focus            | Use a Supernatural Practice to create a supernatural effect by spending vigor or resources to accrue focus points.                                                                                                                                                                                                          |
@@ -99,47 +100,59 @@ Once a target is inside the base range, the creature making the throw makes a Fi
 The Impair Action can be used to give a target an Impairment. Impairements are status conditions that can actively hinder a target without causing direct damage. To create Impairing Pressure, a player describes how they want to cause a specific impairment. Then the Storyteller answers with the kind of Test they would need to make.
 
 Generally, it can be assumed that physical impairments will require a physical aspect to be invoked. When the test is made, the target of the action makes a corresponding Test with a physical aspect of their choice.
-|Test|Resistance|
-|-|-|
-|Physical Aspect (Strength, Finesse)| Physical Resistance (Strength, Finesse)|
-|Mental Aspect (Resolve)|Mental Resistance (Resolve)|
+| Test                                | Resistance                              |
+| ----------------------------------- | --------------------------------------- |
+| Physical Aspect (Strength, Finesse) | Physical Resistance (Strength, Finesse) |
+| Mental Aspect (Resolve)             | Mental Resistance (Resolve)             |
 
 If the target receives excess pressure, then the target is considered *under pressure*. Unlike physical pressure, impairing pressure comes into play the moment it is created. This means that if a creature receives pressure towards the Stunned impairment, any subsequent Tests would be affected by the impairment as if they had ranks in it.
 
 ##### **Physical Impairments**
-|Impairment|Description|Effect|
-|-|-|-|
-|Staggered|A staggered creature walks unsteadily or has lost their balance. A fully staggered creature can be considered prone|Actions that use physical aspects are hindered equal to the rank of this impairment. The creature is also unable to perform actions that require at least two hands.|
-|Stunned|A creature has received a concussive blow and is unable to react physically or mentally|Actions that use physical or mental aspects are hindered equal to the rank of this impairment. If a creature reaches the maximum rank of this Impairment, they become unconscious|
-|Restrained|A creature is being grappled or subdued in some way, shape, or form|Actions that use physical aspects are hindered equal to the rank of this impairment. If a creature is actively restraining another, then both creatures occupy the same area for the sake of determining targets. Creatures with the restrained impairment are unable to move|
-|Blinded|A creature's vision has been impaired or subjected to total darkness and cannot see|All actions that require sight are hindered equal to the rank of this impairment|
-|Deafened|A creature's sense of hearing has been muffled or damaged as a result of a loud sound|All actions that require hearing are hindered equal to the rank of this impairment|
-|Silenced|A creature is gagged or unable to speak properly due to interference|All actions that require the ability to speak are hindered equal to the rank of this impairment|
-|Poisoned|A creature has been subjected to a poison|The effects of a poison depend on the nature of the specific poison|
-|Diseased|A creature has been placed in contact with a disease|The effects of a disease depend on the nature of the specific disease|
+| Impairment | Description                                                                                                         | Effect                                                                                                                                                                                                                                                                        |
+| ---------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Staggered  | A staggered creature walks unsteadily or has lost their balance. A fully staggered creature can be considered prone | Actions that use physical aspects are hindered equal to the rank of this impairment. The creature is also unable to perform actions that require at least two hands.                                                                                                          |
+| Stunned    | A creature has received a concussive blow and is unable to react physically or mentally                             | Actions that use physical or mental aspects are hindered equal to the rank of this impairment. If a creature reaches the maximum rank of this Impairment, they become unconscious                                                                                             |
+| Restrained | A creature is being grappled or subdued in some way, shape, or form                                                 | Actions that use physical aspects are hindered equal to the rank of this impairment. If a creature is actively restraining another, then both creatures occupy the same area for the sake of determining targets. Creatures with the restrained impairment are unable to move |
+| Blinded    | A creature's vision has been impaired or subjected to total darkness and cannot see                                 | All actions that require sight are hindered equal to the rank of this impairment                                                                                                                                                                                              |
+| Deafened   | A creature's sense of hearing has been muffled or damaged as a result of a loud sound                               | All actions that require hearing are hindered equal to the rank of this impairment                                                                                                                                                                                            |
+| Silenced   | A creature is gagged or unable to speak properly due to interference                                                | All actions that require the ability to speak are hindered equal to the rank of this impairment                                                                                                                                                                               |
+| Poisoned   | A creature has been subjected to a poison                                                                           | The effects of a poison depend on the nature of the specific poison                                                                                                                                                                                                           |
+| Diseased   | A creature has been placed in contact with a disease                                                                | The effects of a disease depend on the nature of the specific disease                                                                                                                                                                                                         |
 
 ##### **Mental Impairments**
-|Impairment|Description|Effect|
-|-|-|-|
-|Troubled|A creature has been exposed to a personal trouble of theirs or has had a trouble creatued for them through supernatural means|All actions are hindered equal to the rank of this impairment|
-|Distracted|A creature's attention has been rapt by an entrancing pattern or been pulled by a grabbing display|All actions made towards a target other than the source of the distraction are hindered equal to the rank of this impairment|
-|Frightened|A creature has been intimidated or supernaturally frightened|All actions made against the source of fear are hindered equal to the rank of this impairment. A creature cannot move closer to the source of the fear.|
-|Charmed|A creature's disposition towards another has been altered or they have been supernaturally given an Ideal to follow|All actions that act contrary to the Ideal are hindered equal to the rank of this impairment|
-|Confused|A creature's wits are unable to process what is before them or have been supernaturally altered|All actions are hindered equal to the rank of this impairment|
+| Impairment | Description                                                                                                                   | Effect                                                                                                                                                  |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Troubled   | A creature has been exposed to a personal trouble of theirs or has had a trouble creatued for them through supernatural means | All actions are hindered equal to the rank of this impairment                                                                                           |
+| Distracted | A creature's attention has been rapt by an entrancing pattern or been pulled by a grabbing display                            | All actions made towards a target other than the source of the distraction are hindered equal to the rank of this impairment                            |
+| Frightened | A creature has been intimidated or supernaturally frightened                                                                  | All actions made against the source of fear are hindered equal to the rank of this impairment. A creature cannot move closer to the source of the fear. |
+| Charmed    | A creature's disposition towards another has been altered or they have been supernaturally given an Ideal to follow           | All actions that act contrary to the Ideal are hindered equal to the rank of this impairment                                                            |
+| Confused   | A creature's wits are unable to process what is before them or have been supernaturally altered                               | All actions are hindered equal to the rank of this impairment                                                                                           |
 
 ##### **Natural Impairments**
-|Impairment|Description|Effect|
-|-|-|-|
-|Burning|A creature is on fire|On the World’s Turn, a creature receives Wounds equal to the rank of this impairment and then this impairment's rank increases by one. The quality rating of a creature’s Armor Set and Apparel decreases by one for each Round this impairment remains on the creature.|
-|Freezing|A creature is exposed to cold pressure|On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment|
-|Suffocating|A creature is unable to breathe|On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment|
-|Petrifying|A creature is being turned into stone or some other materia|On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment|
+| Impairment  | Description                                                 | Effect                                                                                                                                                                                                                                                                                          |
+| ----------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Burning     | A creature is on fire                                       | On the World’s Turn, a creature receives Wounds equal to the rank of this impairment and then this impairment's rank increases by one. The quality rating of a creature’s Armor Set and Apparel decreases by one for each Round this impairment remains on the creature.                        |
+| Freezing    | A creature is exposed to cold pressure                      | On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment |
+| Suffocating | A creature is unable to breathe                             | On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment |
+| Petrifying  | A creature is being turned into stone or some other materia | On the World’s Turn, a creature loses vigor equal to the rank of this impairment. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this impairment instead. Actions that use physical aspects are hindered equal to the rank of this impairment |
 
 **Assists**
 
 If a Contested Action was started by another player or creature during a Round in the Engagement, then another player or creature can contribute to the Contested Action by using their Turn to add to the side of the Contest they wish to assist with.
 
 For example, if one character made a Slash Weapon Action towards a creature on one Engagement turn and created 4 points of Physical Pressure and then another character on their turn made a Slash Weapon Action to create 2 additional points of Physical Pressure, then both would be accumulated together to make 6 points of Pressure.
+
+#### Recover
+A character that is receiving conditional pressure or possesses a rank of an Impairment can attempt to invoke an Aspect to reduce pressure. Each success obtained negates one point of impairing pressure or reduces the rank of an impairment by one but not both. Refer to the table below for which Aspects correspond to which kinds of Impairments.
+
+| Impairment          | Aspect    |
+| ------------------- | --------- |
+| Physical Impairment | Endurance |
+| Mental Impairment   | Resolve   |
+| Burning             | Finesse   |
+| Freezing            | Endurance |
+| Suffocating         | Endurance |
+| Petrifying          | Strength  |
 
 #### Maneuvers
 
@@ -174,10 +187,10 @@ A Move Action allows a creature to move from one zone to another. A zone is a de
 <img src="images/engagement_map_example.png" width="100%">
 </div>
 
-|Move Action|Description|
-|-|-|
-|Move into Cover|Spend a Move Action to shift behind available cover in a given zone. The Storyteller will describe what is available to you and how much cover it provides. Generally, only one creature can occupy a source of cover unless otherwise stated. A cover's provided size rating acts as Enhancement towards any Armor Tests or Contested Actions made while in cover. However, melee weapon actions are hindered equal to the size rating of the cover while it is in use|
-|Leave Cover|A creature behind cover must spend a move action to move out of cover in a given zone. The creature loses the benefits of cover but their melee weapon actions are no longer hindered|
+| Move Action     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Move into Cover | Spend a Move Action to shift behind available cover in a given zone. The Storyteller will describe what is available to you and how much cover it provides. Generally, only one creature can occupy a source of cover unless otherwise stated. A cover's provided size rating acts as Enhancement towards any Armor Tests or Contested Actions made while in cover. However, melee weapon actions are hindered equal to the size rating of the cover while it is in use |
+| Leave Cover     | A creature behind cover must spend a move action to move out of cover in a given zone. The creature loses the benefits of cover but their melee weapon actions are no longer hindered                                                                                                                                                                                                                                                                                   |
 
 ### Delay Turn
 A delay allows a creature to suspend their turn until after another creature in the turn order has gone. A delayed Turn can only be started after another creature has already performed their actions. The character's placement in the turn order resets once a new Turn has been started.
@@ -201,10 +214,6 @@ Once all Pressure has been applied, all Pressure generated in the Round is reset
 
 ## Recovery
 Once the World Turns, all active participants in the Engagement gain Recovery. A character regains vigor equal to their Recovery rating.
-
-Characters suffering from Impairments can make Endurance Tests and Resolve Tests to recover from Physical and Mental Conditions respectively. The amount of successes earned from a Test reduces the inflicted Condition’s rank by the achieved amount. 
-
-Only one Physical Condition and one Mental Condition can be recovered in this fashion. For example, if a character gained the Staggered Condition and the Stunned Condition during a Round, they must choose which Condition they are going to apply their Endurance Test towards during Recovery. However, if a character is both Stunned and Distracted, then they can make both an Endurance Test and a Resolve Test during Recovery.
 
 ## Size Steps
 Size plays an important factor in the world of Mythmakers, as some creatures can be as tall as giants or as small as fairies. When taking Actions against such creatures, one needs to know the size step. The size step is the difference in size (or “steps”) between two creatures.

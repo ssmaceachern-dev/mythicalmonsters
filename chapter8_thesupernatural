@@ -1,23 +1,34 @@
 # The Supernatural
+In Mythmaker, there are individuals who have obtained, in one manner or another, the ability to conjure and command supernatural powers. In some circles of civilization, this ability is called "the gift" while others demonize the practice of arcane arts altogether. In Mythmaker, supernatural powers are classified by the caster's **intent** and the **form** being affected. A caster's intent describes how they are subjecting a given form to their will. Together these form a shorthand phrase summarizing the caster's ability.
 
+>$\text{Create (Intent)} + \text{Fire (Form)} = \text{Create Fire}$
+
+Characters who are Magical, Devotional, or Mystical all receive access to the Focus Action, an action that is used to manifest their will upon the world.
 
 ## The Focus Action
 
-The focus action is used to describe the four aspects of a supernatural effect: the strength of the effect, the area being affected, how far the area is, and the duration of the effect. For the supernaturally gifted to perform wondrous feats, _focus points_ are required. These focus points are spent towards defining a supernatural effect’s power, focus area, range, and duration. Characters with a rating in a supernatural practice gain focus points equal to their rating towards each aspect of a supernatural effect.
+The focus action is what allows a character with a rating in a supernatural practice to make use of their abilities. Within Mythmaker, a supernatural ability allows a character to change the conditions of a Test or even bypass a Test entirely. 
 
-For example, A character with a rating of 2 in Create Fire can make a Focus Test at a rating of 2,  target an area anywhere within 60ft, target anything in a 2sq x 2sq area within that range, and make the effect last for up to two turns of an Engagement.
+Casters begin this action by converting a given number of vigor into *focus points*. These focus points are then spent towards a supernatural effects four characteristics: The **power** of the effect, the **area** effected by its power, the **range** from the caster, and the **duration**. Each characteristic will list how much focus points certain aspects will cost. 
 
-**Power** represents the potency of a supernatural effect and indicates how strong of an influence the caster wishes to exert over their targeted material form. The amount of focus points spent towards power represents an amount of dice to be rolled in the face of a present challenge.
+Because the character is using vigor, they will subtract one point from their Recovery whenever they take this action.
 
-The nature of this power and how it affects a situation is determined by the supernatural aspect being applied by the caster (Create, Alter, Sense, Manipulate, Destroy) and the material form being targeted (Magic, Fire, Water, Air, Materia, Body, Mind, Animal, Plant, Image).
+>A caster converts 5 vigor into 5 focus points and then subtracts 1 from their Recovery.
 
-**Focus Area** is the designated area where power is being exerted. Focus area is measured in terms of squares (sq) with each square representing enough space to encompass an average sized (size 4) creature. Each focus point spent towards an effect’s focus area increases the _largest dimension _(LD) the area can have by 1. For example, an area of 2 allows power to affect a 2 x 2 space or a 2 x 1 space as the largest dimension is 2 in both cases.
+### Power
+Power represents the potency of a caster's intent upon their targeted form. In order to create an effect, you must describe what you would like to do in relation to the intent being invoked. There are five intents a caster can use towards any given form: Create, Transform, Identify, Manipulate, and Destroy. The Intents section describes how to use each intent and how they can affect play.
 
-By default, a supernatural effect affecting the caster themselves or an adjacent square (but not both) has an area of 0. For creatures and forms to be affected, they must be at least partially contained within the effect’s area.
+#### **Focus Point Cost**
+1 Focus Point increases the effect's Power rating by 1. The power rating of an effect cannot exceed the caster's rating in the supernatural practice.
 
-**Range** allows a caster to move an area of supernatural power away from themselves. Spending focus points towards range allows a caster to move an area of power up to an additional 6 squares per point allocated. If no focus points are spent towards range, then the focus area originates from the caster’s position.
+### Area
 
-**Duration** lets a caster determine how long the effect is intended to last for beyond the current turn. The focus point cost depends on how long the effect is intended to persist. For example, a caster who wants to create an effect lasting two Local turns would need to spend 12 focus points on duration. With the exception of Engagement turns, this cost includes the current turn.
+
+### Range
+Range allows a caster to move an area of supernatural power away from themselves. Spending focus points towards range allows a caster to move an area of power up to an additional 6 squares per point allocated. If no focus points are spent towards range, then the focus area originates from the caster’s position.
+
+### 
+Duration lets a caster determine how long the effect is intended to last for beyond the current turn. The focus point cost depends on how long the effect is intended to persist. For example, a caster who wants to create an effect lasting two Local turns would need to spend 12 focus points on duration. With the exception of Engagement turns, this cost includes the current turn.
 
 | Turn       | Focus Point Cost                                                           |
 | ---------- | -------------------------------------------------------------------------- |
