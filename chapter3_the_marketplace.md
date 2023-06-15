@@ -332,6 +332,8 @@ Items that provide lighting cast out a radiance which represents the number of z
 #### **Usage**
 Whenever a character within the group spends a Local action and advances the World Clock, make a Quality Test. Roll dice equal to the quality rating of the light. If the result is greater or equal to the current quality of the light, then the quality remains the same. If the result is less than the light's current quality rating, then decrease the quality by 1. When a light's quality rating reaches 0, then it no longer creates light.
 
+If a Light is used as an improvised weapon, treat the Weapon Action normally. If the creature receiving the weapon action receives pressure, then they also receive Fire Pressure equal to the radiance of the Light source.
+
 ### Rations & Meals
 Heroism and ideals may sound good on paper, but they fall short on an empty stomach. Meals keep the wheels of adventure turning by allowing characters to restore lost Recovery as a result of spending vigor. The most basic form of meals are rations which comprise of dried meats, jerky, and oats to sustain an adventurer while on the road. 
 

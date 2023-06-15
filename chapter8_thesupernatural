@@ -15,191 +15,153 @@ Because the character is using vigor, they will subtract one point from their Re
 
 >A caster converts 5 vigor into 5 focus points and then subtracts 1 from their Recovery.
 
-### Power
+### **Power**
 Power represents the potency of a caster's intent upon their targeted form. In order to create an effect, you must describe what you would like to do in relation to the intent being invoked. There are five intents a caster can use towards any given form: Create, Transform, Identify, Manipulate, and Destroy. The Intents section describes how to use each intent and how they can affect play.
 
+The Power rating of a supernatural effect is used to make a Power Test where each success of the Test is used to empower whatever Intent is being used on a given form.
+
 #### **Focus Point Cost**
-1 Focus Point increases the effect's Power rating by 1. The power rating of an effect cannot exceed the caster's rating in the supernatural practice.
+1 Focus Point increases the effect's Power rating by 1.
 
-### Area
+The amount of focus points spent towards an effect's power cannot exceed the caster's rating in the supernatural practice.
 
+### **Area**
+Area is used to indicate the targets of a given supernatural effect. Everyone within the bounds of an effect's area is subject to whatever power is being enforced upon them.
 
-### Range
-Range allows a caster to move an area of supernatural power away from themselves. Spending focus points towards range allows a caster to move an area of power up to an additional 6 squares per point allocated. If no focus points are spent towards range, then the focus area originates from the caster’s position.
+#### **Focus Point Cost**
+1 Focus Point allows a caster to target one additional character.
 
-### 
+Spending 6 Focus Points allows a caster to target an entire area.
+
+The amount of focus points spent towards an effect's area cannot exceed the caster's rating in the supernatural practice.
+
+### **Range**
+Range allows a caster to move an area of supernatural power away from themselves.
+
+#### **Focus Point Cost**
+Targeting anyone within the same zone costs no focus points. Moving an area beyond the caster's current area costs 1 Focus Point per Area.
+
+The amount of focus points spent towards an effect's range cannot exceed the caster's rating in the supernatural practice.
+
+### **Duration**
 Duration lets a caster determine how long the effect is intended to last for beyond the current turn. The focus point cost depends on how long the effect is intended to persist. For example, a caster who wants to create an effect lasting two Local turns would need to spend 12 focus points on duration. With the exception of Engagement turns, this cost includes the current turn.
 
-| Turn       | Focus Point Cost                                                           |
+| Action       | Focus Point Cost                                                           |
 | ---------- | -------------------------------------------------------------------------- |
 | Engagement | 0 for the Current Turn. 1 Focus Point for each additional Engagement turn. |
 | Local      | 3 Focus Points                                                             |
 | World      | 12 Focus Points                                                            |
 
-### Focus & Vigor
-Just as with aspects, a creature can spend vigor to push Focus aspects beyond what they can achieve from their base practice rating. Each additional increase to a Focus aspect not only costs a point of vigor, but each increase also increases a character’s fatigue by 1 just as with aspects.
+The amount of focus points spent towards an effect's duration cannot exceed the caster's rating in the supernatural practice.
 
-| Focus Aspect | Focus Point Cost                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Power        | -1 for each additional die. A creature can only roll an amount of dice up to the rating of their Supernatural Practice at a time. If vigor is used to increase power, then the dice rolled will be subject to Minor or Major Blunders.|
-| Focus Area   | 0 if the effect is only self-targeted or is directed at an adjacent square. -1 per increment to the largest dimension of the area.                                                                                                                                                                                                                                                          |
-| Range        | 0 if the effect is self-targeted or manifests in an adjacent square. -1 to move the focus area an additional 6sq/30ft away from the caster.                                                                                                                                                                                                                                                 |
-| Duration     | 0 if the effect lasts only the current turn of an engagement. -1 for each engagement turn beyond the current one. -3 if the effect lasts for the entirety of the current Local turn and an additional -3 for each Local turn beyond the current turn. -12 if the effect lasts for the entirety of the current World turn and an additional -12 for each World turn beyond the current turn. |
-|              |
+### Empower
+A supernatural practitioner can also increase any one of these four aspects by an amount equal to their rating in the practice. However, this can only be applied to _one_ of the four aspects.
+
+>A caster with Create Fire 3 can create an effect with up to 3 Power, target up to 3 targets, shift the range up to 3 areas away, and make the effect last for up to 3 Engagement turns. They can then increase any one of these aspects by an additional 3.
 
 
-### Supernatural Aspects
+### **Intents**
 
-Supernatural aspects describe how supernatural power allocated in the focus action or in general influences a given situation. There are five supernatural aspects: Create, Alter, Sense, Manipulate, and Destroy. Each aspect comes with a set of keywords synonymous with the aspect itself.
+Intents describe how the Power aspect of a supernatural effect is being applied to a situation or Test. There are five intents a caster can choose to specialize in: Create, Transform, Sense, Manipulate, and Destroy. Each aspect comes with a set of keywords which expand what a caster can do towards the form of their choice.
 
-To use a supernatural aspect, you begin by verbalizing your intent in the form of “I want to…” followed by the aspect or one of its keywords and the associated material form. For example, using the Create aspect to summon a simple fire might be phrased as “I want to _create fire_.” From this statement, the Storyteller determines the challenge created from the aspect or how the aspect affects a current challenge. Using Create Fire like before would create fire pressure in an engagement or might be used to increase the pressure of an existing fire.
-
-This process is meant to inspire imagination in the caster and to properly ascertain their intent when using magic. Each section below describes the nature of each supernatural aspect and how they interact with material forms and their properties. Some aspects will overlap and this is by design; There are multiple ways of accomplishing something through supernatural means.
+To use a supernatural intent, you begin by verbalizing your intent in the form of “I want to…” followed by the intent itself or one of its keywords as well as the . For example, using the Create aspect to summon a simple fire might be phrased as “I want to _create fire_.” From this statement, the Storyteller determines the challenge created from the aspect or how the aspect affects a current challenge. Using Create Fire like before would create fire pressure in an engagement or might be used to increase the pressure of an existing fire.
 
 
-##### **Create**
+#### **Create**
 
 **Keywords**: Manifest, Improve, Restore
 
 The Create aspect is a constructive force which uses magic to manifest a form from the aether into the material world. Forms spawned this way do not possess inherent motion unless they are placed in the air where gravity can affect them.
 
 
-<table>
-  <tr>
-   <td><strong>Manifest</strong>
-<p>
-To manifest a form, the caster must determine whether or not the form being manifested is inanimate or animate.
-<p>
-Power allocated towards creating inanimate forms increases the power of a form's properties by one. For example, a property of fire is that it creates fire pressure.
-<p>
-To create an animate form, power must be allocated towards creating aspect advancements for the animated form’s physical and mental aspects (Strength, Finesse, Endurance, Insight, Wits, Resolve). Focus area is then used to determine the form’s size rating.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Improve</strong>
-<p>
-Power allocated towards improving a form allows an existing form’s aspects to be enhanced for each point of power spent. For example, a character’s Strength aspect could be enhanced in this way.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Restore</strong>
-<p>
-Power allocated towards restoring a form can either improve the quality of the form or heal wounds the form has sustained.
-   </td>
-  </tr>
-</table>
+##### **Manifest**
+When using the Manifest Intent, you must determine whether you are creating an inanimate object or a creature. 
+
+For objects, you must either find an object from the marketplace or describe one in well enough detail. The result of the Power Test determines the quality rating of the object while the Area determines the Size rating of the object.
+
+For creatures, the results of the Power Test determines the creature's threat rating. A creature's threat rating is the value of all of its inherent aspects e.g. Strength, Finesse, Endurance, etc. The creature itself possesses none of the qualities that its real life counterpart would have as the caster is creating an imitation rather than a real creature.
+
+##### **Improve**
+The Improve Intent can be used when you are looking to enhance an aspect that does not have a maximum associated with it. This Intent can only be used on forms that already exist. The results of the Power Test act as enhancement towards the targets specified in the Area.
+
+##### **Restore**
+The Restore Intent can be used to restore aspects that have a maximum. The quality rating of an item or the vigor of a fellow ally are examples of aspects that can be restored.
 
 
+#### **Transform**
 
-##### **Transform**
+**Keywords**: Resize, Redefine, Enhance, Hinder
 
-**Keywords**: Alter, Scale, Enhance, Hinder
+The Transform Intent is a transmutive force which uses magic to shift a form’s natural state from one stage to another. An Intent to transform changes a form's properties or latent qualities.
 
-The Transform aspect is a transmutive force which uses magic to shift a form’s natural state from one stage to another. This aspect can only be used on forms within a supernatural effect’s focus area.
+##### **Resize**
+The Resize Intent allows you to shift an object's or creature's size rating up or down a number of size steps. In order to resize an object, the results of the Power Test must surpass the size rating of the original target. For each success obtained that exceeds the target's size rating, the caster gains the ability to shift the size a corresponding number of size steps.
 
+| SIZE     |
+| -------- |
+| Mini     |
+| Tiny     |
+| Little   |
+| Small    |
+| Average  |
+| Giant    |
+| Huge     |
+| Colossal |
+| Mythical |
 
-<table>
-  <tr>
-   <td><strong>Alter</strong>
-<p>
-Power allocated towards altering a form allows a character to increase or decrease a property’s rating. This can be used to increase the amount of pressure a form is exerting or hinder it. Altering a form’s image does not require power but altering any of the senses it gives off does.
-<p>
-This can also be used to add to a natural pressure contained within the form. Water could be altered to produce acid pressure, for instance.
-<p>
-If a caster possesses multiple supernatural practices using Alter, they can grant a form properties naturally possessed by another. For example, fire could be given the properties of water so that it can be contained as a liquid.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Scale</strong>
-<p>
-Power allocated towards changing the size of a form must first equal the form’s current size rating. Once the target number is reached, every point of power spent beyond the form’s current size can be used to increase or decrease its size rating by one rank.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Enhance</strong>
-<p>
-Power allocated towards enhancing a form allows that form to receive enhancement towards  a targeted aspect equal to the power provided.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Hinder</strong>
-<p>
-Power allocated towards hindering a form allows that form to receive hindrance towards a targeted aspect equal to the power provided.
-   </td>
-  </tr>
-</table>
+##### **Redefine**
+The Redefine Intent allows you to invoke the Storyteller in order to create a Test or change the conditions of a Test. 
+
+For example, Redefine Materia could be used to turn a solid section of stone wall into malleable clay so the rest of the party can sculpt through it. The Storyteller must then determine a challenge rating suitable for the Test with the results of your Power Test acting counter to it.
+
+##### **Enhance**
+The Enhance Intent allows you to give enhancement an aspect of a form during a Test equal to the results of the Power Test.
+
+##### **Hinder**
+The Hinder Intent allows you to hinder an aspect of a form during a Test equal to the results of the Power Test. If a form is completely hindered in some form or fashion, it is not destroyed.
 
 
+#### **Identify**
 
-##### **Sense**
+**Keywords**: Detect, Learn
 
-**Keywords**: Sense
+The Identify Intent is a divinating force which allows a caster to make an Open Test to uncover information about a form in the area of the spell.
 
-The Sense aspect is a divinating force which uses magic to detect a form and reveal details hidden from plain sight. The Sense aspect can only divine forms within a supernatural effect’s focus area.
+##### **Detect**
+The Detect Intent allows you to extend your own senses to detect the existence of a form. The results of the Power Test determines the maximum number of a given form that a character can detect. Focus Points spent towards Area allow a character to use the Detect Intent within an entire Area as opposed to a single target.
 
+##### **Learn**
+The Learn Intent allows you to make an Open Test about a number of targeted forms. The results of the Power Test determine the level of information you can learn about a form. A low result may reveal common information while a high result may reveal lore about the form in question.
 
-```
-Sense
-Power allocated towards sensing a form begins an open test. One point of power will let the caster know whether a form exists in the focus area. Each additional point of power reveals one additional detail about the targeted forms per the Storyteller's jurisdiction.
-```
+#### **Manipulate**
 
+**Keywords**: Move, Shape, Command, Ward
 
+The Manipulate Intent is an influential force which uses magic to force a shift upon a form. Unlike with the Transform Intent, the Manipulate Intent cannot change anything intrinsic about a form.
 
-##### **Manipulate**
+##### **Move**
+The Move Intent allows you to levitate or move a single form around within a space. The results of a Power Test allow you to move a form a number of Areas equal to the number of successes. The Area of the effect must, however, equal the size rating of the form being moved in order for this Intent to manifest.
 
-**Keywords**: Move, Shape, Influence, Ward
+The results of the Power Test can also be used as enhancement, hindrance, or impairing pressure towards an Action that incorporates the targeted form.
 
-The Manipulate aspect is an influential force which uses magic to force a shift in the natural capabilities based on the will and intent of the caster. The Manipulate aspect can only be used on forms within a supernatural effect’s focus area.
+##### **Throw**
+The Throw Intent allows you to toss a form as if you were making the Throw weapon action. In order to throw an object at a creature using the Throw Intent, both the target and the targeted form must be within the caster's Range. The Area must also equal the size rating of the form being thrown.
 
+The results of the Power Test is converted into Physical Pressure matching the type of object thrown. The Object's size rating also acts as enhancement towards this Action.
 
-<table>
-  <tr>
-   <td><strong>Move</strong>
-<p>
-Power allocated towards moving a form allows a form to be moved enough squares equal to the power exerted. The targeted forms must be within a focus area and within range of the caster.
-<p>
-Moving a form up into the air causes it to immediately fall. During an engagement, this is handled during the World’s Turn. Movement does not need to be purely lateral either. A puddle of water can be made to cover a focus area centered around a puddle or the caster themselves.
-<p>
-Moving a form like a projectile functions as if it were being used as part of the Throw weapon action. Upon impact, the focus power allocated converts into a relevant physical pressure type enhanced by the form’s size rating. For example, throwing a stone spear with size 2 with power 4 will create a throw that yields 6 piercing physical pressure if it manages to reach a creature’s square.
-<p>
-Forms can also be made to move other forms like in the case of platforms or even flying carpets. The total size and weight compounded upon the form does not impact this effect so long as the caster maintains concentration.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Shape</strong>
-<p>
-Shaping a form allows an area of inanimate material to be reshaped to the caster’s will. Power is not required for this but the focus area must contain the breadth of the manipulation. For example, shaping a bridge out of a cliff wall must have a focus area that reaches the other side. Shaping a form in this way does not change its natural state and persists beyond the effect’s duration.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Influence</strong>
-<p>
-Power allocated towards influencing a material form affects both inanimate and animate forms in different ways.
-<p>
-Influence on inanimate forms allows a caster to spend power towards using the form to make an action or to enhance actions a form might make. If the form is in a different square from a caster’s target, the focus area must encapsulate both in order for the action to apply.
-<p>
-Influence on animate forms begins a contest where power is used to exert pressure while the targeted forms create resistance. For example, if power is used to force a targeted creature’s body to make a strike on its comrade, then the creature would be able to resist using its physical aspects. If a creature is mentally influenced into making an action against its traits or ideals, then the creature gains one die of enhancement towards resisting the effect.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Transition</strong>
-<p>
-Power allocated towards transitioning a material form allows a caster to shift it from one natural state to another. Power used in this way allows a form’s age to be shifted by one step. Shifting liquid water into solid ice or mist counts as one step for this purpose. Forms transitioned in this way do not gain any pressure and so turning water into ice would not create cold pressure but it would create restraining pressure on a target.
-<p>
-It can also be used to accelerate actions that a material form would take normally. Power spent in this fashion represents the amount of time the form is accelerated according to the Duration focus point cost table.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Ward</strong>
-<p>
-Power allocated towards wards allows a caster to generate resistance towards any actions performed by the targeted form. It would also prevent targeted forms from moving into the focus area of the effect. For example, a ward against animals would provide additional resistance against any weapon actions made.
-   </td>
-  </tr>
-</table>
+##### **Shape**
+The Shape Intent allows you to manipulate the inanimate shape of a form. The Area of the effect must match the size rating of the object being manipulated. The results of the Power Test determine the quality of the shape. Animate creatures cannot be affected by the Shape Intent.
+
+##### **Command**
+The Command Intent allows you to manipulate a creature or object into making a specific action. If the target is an object, then the result of the Power Test acts as a corresponding type of physical pressure, resistance, or whatever the Storyteller deems appropriate.
+
+If the target is a creature, then the result of the Power Test creates Impairing Pressure towards a creature. The creature receives ranks in the Troubled impairment and any action that goes against the command of the caster is hindered equal to the rank of the impairment.
+
+##### **Ward**
+The Ward Intent allows you to create resistance towards a Test or Action being made using supernatural power. The results of the Power Test either act as resistance to a pressure or act as hindrance towards a Test made using the targeted form. The Area aspect determines how many targets will also receive this same benefit.
 
 
-
-##### **Destroy**
+#### **Destroy**
 
 **Keywords**: Damage, Decay, Diminish, Hinder
 
