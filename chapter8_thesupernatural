@@ -163,56 +163,43 @@ The Ward Intent allows you to create resistance towards a Test or Action being m
 
 #### **Destroy**
 
-**Keywords**: Damage, Decay, Diminish, Hinder
+**Keywords**: Damage, Diminish, Hinder
 
-The Destroy aspect is a deconstructive force which uses magic to deconstruct a form or a form’s inherent properties. The Destroy aspect can only be used on forms within a supernatural effect’s focus area.
+The Destroy Intent is a deconstructive force which uses magic to deconstruct a form or a form’s inherent properties. The Destroy aspect can only be used on forms within a supernatural effect’s focus area.
 
+##### **Damage**
+The Damage Intent allows you to damage an object or a creature based around the form you are targeting. If the target is an object, then the results of the Power Test act as damage against the object's quality. If the object is reduced to a quality of zero, then it is considered broken. If the target is a creature, then the target receives physical pressure and cannot make an Armor Test to resist it.
 
-<table>
-  <tr>
-   <td><strong>Damage</strong>
-<p>
-Power allocated towards damaging a material form allows a caster to inflict wounds towards an animate form. The damage inflicted is equal to the power exerted but can be resisted by an animate creature’s Endurance rating. Damage inflicted is permanent and persists beyond the effect’s duration unless restored or healed.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Decay</strong>
-<p>
-Power allocated towards decaying a material form allows a caster to decrease an object’s quality rating by an amount equal to the power provided. If the object’s quality rating reaches zero, then it is destroyed.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Diminish</strong>
-<p>
-Rather than purely destroying a form, power can also be used to diminish a form’s natural properties. Rather than destroying a fire, its radiance could be diminished instead to prevent notice. Power used in this fashion hinders the relative quality of the property equal to the amount of power applied.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Hinder</strong>
-<p>
-Power allocated towards hindering a form allows a form’s targeted aspect to be hindered equal to the power exerted. This only affects aspects used to make actions, not inherent aspects like size.
-   </td>
-  </tr>
-</table>
+##### **Decay**
+The Decay Intent allows you to wither or erode a form before you. Any Tests to damage or hinder the target are enhanced equal to the results of the Power Test.
+
+##### **Diminish**
+The Diminish Intent allows you to destroy the presence of a form or mute a particular quality of a form. For example, the radiance of a torch could be diminished to avoid alerting creatures to one's presence. Or perhaps a person's own Senses could be diminished to create a form a invisibility. The results of the Power Test determine how much a form is diminished by in the context of being perceived by another creature.
+
+___
 
 ### Material Forms
 A material form is an aspect of reality that can be changed or influenced by supernatural forces. Within the game of Mythmakers, there are ten distinct material forms that can be affected by supernatural power. 
 
-Every material form has a natural state which is composed of the natural properties it possesses in the material world. For example, the natural state of water can range from mist to liquid to ice. Water can also boil or freeze and going from one stage to the other is a natural step. Natural changes to a material form’s state will persist beyond the set duration. This includes any damage a form has sustained, any restoration provided, or expected shifts in state. The only way a supernatural effect can remain permanent is by crafting an enchantment. To learn more, go to the Enchanting section under Downtime for more details.
-
-Each material form has a number of natural properties: pressures, resistances, and attributes. Pressures are the forces a material form can naturally exert while resistances are the forces a form naturally resists. Attributes are natural aspects of the form that can be manipulated or have a direct influence over gameplay. The attributes ‘sense’ and ‘image’ for example represent how the form is perceived by the senses.
+Each material form has a number of natural properties which can be made the target of a supernatural force. These properties are broken into three categories: Pressures, Resistances, and Characteristics. Pressures, as explained in other sections, allow a wielder of supernatural power to inflict damage or impair a target. Resistances in turn negate any pressures listed under its column. Characteristics are properties in the game that can be make the target of effects such as the sensory perceptions of a thing or even its quality.
 ___
 #### Magic
 The material form of magic is essence itself. In its purest form, it resembles a pale silvery light and provides a soft radiance. It is only capable of producing force and being a fundamental pillar of supernatural effects.
 
 ##### Pressure
-- Physical Pressure
-- Movement Pressure
+- Bludgeon
+- Impair (Physical)
 
 ##### Resistance
-- Physical Resistance
-- Natural Resistance
-##### Aspects
+- Bludgeon
+- Slash
+- Pierce
+- Impair (Physical)
+- Fire
+- Cold
+- Acid
+  
+##### Characteristics
 - Power
 - Area
 - Range
@@ -223,153 +210,153 @@ ___
 #### Fire
 - The material form of fire comprises both flame and heat. It can create fiery infernos or keep oneself warm on a cold winter’s night.
 ##### Pressure
-- Fire Pressure
+- Fire
 ##### Resistance
-- Cold Resistance
-##### Aspects
-- Smoke
+- Cold
+##### Characteristics
 - Radiance
-- Size
 - Sense
 ___
 #### Water
 - The material form of water comprises all naturally occurring fluids as well as acid. This does not include liquids such as blood or honey which are contained within the Endurance and Plant forms respectively.
 ##### Pressure
-- Physical Pressure
-- Movement Pressure
-- Cold Pressure
-- Acid Pressure
+- Bludgeon
+- Cold
+- Acid
+- Impair (Physical)
 ##### Resistance
-- Fire Resistance
-- Movement Resistance
-##### Aspects
-- Size
+- Fire
+- Bludgeon
+- Slash
+- Impair (Physical)
+##### Characteristics
 - Sense
 - Quality
 ___
 #### Materia
 The material form of Materia encompasses dirt, stone, metal, and gemstone. Any naturally occurring rock can be found within this domain.
 ##### Pressure
-- Physical Pressure
-- Movement Pressure
+- Bludgeon
+- Pierce
+- Slash
+- Impair (Physical)
 ##### Resistance
-- Physical Resistance
-- Fire Resistance
-- Acid Resistance
-##### Aspects
+- Bludgeon
+- Pierce
+- Slash
+- Impair (Physical)
+- Fire
+- Acid
+##### Characteristics
 - Quality
-- Size
 - Sense
 ___
 #### Wind
 The material form of Wind takes the form of the air we breathe as well as the naturally occurring gasses found across the world.
 ##### Pressure
-- Movement Pressure
+- Move
+- Impair (Physical)
 ##### Resistance
-- Movement Resistance
-##### Aspects
-- Size
+- Move
+##### Characteristics
+- Quality
 - Sense
 ___
 #### Body
 The material form of Body includes all substances made from organic flesh and tissue. While many animals share similar traits to higher sapient creatures, this category mostly concerns anthropomorphic creatures.
 ##### Pressure
-- Physical Pressure
-- Movement Pressure
+- Bludgeon
+- Slash
+- Pierce
+- Move
+- Impair (Physical)
 ##### Resistance
-- Physical Resistance
-- Movement Resistance
-##### Aspects
+- Bludgeon
+- Slash
+- Pierce
+- Move
+- Impair (Physical)
+##### Characteristics
 - Strength
 - Finesse
 - Endurance
+- Sense
 - Recovery
 - Wounds
-- Size
 - Sense
 ___
 #### Mind
 The material form of Mind is composed of all things mental, spiritual, and intellectual. The nature of the mind as well as the nature of ghosts and spirits is found within this form.
 ##### Pressure
-- Mental Pressure
+- Impair (Mental)
 ##### Resistance
-- Mental Resistance
-##### Aspects
+- Impair (Mental)
+##### Characteristics
 - Insight
 - Wits
 - Resolve
-- Size
 - Sense
 ___
 #### Plant
 The material form of Plant presides over all things botanical and the byproducts derived from them.
 ##### Pressure
-- Physical Pressure
-- Movement Pressure
-- Acid Pressure
+- Bludgeon
+- Pierce
+- Slash
+- Impair (Physical)
+- Move
+- Acid
 ##### Resistance
-- Physical Resistance
-- Movement Resistance
-- Fire Resistance
-- Cold Resistance
-- Acid Resistance
-##### Aspects
+- Bludgeon
+- Pierce
+- Slash
+- Impair (Physical)
+- Move
+- Acid
+##### Characteristics
 - Quality
-- Strength
-- Finesse
-- Endurance
 - Wounds
-- Size
 - Radiance
 - Sense
 ___
 #### Animal
 The material form of Animal pertains to all manner of beast and the byproducts cultivated from them such as leather, ivory, or wool.
 ##### Pressure
-- Physical Pressure
-- Movement Pressure
+- Bludgeon
+- Pierce
+- Slash
+- Impair (Physical)
 ##### Resistance
-- Physical Resistance
-- Movement Resistance
-- Fire Resistance
-- Cold Resistance
-- Acid Resistance
-##### Aspects
+- Bludgeon
+- Pierce
+- Slash
+- Impair (Physical)
+##### Characteristics
 - Quality
-- Strength
-- Finesse
-- Endurance
-- Insight
-- Wits
-- Resolve
 - Wounds
-- Size
 - Sense
 
 ___
 #### Sense
-The material form of Image concerns the world of perception. It directly presides over appearances and how one experiences their surroundings by way of the senses.
+The material form of Sense concerns the world of perception. It directly presides over appearances and how one experiences their surroundings by way of the senses.
 
 ##### Pressure
-- Mental Pressure
+- Impair (Physical)
+- Impair (Mental)
 
 ##### Resistance
-- Mental Resistance
+- Impair (Physical)
+- Impair (Mental)
 
-##### Aspects
-- Size
+##### Characteristics
 - Sense
 ___
 
-### Combining Multiple Forms and Aspects
+### Combining Magic
 
-Supernatural Aspects and the Forms they affect can be combined into new effects as long as the creature or character’s wielding them have the aptitude to do so.
+Intents and the Forms they affect can be combined into new effects as long as the creature or character’s wielding them have the aptitude to do so.
 
-For example, in order to create a cloud of scalding Steam, a character must have a rating in Create Water _and _Create Fire. Similarly, in order to turn a Person into an Animal, a character must have ratings in both Alter Body and Alter Animal. 
-
-The Supernatural Aspect must be the same in order for a character to take characteristics and Traits of one Form and apply them to another.
-
-As a part of a character’s Turn, a character can also utilize multiple combinations of Supernatural Aspects sequentially. In one Focus Action, a character can use Compel Water to form a spear of ice from a nearby puddle and then use Move Water to hurl the ice spear at a target provided the character has enough Focus to spend.
+For example, in order to create a cloud of scalding Steam, a character must have a rating in Create Water _and_ Create Fire. Similarly, in order to turn a Person into an Animal, a character must have ratings in both Alter Body and Alter Animal. The Power Test uses the lowest rating of whichever practice is being used.
 
 
 ### Using Magic
@@ -380,13 +367,13 @@ When using supernatural power to respond to a situation, the player describes ho
 
 ## Spirits
 
-A spirit is a presence in the material world with no Physical Aspects. This means that on their own, a spirit cannot physically interact with the world unless they possess a physical creature or object.
+A spirit is a presence in the material world with no physical aspects. This means that on their own, a spirit cannot physically interact with the world unless they possess a physical creature or object.
 
 Inanimate objects can be possessed without much difficulty. When a spirit possesses an inanimate object, they gain the ability to move about and control the object as an extension of themselves.
 
-Animate or living creatures require the spirit to issue a **Resolve Contest** against its target. If the spirit is successful in overwhelming the target creature, it gains access to its Physical Aspects for the Turn.
+Possessing a living creature requires the spirit to issue a **Resolve Contest** against its target. If the spirit is successful in overwhelming the target creature, it takes control of the creature for a Local Turn.
 
-The spirit can repeat this contest once per Turn until it is either convinced otherwise or is expelled from the material world.
+The spirit can repeat this contest until it is either convinced otherwise or is expelled from the material world.
 
 
 ## Curses
@@ -395,7 +382,7 @@ A curse is a supernatural effect that has a long or even permanent duration. Oft
 
 The **Origin** of a curse is the active entity maintaining the curse. If the origin of a curse is defeated or killed, then the curse is lifted from other afflicted creatures. This can prove difficult though if the curse comes from the powers of greater beings and entities.
 
-The **Nature** of a curse determines the Supernatural Effect caused by the curse. Here Supernatural Aspects define what the curse does and the linked Material Forms determine what is being affected.
+The **Nature** of a curse determines the Supernatural Effect caused by the curse. Here Intents define what the curse does and the linked Material Forms determine what is being affected.
 
 
 The **Strength** of the curse determines the challenge rating imposed by the curse or the level of force generated by the curse when the next Interval occurs.
@@ -409,6 +396,6 @@ The **Cure **of a curse specifies a course of action that needs to occur in orde
 
 Curses can be removed under certain circumstances. If the Origin of the curse can be found and destroyed or convinced to lift the curse, then the curse will end.
 
-Otherwise, a specialist will be needed. A curse at its core is a supernatural effect meaning that Supernatural Aspects can be used against it to destroy or alter it in some fashion. The Supernatural Practice of 'Magic Destruction' is a good example of an ability that would be able to affect a curse.
+Otherwise, a specialist will be needed. A curse at its core is a supernatural effect meaning that Intents can be used against it to destroy or alter it in some fashion. The Supernatural Practice of 'Destroy Magic' is a good example of an ability that would be able to affect a curse.
 
 Once this condition has been met, the creature or character in question needs to generate enough Focus Power to overcome the Strength of the curse. Once this occurs, the curse is broken from all creatures in the targeted Focus Area.

@@ -1,8 +1,8 @@
 # Impairments
 
-## Physical Conditions
+## Physical Impairments
 
-Physical conditions are status conditions that are inflicted by a physical source. A character can  recover from one physical condition by making an Endurance Test during Recovery.
+Physical conditions are status conditions that are inflicted by a physical source and target a creature's Strength, Finesse, Endurance, or Senses.
 
 
 ### **Staggered**
@@ -67,9 +67,9 @@ A creature that is staggered walks unsteadily or has lost balance. A fully stagg
 * All Actions that require hearing are hindered equal to the rank of this condition
 
 
-## Mental Conditions
+## Mental Impairments
 
-Mental conditions are status conditions that are inflicted by an emotive source. A character can  recover from one mental condition by making a Resolve Test during Recovery.
+Mental conditions are status conditions that are inflicted by an emotive source and target a creature's Insight, Wits, or Resolve.
 
 
 ### **Troubled**
@@ -109,7 +109,7 @@ Mental conditions are status conditions that are inflicted by an emotive source.
 
 ## Natural Conditions
 
-Natural conditions are conditions that can only be caused by natural pressure. For instance, the burning condition is gained when a character receives fire pressure.
+Natural conditions are conditions that can only be caused by natural pressures such as Fire and Cold.
 
 
 ### **Burning**
@@ -148,40 +148,40 @@ Natural conditions are conditions that can only be caused by natural pressure. F
 
 ## Unconscious
 
-An unconscious creature cannot perform Actions or provide any form of active resistance. If the creature is sleeping, then they must be roused awake by another creature or sufficiently loud noise. A creature that is unconscious and bloodied must make an Endurance Check or a Resolve Check during Recovery to be conscious in the following turn.
+An unconscious creature cannot perform Actions or provide any form of active resistance apart from what their Armor or any lingering supernatural effects provide. 
+
+If the creature is sleeping, then they must be roused awake by another creature or sufficiently loud noise.
 
 
 ## Death’s Door
 
-When a creature’s Wounds rating equals or exceeds their Death’s Door rating, they are on Death’s Door_.** **_Any further damage taken by the creature subtracts from their vigor rather than add to their Wounds.
+When a creature’s Wounds rating is reduced to zero, they are on Death's Door. Any further damage received from pressure subtracts from the creature's vigor rather than their Wounds. If a creature receives healing or recovers Wounds, then any further damage is subtracted from their Wounds first before carrying over into their vigor
 
-If a creature is on Death’s Door by the time the World Turns, then the creature must make a Recovery Test and meet or exceed their Wounds rating. If they fail, then they gain one rank of the Unconscious condition. However, if the Recovery Test succeeds, then they either remove an existing rank from their Unconscious condition _or_ remain active in the following turn.
+During an Engagement, if a creature is on Death’s Door by the time the World Turns, then the creature must make an Endurance _or_ a Resolve Check. If the Check results in a failure, then they fall unconscious during the following turn.
 
+In addition, the first time a character is brought to Death's Door, they experience a Trauma. When this occurs, the player must add one new Trouble or Scar to their character's sheet. 
 
----
+Troubles force the character to make Resolve Checks whenever they are in a situation where their Trouble is invoked or receive hindrance towards future actions. Scars, on the other hand, cause one hindrance towards any actions that invoke a specific physical aspect.
 
-A character with Wounds rating 5 and a Death’s Door of 3 is on Death’s Door. When the World Turns, the character will lose 2 vigor and reduce their Wounds rating to match their Death’s Door rating. Additionally, they will need to roll a number of dice equal to their Recovery rating and earn enough successes to meet or beat their Wounds rating or take one rank of the Unconscious condition upon entering the following turn.
+Trauma can be recovered during Downtime using the Recover from Trauma Action. A character can only receive one Trauma per Engagement.
 
-
----
-
+## Trauma
+All characters experience Trauma in one form or another during an adventure. The life of a hero is often perilous and some scars linger longer than anticipated. When a character has accrued **six** troubles, they become too troubled to continue a life of adventure and must either spend Downtime Actions recovering or retire.
 
 ## Death
 
 Three things must happen in order for a creature to die:
 
-
-
 * The creature must be on Death’s Door.
 * The creature must have zero vigor.
-* The creature must have at least one rank of the Unconscious condition.
+* The creature must be unconscious.
 
-Once all three conditions have been fulfilled by the time the World Turns, then the creature effectively dies.
+Once all three conditions have been fulfilled by the time the World Turns during an Engagement, then the creature effectively dies.
 
 
 ## Maladies
 
-Maladies are physical phenomena like **poisons** and **diseases **that inflict ailments upon their victims. Maladies have five properties: Forms of Contact, Strength, Test Interval, Side Effects, and Cures.
+Maladies are physical phenomena like **poisons** and **diseases** that inflict ailments upon their victims. Maladies have five properties: Forms of Contact, Strength, Test Interval, Side Effects, and Cures.
 
 
 ### Forms of Contact
@@ -201,19 +201,10 @@ The Forms of Contact comprise how the malady is acquired. There are four common 
 
 When a creature has been afflicted with a Malady, the affliction doesn't take effect until the end of the current Turn. If the **Test Interval** of a Malady happens at a more immediate stage of play, then the scene immediately shifts to that stage.
 
-At the end of the Turn, the afflicted creature must make an Endurance** Test** against the indicated **Strength **of the Malady. Upon success, the creature is fine and the Strength of the Malady is reduced by 1. When the Strength of the Malady has been reduced to zero, the Malady is overcome.
+At the end of the Turn, the afflcted creature must make an Endurance** Test** against the indicated **Strength** of the Malady. Upon success, the creature is fine and the Strength of the Malady is reduced by 1. When the Strength of the Malady has been reduced to zero, the Malady is overcome.
 
 On a failure, the afflicted character suffers the Side Effects of the Malady equal to the margin of failure and gains any symptoms associated with it.
 
-
----
-
-For example, if a character ate food poisoned with one dose of Wolfsbane, then the scene would shift to the Engagement stage. At the end of the Turn, the poisoned character would need to make an Endurance Test.
-
-In this example, the character has an Endurance rating of 2. They roll their 2 dice and gain 1 success against 3 which is the Strength CR of Wolfsbane. In this case, the margin of failure is 2 and the character takes 2 damage and gains 2 ranks of Suffocation as per the Side Effects of Wolfsbane.
-
-
----
 
 This continues until the character has either overcome the Strength of the Malady through repeated Tests, the character receives a Cure to the current Malady, or until the character dies.
 

@@ -65,6 +65,26 @@ A character begins work by making a Profession Test. Each success obtained durin
 A character that spends a Weekly Action towards Working a Profession gains Ease towards the Market Test equal to their Profession's rating. The character than makes a Profession Test. Each success obtained during this Test increases the Market Value of their service by 1. Once this action is completed, a character takes the total Market Value accumulated and makes a Market Test as if they were selling to the marketplace. See the Marketplace section for details on selling to the Marketplace.
 ___
 
+
+## Redefine Ideals
+A character's Ideals will often be put to the test during their adventures. Sometimes these Ideals can get in the way or a character experiences something that changes their perspective and forces them to redefine their views on the world.
+
+### **Weekly Action**
+When a character spends a Weekly Action to redefine their ideals, they gain the ability to change the wording of an existing Ideal or add a new Ideal to their character sheet.
+___
+
+
+## Recovering from Trauma
+Characters will accrue Troubles over the course of an adventure and sometimes the mental or physical burdens can become too great. When this occurs, a character may need to spend some time recovering from their Troubles and Scars.
+
+### **Daily Action**
+When a character spends a Daily Action towards Recovering from Trauma, they gain the option to make a Recovery Test. For a Recovery Test, a character takes the number of Troubles & Scars they have and uses that as the Challenge Rating of the Test. If the character is trying to heal a Trouble, then the character must invoke their Resolve. For Scars, Endurance is invoked instead. If a character earns enough successes to match the challenge rating of the Test, then the Trouble or Scar gains one mark. When a Trouble or Scar gains six marks, then it is fully healed and a character gains the option to remove it from their sheet. However, if a character fails the Test, then one mark is removed from the Trouble or Scar instead.
+
+### **Weekly Action**
+When a character spends a Weekly Action towards recovering from Trauma, they gain one mark towards the Trouble or Scar of their choosing.
+
+___
+
 ## Investigating
 Downtime may come either between adventures or even directly in the middle of one. Characters interested in gaining more information can spend their Downtime Actions investigating leads or obtaining information now made available to them.
 
