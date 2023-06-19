@@ -38,7 +38,7 @@ Falling is one of the most common hazards associated with Perils. When a creatur
 
 Because Falling is a result of a natural force, any movement from falling takes place during the World’s Turn upon which they descend one zone's worth of movement. If the creature descends into a zone with a floor, then they will receive physical pressure equal to the number of zones they moved between multiplied by their Size rating.
 
-An able creature can attempt to resist some of the physical pressure by making a **Finesse Test**. If the physical pressure exerted is enough to surpass the falling creature's Wounds rating and remove all vigor afterwards immediately dies from the impact.
+An able creature can attempt to resist some of the physical pressure by making a **Finesse Test**. If the physical pressure exerted is enough to surpass the falling creature's Health rating and remove all vigor afterwards immediately dies from the impact.
 
 
 ## Stealth 

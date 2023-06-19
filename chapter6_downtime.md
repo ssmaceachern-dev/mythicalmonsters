@@ -27,9 +27,9 @@ ___
 Characters can spend Downtime Actions towards learning skills, professions, knowledge, or practices they do not possess a rating in. In order to learn a new skill, the character must possess teaching material or have access to a mentor who can teach them.
 
 ### **Daily Action**
-When a character spends a Daily Action towards Learning a new skill, they gain the ability to make an Insight Check. A Check requires only one success to pass. When a character has succeeded on this Check, they gain one Mark towards their new skill.
+When a character spends a Daily Action towards Learning a new skill, they gain the ability to make an Memory Check. A Check requires only one success to pass. When a character has succeeded on this Check, they gain one Mark towards their new skill.
 
-When a character has succeeded on six _consecutive_ Insight Checks in this fashion, they can increase their new skill's rating from 0 to 1. However, if they fail an Insight Check at any point, then all marks obtained thus far are reset.
+When a character has succeeded on six _consecutive_ Memory Checks in this fashion, they can increase their new skill's rating from 0 to 1. However, if they fail an Memory Check at any point, then all marks obtained thus far are reset.
 
 ### **Weekly Action**
 A character that spends a Weekly Action towards learning a new skill can increase their rating in the new skill from 0 to 1 once the week has ended.
@@ -43,7 +43,7 @@ Mentoring allows characters who possess a rating in a given ability to share the
 In order for a character to be a mentor, they must possess a rating in a skill or aspect greater than whoever they are teaching.
 
 ### **Daily Action**
-A character who spends a Daily Action mentoring another must make a Resolve Test. Each success obtained in the Resolve Test can be added towards another character's Training Test when improving an ability or Insight Check when learning a new skill.
+A character who spends a Daily Action mentoring another must make a Resolve Test. Each success obtained in the Resolve Test can be added towards another character's Training Test when improving an ability or Memory Check when learning a new skill.
 
 If the mentor uses a number of dice equal to their Resolve rating and gains a Minor or Major success as a result of this test, then they gain a mark towards Resolve.
 

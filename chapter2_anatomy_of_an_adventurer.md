@@ -54,7 +54,7 @@ ___
 ___
 | Natural Aspect Advancement | Size    | Size Rating |
 | -------------------------- | ------- | ----------- |
-| Finesse *or* Insight       | Average | 4           |
+| Finesse *or* Memory       | Average | 4           |
 
 | Sense Rating | Senses                       |
 | ------------ | ---------------------------- |
@@ -74,7 +74,7 @@ ___
 ___
 | Natural Aspect Advancement | Size    | Size Rating |
 | -------------------------- | ------- | ----------- |
-| Finesse *or* Insight       | Average | 4           |
+| Finesse *or* Memory       | Average | 4           |
 
 | Sense Rating | Senses                    |
 | ------------ | ------------------------- |
@@ -94,7 +94,7 @@ ___
 ___
 | Natural Aspect Advancement | Size    | Size Rating |
 | -------------------------- | ------- | ----------- |
-| Endurance *or* Wits        | Average | 4           |
+| Endurance *or* Insight        | Average | 4           |
 
 | Sense Rating | Senses                                                                      |
 | ------------ | --------------------------------------------------------------------------- |
@@ -104,7 +104,7 @@ ___
 ___
 | Natural Aspect Advancement | Size    | Size Rating |
 | -------------------------- | ------- | ----------- |
-| Finesse *or* Wits          | Average | 4           |
+| Finesse *or* Insight          | Average | 4           |
 
 | Sense Rating | Senses                                     |
 | ------------ | ------------------------------------------ |
@@ -114,7 +114,7 @@ ___
 ___
 | Natural Aspect Advancement | Size  | Size Rating |
 | -------------------------- | ----- | ----------- |
-| Strength *or* Insight      | Giant | 5           |
+| Strength *or* Memory      | Giant | 5           |
 
 | Sense Rating | Senses                                     |
 | ------------ | ------------------------------------------ |
@@ -153,14 +153,14 @@ A character is so much more than words or numbers on a page. They are a vision; 
 | 2      | 2       | 2        |
 
 ### Traits
-Traits take the form of a word or a phrase used to describe a character's affinity with a given aspect. One example of an edge might be the word 'Strong' which could be used to describe a character's pure brawn. On the other hand, 'Strong of Heart' could also refer to a character's steely resolve in the face of adversity. Traits can be used to enhance any core aspect of a character: Strength, Finesse, Endurance, Sense, Insight, Wits, and Resolve.
+Traits take the form of a word or a phrase used to describe a character's affinity with a given aspect. One example of an edge might be the word 'Strong' which could be used to describe a character's pure brawn. On the other hand, 'Strong of Heart' could also refer to a character's steely resolve in the face of adversity. Traits can be used to enhance any core aspect of a character: Strength, Finesse, Endurance, Sense, Memory, Insight, and Resolve.
 
 | Example Trait   | Enhanced Aspect |
 | --------------- | --------------- |
 | Strong          | Strength        |
 | Strong of Heart | Resolve         |
-| Quick Thinker   | Wits            |
-| Studious        | Insight         |
+| Quick Thinker   | Insight            |
+| Studious        | Memory         |
 | Hardy           | Endurance       |
 | Agile           | Finesse         |
 | Alert           | Sense           |
@@ -210,7 +210,7 @@ A good way to come up with a trouble is to find words or things that can be plac
 >    - I fear... spiders
 
 ## Advance Aspects
-An aspect is a representation of a creature’s capabilities. There are eight aspects for a given character in Mythmakers: Strength, Finesse, Endurance, Insight, Wits, Resolve, Sense, and Wealth. Each aspect forms the base of a Test in order to overcome a challenge.
+An aspect is a representation of a creature’s capabilities. There are eight aspects for a given character in Mythmakers: Strength, Finesse, Endurance, Memory, Insight, Resolve, Sense, and Wealth. Each aspect forms the base of a Test in order to overcome a challenge.
 
 **When you have reached this step**, locate the row in the table below that corresponds to your character's starting experience. The number under Aspect Advancements represents the number of advancements you can make on any Aspect.
 
@@ -223,10 +223,23 @@ An aspect is a representation of a creature’s capabilities. There are eight as
 
 >Ingram Wolfsbane is starting out as a Novice and begins with 1 Aspect Advancement. They've already gained a natural aspect advancement in Endurance from being a dwarf so we'll advance their Strength instead. With this advancement, we'll increase Ingram's Strength rating from 1 to 2.
 
+### Maxims
+A character's aspects are also used to determine a set of calculated aspects called Maxims. Each Maxim is calculated according to the table below:
+
+|Maxim|Calculation|Description|
+|-|-|-|
+|Vigor|Strength + Finesse + Endurance + Memory + Insight + Resolve|A resource that can be drawn from to potentially add more successes to a roll|
+|Health|Strength + Finesse + Endurance|The amount of damage a creature can receive before further damage subtracts from vigor|
+|Recovery|Strength + Finesse + Endurance|Determines how much vigor a character recovers after an Action or round of Engagement has been completed|
+|Movement|Size + Body|Determines the amount of movement a character receives during an Engagement, Local Action, or World Action|
+|Carrying Capacity|Size + Strength|Determines the total sum of size that a character can carry before they experience encumbrance|
+
+
+
 ## Advance Professions
 Professions represent your character’s backgrounds and areas of expertise in a given trade before delving into the world of Mythmakers. 
 
-A given rating in a Profession represents an amount of Enhancement that can be added to Insight Tests that relate to a given skill set. It also allows characters to make items or perform services associated with that Profession by making a Profession Test.
+A given rating in a Profession represents an amount of Enhancement that can be added to Memory Tests that relate to a given skill set. It also allows characters to make items or perform services associated with that Profession by making a Profession Test.
 
 **When you have reached this step**, locate the row in the table below that corresponds to your character's starting experience. The number under Profession Advancements represents the number of advancements you can make towards a Profession. All professions start with no rating and require at least one advancement in order for the character to be able to use the experience to their advantage.
 
@@ -371,7 +384,7 @@ Spend an advancement by picking a Trade that interests you and go to the Profess
 
 
 ## Advance Knowledge
-Characters will also possess familiarity in certain areas of knowledge beyond their normal profession. A rating in a given knowledge acts as Enhancement whenever a character makes an Insight Test that uses that knowledge with some exceptions. In Mythmakers, there are two kinds of knowledge: *Common*, *Esoteric*, and *Linguistic*.
+Characters will also possess familiarity in certain areas of knowledge beyond their normal profession. A rating in a given knowledge acts as Enhancement whenever a character makes an Memory Test that uses that knowledge with some exceptions. In Mythmakers, there are two kinds of knowledge: *Common*, *Esoteric*, and *Linguistic*.
 
 Common Knowledge is knowledge that most people will have some familiarity with and is divided into four main areas: **Local**, **Occult**, **Nature**, and **Lore**. 
 

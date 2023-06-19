@@ -110,12 +110,12 @@ Open challenges do not have a hard challenge rating assigned to them. Open chall
 
 
 #### **OPEN CHALLENGE EXAMPLES**
->Investigating a room, using Insight to make academic judgements, using Wits to perceive details about the environment
+>Investigating a room, using Memory to make academic judgements, using Insight to perceive details about the environment
 	
 # Tests & Invoking Aspects
 Players and their characters overcome challenges set forth by the Storyteller by making Tests. Tests require a character to use one of their available **aspects**. Each aspect carries a **rating** which ranges from 1 to 6 and represents the maximum amount of dice a player can choose to roll when making a Test using that aspect. When a character uses an aspect to make a test, they are *invoking* an aspect.
 
-A standard character has eight aspects to invoke: Strength, Finesse, Endurance, Sense, Insight, Wits, Resolve, Wealth, and Profession.
+A standard character has eight aspects to invoke: Strength, Finesse, Endurance, Sense, Memory, Insight, Resolve, Wealth, and Profession.
 
 
 > A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
@@ -131,9 +131,9 @@ The challenge rating of a Test can be affected by three modifiers: Enhancement, 
 However, there will often be times when invoking an aspect is not enough to clear a Test. When this occurs, a character may need to rely on their *vigor*.
 
 ##	Vigor
- Vigor represents a character’s vitality and is determined by taking the sum of a character’s physical and mental aspects (Strength, Finesse, Endurance, Insight, Wits, and Resolve). This number represents a pool of dice a character can draw from in order to obtain more successes for a given Test.
+ Vigor represents a character’s vitality and is determined by taking the sum of a character’s physical and mental aspects (Strength, Finesse, Endurance, Memory, Insight, and Resolve). This number represents a pool of dice a character can draw from in order to obtain more successes for a given Test.
 
->A character with Strength 1, Finesse 1, Endurance 1, Insight 1, Wits 1, and Resolve 1 will have 6 vigor to start with.
+>A character with Strength 1, Finesse 1, Endurance 1, Memory 1, Insight 1, and Resolve 1 will have 6 vigor to start with.
 
 
 To spend vigor, a character subtracts an amount from their vigor equal to or less than the rating of the aspect being utilized. For example, if a character with Strength 2 wanted to spend vigor towards a Test, then they would only be able to subtract a maximum of 2 from their vigor pool to roll 2 additional dice towards the Test.

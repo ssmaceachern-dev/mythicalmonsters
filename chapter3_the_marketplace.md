@@ -110,9 +110,9 @@ Upon *selling* an item, if the character earns more successes than the vendor, t
 Note that some vendors may not be as willing to haggle as others. Depending on the vendor, a nature of theirs may need to be exploited or additional resources may need to be put on the table before they are willing to debate a price.
 
 ## Appraising
-When a player arrives at a vendor in the marketplace, they will be given a market value for any items they wish to purchase. However, by making an Insight Test, they can determine if a vendor's presented market value is the true market value. If a character possesses a relevant rating in a profession or lore, the Insight Test is enhanced equal to the relevant rating. If more than one kind of Knowledge is touched upon then both ratings can be added towards the enhancement per the Storyteller's jurisdiction.
+When a player arrives at a vendor in the marketplace, they will be given a market value for any items they wish to purchase. However, by making an Memory Test, they can determine if a vendor's presented market value is the true market value. If a character possesses a relevant rating in a profession or lore, the Memory Test is enhanced equal to the relevant rating. If more than one kind of Knowledge is touched upon then both ratings can be added towards the enhancement per the Storyteller's jurisdiction.
 
-The result of the Insight Test is measured against the market value of the item itself. A result that is greater or equal to the actual market value of the item allows a character to determine whether a vendor is trying to upsell the item.
+The result of the Memory Test is measured against the market value of the item itself. A result that is greater or equal to the actual market value of the item allows a character to determine whether a vendor is trying to upsell the item.
 
 ## Goods & Services
 The purpose of this section is to layout how the market values of certain groups of items are determined as well as provide reference tables for interested buyers. The **Usage** passage in each section describes how that items quality is influenced during play.
@@ -361,7 +361,7 @@ Unless an item's description states otherwise, whenever an item is used in an ac
 | Camping Kit        | 2           | 0      | Waterproof tent, tarp, twine, stakes, and other items used to set up a camp for one character                                                                                                                                                                                                                   |
 | Gaming Kit         | 1           | 0      | Dice, cards, and game boards used to play games                                                                                                                                                                                                                                                                 |
 | Fishing Kit        | 2           | 0      | Block, tackle, and the necessary items to fish from bodies of water                                                                                                                                                                                                                                             |
-| Healing Kit        | 2           | 1      | Bandages, salves, splits, and other items used in healing wounds during a Rest. A character’s Endurance Test to recover Wounds gains Enhancement equal to the quality rating of this kit.                                                                                                                       |
+| Healing Kit        | 2           | 1      | Bandages, salves, splits, and other items used in healing wounds during a Rest. A character’s Endurance Test to recover Health gains Enhancement equal to the quality rating of this kit.                                                                                                                       |
 | Musical Instrument | 2           | 2      | A musical instrument for playing music. Includes items needed for repair                                                                                                                                                                                                                                        |
 | Lockpicking Kit    | 1           | 2      | A set of tools that allows the picking and dismantling of locks                                                                                                                                                                                                                                                 |
 | Armor Repair Kit   | 2           | 2      | Allows the repair of damaged Armor. Using this kit on an Armor Set allows the Set’s Quality rating to be restored to Average Quality at most. Requires a World Turn to use and using the kit on an Armor Set decreases its Quality by 1.                                                                        |
@@ -395,10 +395,10 @@ This section describes Mounts and the equipment associated with them. When purch
 
 | Item   | Size Rating | Rarity | Description                                                                            |
 | ------ | ----------- | ------ | -------------------------------------------------------------------------------------- |
-| Donkey | 4           | 0      | Strength 3, Finesse 1, Endurance ?, Insight 1, Wits 1, Resolve 3. Carrying Capacity 7  |
-| Pony   | 4           | 1      | Strength 2, Finesse 1, Endurance ?, Insight 1, Wits 1, Resolve 2. Carrying Capacity 7  |
-| Horse  | 5           | 2      | Strength 4, Finesse 1, Endurance ?, Insight 1, Wits 1, Resolve 2.  Carrying Capacity 8 |
-| Camel  | 5           | 2      | Strength 3, Finesse 1, Endurance ?, Insight 1, Wits 1, Resolve 2. Carrying Capacity 8  |
+| Donkey | 4           | 0      | Strength 3, Finesse 1, Endurance ?, Memory 1, Insight 1, Resolve 3. Carrying Capacity 7  |
+| Pony   | 4           | 1      | Strength 2, Finesse 1, Endurance ?, Memory 1, Insight 1, Resolve 2. Carrying Capacity 7  |
+| Horse  | 5           | 2      | Strength 4, Finesse 1, Endurance ?, Memory 1, Insight 1, Resolve 2.  Carrying Capacity 8 |
+| Camel  | 5           | 2      | Strength 3, Finesse 1, Endurance ?, Memory 1, Insight 1, Resolve 2. Carrying Capacity 8  |
 
 | Item          | Size Rating    | Rarity | Description                                                                                                                                                                                |
 | ------------- | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

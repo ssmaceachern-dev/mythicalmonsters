@@ -282,7 +282,7 @@ The material form of Body includes all substances made from organic flesh and ti
 - Endurance
 - Sense
 - Recovery
-- Wounds
+- Health
 - Sense
 ___
 #### Mind
@@ -292,8 +292,8 @@ The material form of Mind is composed of all things mental, spiritual, and intel
 ##### Resistance
 - Impair (Mental)
 ##### Characteristics
+- Memory
 - Insight
-- Wits
 - Resolve
 - Sense
 ___
@@ -315,7 +315,7 @@ The material form of Plant presides over all things botanical and the byproducts
 - Acid
 ##### Characteristics
 - Quality
-- Wounds
+- Health
 - Radiance
 - Sense
 ___
@@ -333,7 +333,7 @@ The material form of Animal pertains to all manner of beast and the byproducts c
 - Impair (Physical)
 ##### Characteristics
 - Quality
-- Wounds
+- Health
 - Sense
 
 ___

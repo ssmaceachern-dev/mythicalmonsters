@@ -69,7 +69,7 @@ A creature that is staggered walks unsteadily or has lost balance. A fully stagg
 
 ## Mental Impairments
 
-Mental conditions are status conditions that are inflicted by an emotive source and target a creature's Insight, Wits, or Resolve.
+Mental conditions are status conditions that are inflicted by an emotive source and target a creature's Memory, Insight, or Resolve.
 
 
 ### **Troubled**
@@ -117,7 +117,7 @@ Natural conditions are conditions that can only be caused by natural pressures s
 
 
 * A creature that is wearing an Armor Set with zero Fire Resistance gains the Burning condition with a rank equal to the Fire Pressure they receive.
-* On the World’s Turn, a creature receives Wounds equal to the rank of this condition and then this condition’s rank increases by one.
+* On the World’s Turn, a creature receives Health equal to the rank of this condition and then this condition’s rank increases by one.
 * The Quality rating of a creature’s Armor Set and Apparel decreases by one for each Round this condition is held.
 
 
@@ -126,7 +126,7 @@ Natural conditions are conditions that can only be caused by natural pressures s
 
 
 * A creature that is wearing an Armor Set with zero Cold Resistance gains the Freezing condition with a rank equal to the Cold Pressure they receive.
-* On the World’s Turn, a creature loses vigor equal to the rank of this condition. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this condition instead.
+* On the World’s Turn, a creature loses vigor equal to the rank of this condition. If a creature’s vigor is reduced to zero, then the creature receives Health equal to the rank of this condition instead.
 * Freezing creatures have their Physical Aspects hindered equal to the rank of this condition.
 
 
@@ -135,7 +135,7 @@ Natural conditions are conditions that can only be caused by natural pressures s
 
 
 * A creature that is unable to breathe gains the Suffocating condition.
-* On the World’s Turn, a creature loses vigor equal to the rank of this condition. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this condition instead.
+* On the World’s Turn, a creature loses vigor equal to the rank of this condition. If a creature’s vigor is reduced to zero, then the creature receives Health equal to the rank of this condition instead.
 
 
 ### **Petrifying**
@@ -143,7 +143,7 @@ Natural conditions are conditions that can only be caused by natural pressures s
 
 
 * Petrifying creatures have their Physical Aspects hindered equal to the rank of this condition.
-* On the World’s Turn, a creature loses vigor equal to the rank of this condition. If a creature’s vigor is reduced to zero, then the creature receives Wounds equal to the rank of this condition instead.
+* On the World’s Turn, a creature loses vigor equal to the rank of this condition. If a creature’s vigor is reduced to zero, then the creature receives Health equal to the rank of this condition instead.
 
 
 ## Unconscious
@@ -155,7 +155,7 @@ If the creature is sleeping, then they must be roused awake by another creature 
 
 ## Death’s Door
 
-When a creature’s Wounds rating is reduced to zero, they are on Death's Door. Any further damage received from pressure subtracts from the creature's vigor rather than their Wounds. If a creature receives healing or recovers Wounds, then any further damage is subtracted from their Wounds first before carrying over into their vigor
+When a creature’s Health rating is reduced to zero, they are on Death's Door. Any further damage received from pressure subtracts from the creature's vigor rather than their Health. If a creature receives healing or recovers Health, then any further damage is subtracted from their Health first before carrying over into their vigor
 
 During an Engagement, if a creature is on Death’s Door by the time the World Turns, then the creature must make an Endurance _or_ a Resolve Check. If the Check results in a failure, then they fall unconscious during the following turn.
 
@@ -186,7 +186,7 @@ Maladies are physical phenomena like **poisons** and **diseases** that inflict a
 
 ### Forms of Contact
 
-The Forms of Contact comprise how the malady is acquired. There are four common kinds of contact for maladies: Touch, Ingestion, Inhalation, and Wounds. It is possible for a malady to have multiple Application Methods.
+The Forms of Contact comprise how the malady is acquired. There are four common kinds of contact for maladies: Touch, Ingestion, Inhalation, and Health. It is possible for a malady to have multiple Application Methods.
 
 **Touch**: Poisons that use this method need to be touched in order to activate.
 
@@ -194,7 +194,7 @@ The Forms of Contact comprise how the malady is acquired. There are four common 
 
 **Inhalation**: Inhaled poisons take the form of gaseous clouds or powders that can be inhaled. Unless a creature is wearing a suitable face covering, they are subject to the effects of the poison as long as they are within the same square as the cloud.
 
-**Wounds**: Poisons with this application method can only be effective when they are a part of an action that inflicts wounds on a creature.
+**Health**: Poisons with this application method can only be effective when they are a part of an action that inflicts wounds on a creature.
 
 
 ### Strength
