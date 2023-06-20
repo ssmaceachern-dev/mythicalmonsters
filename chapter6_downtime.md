@@ -66,11 +66,11 @@ A character that spends a Weekly Action towards Working a Profession gains Ease 
 ___
 
 
-## Redefine Ideals
-A character's Ideals will often be put to the test during their adventures. Sometimes these Ideals can get in the way or a character experiences something that changes their perspective and forces them to redefine their views on the world.
+## Redefine Virtues
+A character's Virtues will often be put to the test during their adventures. Sometimes these Virtues can get in the way or a character experiences something that changes their perspective and forces them to redefine their views on the world.
 
 ### **Weekly Action**
-When a character spends a Weekly Action to redefine their ideals, they gain the ability to change the wording of an existing Ideal or add a new Ideal to their character sheet.
+When a character spends a Weekly Action to redefine their ideals, they gain the ability to change the wording of an existing Virtue or add a new Virtue to their character sheet.
 ___
 
 

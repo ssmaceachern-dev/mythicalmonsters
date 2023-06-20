@@ -189,7 +189,7 @@ One way to come up with a virtue is to find words that can be placed at the end 
 
 
 ### Troubles
-While heroes are alleged to be paragons of perfection and defining beacons of heroism, the reality is that everyone has something that troubles them. Troubles and Ideals are two sides of the same coin in that they both test a character's Resolve. However Troubles take the form of a word or object and can potentially act as hindrance to the actions of a character.
+While heroes are alleged to be paragons of perfection and defining beacons of heroism, the reality is that everyone has something that troubles them. Troubles and Virtues are two sides of the same coin in that they both test a character's Resolve. However Troubles take the form of a word or object and can potentially act as hindrance to the actions of a character.
 
 When a character is confronted by one of their Troubles, they must make a Resolve Check. If they succeed, they are able to make a Test with no additional hindrance. However, upon failure, they gain one rank of the Troubled condition.
 
