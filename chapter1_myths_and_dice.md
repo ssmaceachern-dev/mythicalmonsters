@@ -45,7 +45,7 @@ A challenge is anything that blocks the forward progress of the story or a chara
 
 
 In Mythmakers, a challenge’s difficulty is represented by its challenge rating, or CR for short. The challenge rating represents the amount of successes needed in order for the obstacle to be overcome.
->A CR 4 obstacle requires 4 successes in order for it to be considered overcome.
+>A CR 4 obstacle requires 4 successes in order for it to be considered overcome. Remove this
 
 
 All challenges generally fit within the following scale of difficulty:
