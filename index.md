@@ -1,3 +1,5 @@
+# The Adventurer's Almanac
+
 [Chapter 1 - Basic Rules](/chapter1_myths_and_dice.md)
 
 [Chapter 2 - Character Creation](/chapter2_anatomy_of_an_adventurer.md)
@@ -16,3 +18,4 @@
 
 [Chapter 9 - Impairments](/chapter9_impairments.md)
 
+# The Storyteller's Handbook
