@@ -53,9 +53,9 @@ All challenges generally fit within the following scale of difficulty:
 
 | Challenge Rating (CR) | Level of Difficulty                                                      |
 | --------------------- | ------------------------------------------------------------------------ |
-| CR 0                  | There is no obstacle                                                     |
+| CR 0                  | There is no obstacle.                                                     |
 | CR 1                  | An easy obstacle. Anyone can do it.                                      |
-| CR 2                  | An average obstacle. Most can overcome it                                |
+| CR 2                  | An average obstacle. Most can overcome it.                                |
 | CR 3                  | A difficult obstacle. Overcoming it is hard, but not impossible.         |
 | CR 4                  | An extremely difficult obstacle. Only the experienced can overcome this. |
 | CR 5                  | A master level obstacle. Only a master can handle this.                  |
