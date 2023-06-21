@@ -62,7 +62,7 @@ All challenges generally fit within the following scale of difficulty:
 | CR 6                  | A heroic obstacle. Masters can only hope to overcome it.                 |
 | CR 7+                 | A mythical obstacle. Stories are told about those who overcome them.     |
 ## Challenge Types
-While a challenge rating can indicate the amount of successes needed to overcome a given obstacle, the challenge type also indicates how those successes are taken into account and what happens should the players fail to overcome the challenge. 
+While a challenge rating can indicate the amount of successes needed to overcome a given obstacle, the challenge type also indicates how those successes are taken into account and what happens should the players fail to overcome the challenge.
 
 
 ### Blocks
@@ -71,7 +71,7 @@ Blocks are challenges that passively resist forward progress. A block indicates 
 
 #### **BLOCK EXAMPLES**
 >A boulder blocking a door, foliage blocking a road, a fence surrounding a manor…
-	
+
 
 ### Snares
 Snares are challenges that passively resist movement. A snare indicates that if the players don’t gain enough successes to meet the challenge rating, then they must spend additional resources in order to overcome the challenge before they can proceed. Otherwise, they remain stuck in the snare.
@@ -79,7 +79,7 @@ Snares are challenges that passively resist movement. A snare indicates that if 
 
 #### **SNARE EXAMPLES**
 >A briar patch blocking a path through the woods, walking over a pile of collapsed rubble, walking through thick mud…
-	
+
 
 ### Contests
 Contests are obstacles that are made between two active entities. With contests, one side is exerting pressure while another side provides resistance. If the contesting side earns more pressure than the contested side’s resistance, then an effect is achieved that benefits the contesting side. If the contesting side’s pressure is equal or less than the contested side’s resistance, then a stalemate is reached and nothing happens.
@@ -87,7 +87,7 @@ Contests are obstacles that are made between two active entities. With contests,
 
 #### **CONTEST EXAMPLES**
 >Attacking in engagements, stealthing past oblivious guards, haggling in the marketplace
-	
+
 
 ### Perils
 Perils are challenges that passively resist forward progress but also bear consequences for failing to overcome them. Perils are often accompanied with some kind of hazard, or a risky situation putting pressure on a character or group.
@@ -95,7 +95,7 @@ Perils are challenges that passively resist forward progress but also bear conse
 
 #### **PERIL EXAMPLES**
 >Jumping across a gaping chasm, harmful traps, swimming deep underwater…
-	
+
 
 ### Checks
 A check is a challenge where only one success is required to pass. As long as at least one success is achieved, then a character overcomes the challenge. However, if the character does not manage to achieve any successes, then the character receives a negative consequence.
@@ -103,7 +103,7 @@ A check is a challenge where only one success is required to pass. As long as at
 
 #### **CHECK EXAMPLES**
 >A character facing their fears, performing a simple yet failable task
-	
+
 
 ### Open
 Open challenges do not have a hard challenge rating assigned to them. Open challenges are used as gauges to see how successful a character is at an open-ended action with the Storyteller themselves determining how much information they receive as a result of the action.
@@ -111,7 +111,7 @@ Open challenges do not have a hard challenge rating assigned to them. Open chall
 
 #### **OPEN CHALLENGE EXAMPLES**
 >Investigating a room, using Memory to make academic judgements, using Insight to perceive details about the environment
-	
+
 # Tests & Invoking Aspects
 Players and their characters overcome challenges set forth by the Storyteller by making Tests. Tests require a character to use one of their available **aspects**. Each aspect carries a **rating** which ranges from 1 to 6 and represents the maximum amount of dice a player can choose to roll when making a Test using that aspect. When a character uses an aspect to make a test, they are *invoking* an aspect.
 
@@ -120,9 +120,9 @@ A standard character has eight aspects to invoke: Strength, Finesse, Endurance, 
 
 > A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
 
-The challenge rating of a Test can be affected by three modifiers: Enhancement, Hindrance, and Ease. 
+The challenge rating of a Test can be affected by three modifiers: Enhancement, Hindrance, and Ease.
 
-*Enhancement* is represents a number of dice that can be rolled in addition to the dice gained by invoking an aspect. Enhancement is often gained from the quality of an item or through supernatural means. Enhancement dice are rolled after an aspect has been invoked. 
+*Enhancement* is represents a number of dice that can be rolled in addition to the dice gained by invoking an aspect. Enhancement is often gained from the quality of an item or through supernatural means. Enhancement dice are rolled after an aspect has been invoked.
 
 *Hindrance* in turn represents an increase to a challenge's existing rating. Actions performed in nightfall or darkness are often hindered significantly. In particular cases where something is said to be *fully hindered*, that means the challenge rating of performing said task while fully hindered is increased by 6.
 
@@ -144,7 +144,7 @@ A character can spend as much vigor as they would like towards a Test; however, 
 ### Recovery
 A character begins play with a maximum Recovery rating equal to half of their vigor rating (rounded down). Whenever a certain period of time passes, a character regains vigor equal to their Recovery rating. However when a character spends vigor towards a Test in any amount, their Recovery rating decreases by 1. 
 
-While their is a maximum value that a character's Recovery can be, there is no minimum meaning that it is possible to have a negative Recovery rating at a given point in time. When this occurs, a character loses vigor equal to the negative value. Restorying Recovery is achieved through Rests which are explained later on in this chapter.
+While their is a maximum value that a character's Recovery can be, there is no minimum meaning that it is possible to have a negative Recovery rating at a given point in time. When this occurs, a character loses vigor equal to the negative value. Restoring Recovery is achieved through Rests which are explained later on in this chapter.
 
 
 >A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while decreasing their Recovery rating by 1. Then they subtract another 2 dice, roll them, and decrease their Recovery rating by 1 yet again.
@@ -162,7 +162,7 @@ When a player spends vigor, there is a chance of earning a *Major* or a *Minor*.
 <img src="images/dice6.png" width="48">
 </div>
 
-* A *Minor Success* occurs when all vigor dice rolled result in a success. A Minor Success indicates a favorable condition and provides 1 additional success to the roll. So if a Minor Success was achieved with 4 dice, then the result equals 5 successes total. 
+* A *Minor Success* occurs when all vigor dice rolled result in a success. A Minor Success indicates a favorable condition and provides 1 additional success to the roll. So if a Minor Success was achieved with 4 dice, then the result equals 5 successes total.
 <div align="center">
 <img src="images/dice4.png" width="48">
 <img src="images/dice5.png" width="47.5">
@@ -170,7 +170,7 @@ When a player spends vigor, there is a chance of earning a *Major* or a *Minor*.
 </div>
 
 * A *Minor Blunder* occurs when all vigor dice rolled result in a blunder. A Minor Blunder indicates the occurrence of an inconvenience. When a Minor Blunder is rolled, the amount of successes achieved towards overcoming a Test is reduced by 1. If no successes can be reduced, then the challenge rating of the obstacle itself is increased by 1.
-  
+
 <div align="center">
 <img src="images/dice1.png" width="48">
 <img src="images/dice2.png" width="48">
@@ -201,7 +201,7 @@ To the average adventurer, nothing is more important than daylight. Daylight all
 
 In Mythmakers, a day is broken into six periods with the first four representing daylight and the last two representing nightfall. During this time, characters can perform a range of actions which will naturally consume time depending on how long they take to perform. To keep track of this, the players and the Storyteller collaborate on maintaining the World Clock.
 
->For example, if a player spends a Local Action to investigate rumors, the action is only complete after a Test has been made and after the Storyteller narrates the results. 
+>For example, if a player spends a Local Action to investigate rumors, the action is only complete after a Test has been made and after the Storyteller narrates the results.
 >
 >Similarly, if a player uses a World Action to Travel from one town to a new town and then uses a Local Action to explore the new town, then the World Action is considered complete and the clock advances.
 
@@ -228,7 +228,7 @@ Allows a character to make a Test towards performing an action that affects a lo
 
 ```
 Performing for a crowd, carousing, playing a game, meet with the local government.
-``` 
+```
 
 ### **Haggling**
 Allows a character to interact with the marketplace of a settlement or with a specific vendor in order to obtain an item.
@@ -252,7 +252,7 @@ In Mythmakers, a character moves through a landscape by making Move Actions. Mov
 | Engagement         | A Move Action lets you move 1 square or 1 zone |
 
 
-Movement generated by a character persists as long as the character is still operating within that frame of time. This means that if a character is only performing local actions, then they maintain the movement they've generated through the Explore a Location action. However, if they were to perform a world action or get into an Engagement, then the character's Movement is reset. 
+Movement generated by a character persists as long as the character is still operating within that frame of time. This means that if a character is only performing local actions, then they maintain the movement they've generated through the Explore a Location action. However, if they were to perform a world action or get into an Engagement, then the character's Movement is reset.
 
 ## Assisting Actions
 If more than one character is capable of making or contributing towards a Test, then the successes obtained from each individual action can be pooled together rather than be handled individually.
@@ -276,7 +276,7 @@ The game of Mythmakers follows the following pattern.
 1. **The Storyteller describes the environment and situation to the players.** The story begins and the characters are informed of their current circumstances.
 
 	>The characters find themselves in a burning tavern. There is fire all around and smoke threatens to steal their breaths away if they don’t react soon. A fire is blocking the main entrance out but there are windows all around.
-	
+
 2. **The players decide what actions their characters take in response and the Storyteller determines the challenge.** The players can use their characters' abilities to react accordingly. The Storyteller takes this information and determines if there is anything challenging the actions of the characters.
 
 	>One player declares their intent to jump through one of the windows. The storyteller states that jumping through the window is fairly easy and says succeeding would require a CR 2 Finesse Test.
