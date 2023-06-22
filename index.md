@@ -19,3 +19,7 @@
 [Chapter 9 - Impairments](/chapter9_impairments.md)
 
 # The Storyteller's Handbook
+
+
+
+# The Worldbuilder's Gazetteer
