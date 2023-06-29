@@ -39,4 +39,4 @@
 
 [Appendix II - Virtues](/appendix_virtues.md)
 
-[Appendix III](/appendix_troubles.md)
+[Appendix III - Troubles](/appendix_troubles.md)
