@@ -34,3 +34,9 @@
 # The Worldbuilder's Gazetteer
 
 # Appendix
+
+[Appendix I - Traits](/appendix_traits.md)
+
+[Appendix II - Virtues](/appendix_virtues.md)
+
+[Appendix III](/appendix_troubles.md)
