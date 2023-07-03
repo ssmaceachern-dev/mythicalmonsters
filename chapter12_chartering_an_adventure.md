@@ -185,46 +185,57 @@ To demonstrate how everything fits together, lets construct an example adventure
 Now that you have a general outline of the adventure, the next thing to figure out is how the party gets involved in the adventure. And the main way that happens is through **clues**.
 
 ### Clues
-Clues within Mythmaker are hooks or pieces of information that reveal details of a plot to the players. A clue has four parts to it: its origin, the challenge to obtain it, the information revealed, and a hint of where to find the next clue.
+Clues within Mythmaker are hooks or pieces of information that reveal details of a plot to the players. A clue has five elements:
+- The **source** of the clue
+- The **form** of the clue
+- The **challenge** to get the clue
+- The **information** revealed by the clue
+- And **additional details** which point towards other clues
 
-The **origin** of a clue can come from a number of places. It could come from a letter the characters happen to intercept or directly from the mouth of a subordinate who works for the adventure's antagonist.
+The **source** of a clue can be a number of places.
 
-|Clue Origins|
-|-|
-|Subordinate|
-|Minion|
-|Physical Object/Material|
-|Supernatural Object/Material|
-|Dialogue|
-|Writing|
-|Absent Detail|
-|Organic Evidence/Material|
-|Transformational Detail|
-|Locked Container|
-|Crime Scene|
-|Location|
-|Observation|
+|Source|Description|Examples|
+|-|-|-|
+|An Event|An event is a situation which is still ongoing by the time the characters arrive. It can even be full of active participants who may be bearers of clues themselves|A tavern brawl, a chase, a great fire...|
+|Crime Scene|A crime scene is essentially the aftermath of an event where things have played out without the involvement of the players|The remains of an exploded laboratory, the ruins of a castle, a murder scene...|
+|Subordinate|An underling of the adventure's antagonist|A vampire's thrall, a pirate captain's first mate, the lieutenant of a corrupt general...|
+|Minion|The grunt force of the antagonist. They either report to a subordinate or directly to the antagonist themselves|A thug who reports to a crime lord, a bandit who answers to a bandit king, an enclave of goblins who serve a leader...|
+|Locked Container|A locked or restricted box or location which requires a specific key or skill usage in order to unlock its contents|A lockbox, a vault, the restricted section of a castle, a doorway locked with a supernatural enchantment...|
+|Involved Location|A location that is involved or is a part of the antagonist's plot.|The foundry of a blacksmith who is forging a weapon for the antagonist, the meeting place between the antagonist and their subordinates, the location of a hidden treasure...|
+|Supporting Character|An ally, a bystander, or a character apart from the antagonists who knows or has some relation to the plot at hand|A witness to the murder committed by the subordinate, a relative of a player character, a deserter from the antagonist's encampment...|
+|Knowledge|Anything which might fall under a character's knowledge towards a given subject|Local, Occult, Nature, Lore, Profession, or any of their Esoterics|
 
-The **challenge** of a clue is either a Test or a situation the players must overcome in order to learn the information the clue is withholding. This may relate to the origin of the clue or require a particular kind of knowledge to glean something less obvious about the clue.
+The **form** of a clue is the actual object or embodiment of the clue. It is something that can be detected or observed using ordinary senses such as sight, hearing, touch, smell, and taste.
 
-|Challenges|Examples| 
-|-|-|
-|None|No challenge is attached to learning about the clue|
-|A Strength Test|Clearing rubble, climbing up a ledge, forcing a door open...|
-|A Finesse Test|Picking a lock with a thief's kit, using stealth to eavesdrop, reaching into another's pocket without being noticed...|
-|An Endurance Test|Challenging another to a drinking contest, endure a poison or trap...|
-|A Memory Test|Recall information about an clue using Local, Occult, Nature, Arcana, Esoteric, or even Professional knowledge|
-|An Insight Test|Notice an odd detail about a clue such as a hidden switch, solve a puzzle or riddle, see past any supernatural or illusory wards on an object or location...|
-|A Sense Test|Detect a detail that could only be obtained using one's sight, hearing, or ancestral sense (such as a Beastman's nose)...|
-|A Resolve Test|Asking around for information or someone who may possess the information, appealing to a character's virtues, exploiting a character's troubles and scars...|
-|Haggling/Wealth|Bribing someone or something to give the information, trading one item or piece of information for another...|
-|Profession Test|Crafting an item to unlock a clue from a container, using the abilities from one's profession to figure out a clue, applying a unique skill to uncover an additional special meaning of a clue|
-|Engagement|Defeating the opposition to gain information|
-|Chase|Getting to a clue before another party, chasing down a fleeing source of information...|
+|Form|Description|Examples|
+|-|-|-|
+|None|If a clue comes from a source of knowledge, then it doesn't have a specific form|Local, Occult, Nature, Lore, Profession, or Esoteric knowledge|
+|Physical Object|A physical object is either an object used by the antagonist or their subordinates or one that reveals a piece of the plot|A knife tossed into a nearby barrel, an empty vial of poison, the ashes of a burnt note...|
+|Supernatural Object|A supernatural object is an object that bears some kind of supernatural power. It can be activated to produce a certain effect|A crystal ball which grants clairvoyance upon a location, the handle of a sword which summons a blade of flame, a mystic's curio...|
+|Forensic Object|A forensic object is a piece of biological matter stemming from either the antagonist's forces or from a creature or character relating to the plot|A lock of hair, a trail of blood, muddy footprints, ashes from a particular brand of cigar...|
+|Dialogue|A report or description given from a source capable of producing dialogue. The dialogue can be truthful or obscuring, but either indicates some connection to the plot|A bystander's alibi, the observation of a known expert, a lie made by someone connected to the antagonist...|
+|Writing|A written letter, a document, or even scribbling upon a surface. Something that can be read and interpreted|A letter from the antagonist to a subordinate, a deed or will declaring someone the rightful heir to a property, a list of mysterious items...|
+|Observation|A detail that could only be obtained from careful notice.|A character's nervous twitch whenever they make a lie, the smell of sulfur at a crime scene, or the sounds of howling nearby...|
 
-The **information** of a clue, once the party has surpassed the requirements and Tests preventing immediate access, should either indicate or hint at a characteristic of the antagonist's plot.
+The **challenge** of a clue is a situation the players must overcome in order to learn the information the clue is withholding. This may relate to the origin of the clue or require a particular kind of knowledge to glean something less obvious about the clue.
 
-|Clue Information|Description|Example|
+|Challenges|Description|Examples| 
+|-|-|-|
+|None|No challenge is attached to learning about the clue|A letter left out in the open upon a desk, an object found in plain view at a crime scene, or a notable smell in the air...|
+|Haggling/Wealth|Bribing someone or something to give the information, trading one item or piece of information for another...|Bribing a guard to look the other way, negotiating the sale of a key item from a shrewd merchant, selling a false piece of information to an eager informant...|
+|Engagement|Defeating the opposition to gain information|Doing battle with members of the antagonist's opposing forces|
+|Chase|Getting to a clue before another party, chasing down a fleeing source of information...|Chasing a fleeing suspect, running away from the authorities, grabbing a piece of evidence before the antagonist's forces can destroy it...|
+|Blocks|Blocks are challenges that passively resist forward progress|A locked door, a large boulder blocking the entrance of a ruin, A character who is unwilling to provide information...|
+|Snares|Snares are challenges that passively resist movement|A crowded marketplace, the remains of a landslide, a loud rainstorm which makes speaking clearly difficult...|
+|Contests|Contests are obstacles that are made between two active entities. With contests, one side is exerting pressure while another side provides resistance|Stealth, drinking contests, gambling, debating another person...|
+|Perils|Perils are challenges that passively resist forward progress but also bear consequences for failing to overcome them|Jumping across a chasm, opening a chest with a trap, resisting a supernatural effect...|
+|Checks|A check is a challenge where only one success is required to pass|Overcoming a Trouble, Ignoring a Virtue, Concentrating|
+|Open|Open challenges do not have a strict challenge rating assigned to them.|Researching information, understanding complex language, using one's senses to notice something in a room|
+
+
+The **information** revealed by a clue, once the party has surpassed the requirements and Tests preventing immediate access, should either indicate or hint at a characteristic of the antagonist's plot.
+
+|Information|Description|Example|
 |-|-|-|
 |Who|A piece of information regarding the antagonist's identity, a subordinate's identity, or the identity of a group of minions|A cuff link left at a crime scene reveals someone with a royal connection|
 |Why|Information regarding the antagonist's intentions|A rumor that the king isn't well and that the prince is traveling by carriage|
@@ -232,11 +243,17 @@ The **information** of a clue, once the party has surpassed the requirements and
 |When|Information regarding when the antagonist's plan will take place|Overhearing a group of goblins talking about how it will take the prince two days before they pass through the town|
 |Where|Information indicating where the antagonist's plan will take place|A letter containing a map with a circle drawn around a particular landmark|
 |How|Information describing the steps the antagonist and their henchmen must take to achieve their goal|Groups of hired goblins and thugs snooping and lurking around the king's road|
-|Connecting Information|Information that links the antagonist to their target, an antagonist to their subordinates, one subordinate to another subordinate, or information explaining how a group of minions are in service to the antagonist|A sack of coins a group of thugs received in payment for tracking down the prince's whereabouts|
+|Links|Information that links the antagonist to their target, an antagonist to their subordinates, one subordinate to another subordinate, or information explaining how a group of minions are in service to the antagonist|A sack of coins a group of thugs received in payment for tracking down the prince's whereabouts|
 |Red Herring|Information that is unintentionally misleading|A villager remarking on how they've been having to deal with some creature rummaging through their crops|
 |False Clue|Information that is intentionally misleading or information that is lacking where it would usually be expected|An interrogated goblin reporting they are simply bird-watching|
 
-Optionally, the clue should possess a detail indicating the whereabouts of another clue. Sometimes this can be covered well enough by the information revealed by a clue but additional details give a piece of information depth and also adds richness to the world.
+Optionally, the clue can possess **additional details** indicating the whereabouts of another clue or something more about the 'Who' of a given plot. Additional details can reveal any of the given types of information a clue can have plus certain details like the ones below:
+
+|Additional Details|Description|Example|
+|-|-|-|
+|Traits|A detail that exposes a particular character trait belonging to a subordinate, minion, or even the antagonist themselves|The eloquent handwriting of a note might reveal the writer's noble background. Or the fact a locked chest was ripped apart may reveal a character's powerful strength|
+|Virtues|A detail that reveals an antagonist's, subordinates, or minion's underlying beliefs or code|A report stating the commitment of a subordinate despite receiving a terrible wound to show their resolution to a task. Or the particular quality of a blade to show a minion's inclination towards tidiness|
+|Troubles|A detail indicating a moral or mental struggle the antagonist's forces may have|All of the money in a house being stolen to indicate a subordinate's greed, or how certain members of a murder were spared after a dog appeared to indicate a subordinate's fear of dogs|
 
 Some examples might include:
 - A letter bears a unique scent that when indentified reveals a particular brand of cigar only sold at one spot.
@@ -249,14 +266,14 @@ A given plot should have around three to six Clues for the players to come acros
 ### Hooks
 A hook is the first clue you should place before the players. It needs to be something that draws them in and creates enough mystery for them to start following the trail of clues you've set up for this adventure.
 
-A good plot hook does two things: It grabs the attention of the players and it allows the characters of the story to use their gifts or abilities to solve a problem.
+A good plot hook does two things: It grabs the attention of the players and it allows the characters of the story to use their abilities to solve a problem or make a choice.
 
 There are two kinds of hooks an adventure can have: active hooks and passive hooks. Active hooks are events that call upon the players to act. Such examples include:
 - The party is attacked
 - A character has inherited an item with special significance
 - A character's mentor tasks them with a quest.
 
-Passive hooks are events that happen around the charaacters. They invite casual intrigue and exploration that leave the players finding more questions than answers. Examples include:
+Passive hooks are events that happen around the characters. They invite casual intrigue and exploration that leave the players finding more questions than answers. Examples include:
 - A public festival
 - Rumors about a great reward to be found or a bounty to be collected
 - A riot

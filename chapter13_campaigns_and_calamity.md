@@ -86,4 +86,175 @@ Some example dooms:
    -  A minion
    -  A greater entity
 
-And finally, a calamity must have at least one fatal weakness. A fatal weakness is the Achille's heal of a villain and takes the form of a Trouble they cannot resist. While the players have the option to fight against their troubles with Resolve, a villain's flawed nature makes it incredibly difficult for them to resist theirs.
+And finally, a calamity must have at least one fatal weakness. A fatal weakness is the Achille's heal of a villain and takes the form of a Trouble they cannot resist. While the players have the option to fight against their troubles with Resolve, a villain's flawed nature makes it incredibly difficult for them to resist theirs. Consider the examples below when choosing a weakness for your villain or use them as inspiration for creating one of your very own.
+
+|Fatal Flaws|
+|-|
+|Addiction to gambling|
+|Alcoholism|
+|Aloofness|
+|Ambition|
+|Apathy|
+|Arrogance|
+|Attachment to the past|
+|Bigotry|
+|Blindly following orders|
+|Bloodlust|
+|Chauvinism|
+|Cheating|
+|Claustrophobia|
+|Clumsiness|
+|Complacency|
+|Constant Angst|
+|Constant remembering of one's misdeeds|
+|Cowardice|
+|Cruelty|
+|Curiosity|
+|Cynicism|
+|Defeatism|
+|Denial|
+|Depression|
+|Desire for recognition via questionable means|
+|Difficulty to focus|
+|Dishonesty|
+|Disillusion|
+|Disloyalty|
+|Distrust|
+|Drug addiction|
+|Egotism|
+|Envy|
+|Excessive pacifism|
+|Extreme optimism|
+|Extreme views of justice|
+|Extreme views of morality|
+|Failing to communicate|
+|Failing to understand evil|
+|Failing to understand good|
+|Fatalism|
+|Focusing too much on winning|
+|Forgiveness to a fault|
+|Giving into despair|
+|Gluttony|
+|Greed|
+|Guilt Complex|
+|Gullibility|
+|Holding grudges|
+|Honor|
+|Hypocrisy|
+|Hysteria|
+|Idealism|
+|Idiocy|
+|Ignorance|
+|Immaturity|
+|Immorality|
+|Impatience|
+|Impulsiveness|
+|Inability to accept criticism|
+|Inability to accept defeat|
+|Inability to take compliments|
+|Incompetence|
+|Incredible Powers, Incredible Drawbacks|
+|Indecisiveness|
+|Indifference|
+|Inflexibility|
+|Insanity|
+|Insensitivity|
+|Ironic Allergy|
+|Irrational Hatred|
+|Irrationality|
+|Irresponsibility|
+|Jealousy|
+|Kleptomania|
+|Laziness|
+|Leniency to a fault|
+|Likes abusing power|
+|Low self-esteem|
+|Lust|
+|Machiavellianism|
+|Meanness|
+|Megalomania|
+|Misanthropy|
+|Moochiness|
+|Naïvete|
+|Napoleon complex|
+|Narcissism|
+|Need for approval|
+|Need for love|
+|Nervousness|
+|Nihilism|
+|Obliviousness|
+|Obsession with neatness|
+|Obsession with order|
+|Obsession with someone|
+|Obsessiveness in general|
+|Opportunism|
+|Overconfidence|
+|Overreacting over petty reasons|
+|Overthinking|
+|Paranoia|
+|Passiveness|
+|Perfectionism|
+|Pettiness|
+|Phobia|
+|Physically Weak|
+|Politeness to a fault|
+|Poor integrity|
+|Powerful Defense, Weak Attack|
+|Prejudice|
+|Pride|
+|Purism|
+|Putting one's goals above everything else|
+|Reasoning to a fault|
+|Recklessness|
+|Reclusiveness|
+|Refusing to be pitied|
+|Refusing to forgive|
+|Refusing to give up|
+|Refusing to take a side|
+|Religious fanaticism|
+|Resentment|
+|Revenge|
+|Sadism|
+|Secretiveness|
+|Self-centeredness|
+|Self-indulgence|
+|Self-reliance to an excessive degree|
+|Self-serving phoniness|
+|Selfishness|
+|Selflessness|
+|Sense of entitlement|
+|Sense of inferiority|
+|Sense of superiority|
+|Sexual oversight|
+|Sexual promiscuity|
+|Shamelessness|
+|Short-sightedness|
+|Shyness|
+|Sickly|
+|Single-mindedness|
+|Skewed Priorities|
+|Sleaziness|
+|Sloth|
+|Social ineptitude|
+|Stinginess|
+|Stubbornness|
+|Tactlessness|
+|Taking too much responsibility for other people's misdeeds|
+|Treachery|
+|Uncompromising on principles|
+|Underusing one's own abilities|
+|Ungratefulness|
+|Unquestioning loyalty|
+|Using dirty tricks|
+|Vanity|
+|Vulgarity|
+|Vulnerable to a specific Weapon Action|
+|Vulnerable to Acid|
+|Vulnerable to Cold|
+|Vulnerable to Fire|
+|Weak against a specific Supernatural Practice|
+|Weak in Darkness|
+|Weak in Daylight|
+|Weak to a specific Material|
+|Workaholicism|
+|Wrath|

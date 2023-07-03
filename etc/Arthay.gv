@@ -1,0 +1,22 @@
+# Place the cursor inside "graph" to get some refactoring options
+
+graph {
+
+    # To refactor nodes, place the cursor left to a node name
+    "Arthay North Gate" -- "The Greenway"
+    "Gorgon Street" -- "Arthay North Gate";
+    "Gorgon Street" -- "Silver Street";
+    "Silver Street" -- "The Docks";
+    "The Governer's Keep" -- "Silver Street";
+    
+    "Silver Street" -- "Arthay Academy"
+    "Silver Street" -- "East Street"
+    "East Street" -- "East Gate"
+    "East Gate" -- "The Carve (Road)"
+
+    # Hover over color names to get a color picker
+
+    # Get completion when assigning a shape or color
+    "The Governer's Keep" [shape=box, color=blue];
+
+}
