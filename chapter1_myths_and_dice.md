@@ -106,7 +106,7 @@ A check is a challenge where only one success is required to pass. As long as at
 
 
 ### Open
-Open challenges do not have a hard challenge rating assigned to them. Open challenges are used as gauges to see how successful a character is at an open-ended action with the Storyteller themselves determining how much information they receive as a result of the action.
+Open challenges do not have a strict challenge rating assigned to them. Open challenges are used as gauges to see how successful a character is at an open-ended action with the Storyteller themselves determining how much information they receive as a result of the action.
 
 
 #### **OPEN CHALLENGE EXAMPLES**

@@ -27,7 +27,7 @@ Actions made within an unlit zone are hindered by six. However, Actions made aga
 
 ### Land
 
-In the world of Mythmakers, there are fifteen types of terrains: **Open, Canyons, Forests, Tundra, Hills, Jungles, Deserts, Oasis, Mountains, Marshes, Swamps, Rivers, Valleys, Urban, or Underground.**
+In the world of Mythmakers, there are fifteen types of terrains: **Grassland, Forest, Tundra, Coast, Desert, Mountain, Swamp, City, Underground, or Unique**
 
 In each Land is a variety of obstacles that can obstruct movement, restrict vision, or even test one’s fortitude in the form of its climate.
 

@@ -258,3 +258,44 @@ And finally, a calamity must have at least one fatal weakness. A fatal weakness 
 |Weak to a specific Material|
 |Workaholicism|
 |Wrath|
+
+
+
+### Advancing the Calamity
+
+Part of your job as Storyteller is to _Keep Track of Time_ which means you will determine when certain Calamities will advance their plots and move one step closer to achieving their goals.
+
+Here are two ways that you as the Storyteller can approach this: **Calendars** and **Strikes**. Calendars are fairly straightforward: Start by planning how many days or turns it would take for Calamities to reach their final doom. If one step requires some artifact to be plundered from a secret tomb, think about how many days it might take for the step to be achieved with the resources they have. By tying the plans of the party’s opposition to actual days in your world, it puts importance on the time the characters have as well as lend to the illusion of verisimilitude of your setting.
+
+The other way of handling plots is by using **Strikes**. Offer the group three separate hooks over the course of a campaign to investigate a Calamity. If the characters ignore all three hooks, the Calamity completes the step of their plan that was hinted at by the hook. How you offer these opportunities can the form of rumors or from interactions with the world itself. If a calamity really needs that artifact, give the players a hook in the form of a frightened individual who heard loud sounds while walking through the woods. If the players turn down the third opportunity to investigate, then the front’s plot advances and something happens as a result. Perhaps recovering the artifact unleashes a slumbering dragon upon a hapless town while the calamity and their minions escape to safety.
+
+By design, it is the goal of the characters to prevent a Calamity’s plan from succeeding and reaching its final doom. By following the rumors and discovering the machinations of the campaign, they place themselves in the middle of the Calamity’s affairs. If it truly becomes so dire for the Calamity, then you can even add a step where taking out the characters themselves becomes important to the plot. Have bounty hunters and hired thugs come after the characters! The players will feel the weight of their actions as well as their own power to influence the situation at hand if they feel they are making enough of a difference that enemies want them dead.
+
+If a calamity has achieves all of the steps to their plot, they achieve their goal and unleash their final doom upon the world. At this stage, the players should be well aware of the calamity and should be facing the decision of how to _resolve the front_. 
+
+
+### Resolving Calamities
+
+In order for a calamity to be resolved, their plot needs to be upended. If the players’ characters successfully thwart each attempt at their goal, then all that remains is the calamity themselves.
+
+Calamities are resolved by eliminating their ability to be a calamity. That is, to cut off their source of power. A calamity taking the form of a plague is resolved when it has been eradicated. Calamities that take the form of a villain can be resolved by subjecting the calamity to imprisonment, cutting off their source of power, or simply killing them.
+
+If the players take all the steps to stop a Calamity but don’t engage the last vestiges of the Calamity itself, then you can either have the Calamity come to them or withdraw the Calamity and use it as part of a new Calamity. Perhaps the villain they let get away runs off to join a bigger and badder overlord who is now aware of the players’ character’s abilities.
+
+Whatever the case, when a Calamity is resolved, the characters should be rewarded. This can take the form of Downtime as well as material reward. Maybe the village that lived under the plight of the ruler comes together to purchase a magical weapon for one of the heroes while throwing them an honorary feast. Or perhaps in their haste to avoid the might of the players, the villain left behind a treasure map leading to a boon that could help them against another calamity later down the line.
+
+When a Calamity has been defeated, consider how it affects the plots of other Calamities that you have created. Defeating a calamity may bring with it notoriety the characters were not anticipating. Or perhaps one Calamity tries to offer the players assistance in taking out a rival Calamity.
+
+
+## Ending Campaigns
+
+Every story comes to an end but what often defines a story is how it ends with the final act culminating and reflecting the player character's growth and achievement. In Mythmaker, a campaign ends when all of the calamities you have created are resolved or when the characters have all faced an unfortunate end. Here either the characters can retire into peaceful lives or continue their journey in stories yet to be told. 
+
+But the end of one campaign does not necessarily mean the end of the game. Perhaps one or two loose ends from the campaign weave their way into the foundation of a whole new one. A new campaign also lets you draw in details from the previous one such as letting the previous player characters act as mentors or mythical figures inspiring the next generation of heroes. Or you can simply start anew with the lessons learned along the way.
+
+There are several ways of ending the game and giving the characters closure though:
+
+* **One Year Later…** Ask the players to describe where their character is one year after the events of the campaign have concluded. This ending gives the players each the opportunity to give closure to their own characters while seeding fun details on how their lives have progressed or regressed.
+* **Happily Ever After…** If the campaign ends on a particularly good note, write an epilogue that goes on to describe how the actions of the player characters have affected the world around them. Describe what happens to loved nonplayer characters and even reveal what has happened to the remnants of the calamities they’ve faced.
+* **Cliffhanger… **Sometimes campaigns are put on hold due to real life circumstances. If the players plan to return, why not leave the game on a dramatic cliffhanger for when everyone is able to return to the table. It doesn’t bring closure but it does leave things on the hook for when the group is able to reassemble.
+* **Horribly Ever After…** For games when the characters have failed at defeating the calamities of the campaign or died in the process, describe what happens when each of the remaining calamities achieved their goal and unleashes their final doom upon the world. Some calamities may clash while others might bring about the seeds of resistance and for the next campaign.

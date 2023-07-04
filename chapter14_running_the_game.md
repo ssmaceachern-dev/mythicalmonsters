@@ -295,6 +295,65 @@ Now the characters are aware of the 'Who', 'What', the 'When', and even a 'Where
 - Letting the Dread Pirate come into town where the party and perhaps members of the garrison will by lying in wait.
 
 ## Confronting Faerlasdar
+If the players choose to confront Dread Pirate Faerlasdar directly, they possess the information they need to find him.
 
+Dread Pirate Faerlasdar's ship is moored 2 miles outside of town. They will need to make their way to the Carve by way of the East Gate. From there, they will need to use the World action *Travel* to make it there.
+
+When a character Travels, they reset their Movement to be equal to their Maximum Movement value. Traveling allows a character to move one mile per point of Movement. All of the characters will need at least 2 to travel the road and reach the point where they can find Faerlasdar's ship moored.
+
+One rowboat lies vacant upon the beach as the other was taken by Faerlasdar's first mate to the sloop. Whoever is chosen to row the boat will need to make an Endurance Check. If they fail, then their Recovery decreases by 1.
+
+### Faerlasfar's Sloop
+
+<div align="center">
+<img src="images/faerlasdar_sloop.png" width="100%">
+</div>
+
+During the day, most of Faerlasdar's crew is idling around. However, one of them will be in the crow's nest and is fully capable of spotting a row boat coming their way. If the players try this, then an Engagement starts with the players two areas away from the boat. Each round, the pirates will fire arrows at them requiring Armor Tests and resisting actions until the players end up in the same area as the boat.
+
+If the players come across Faerlasdar's ship during nightfall, they find the crew and the captain celebrating. Their rowdy dancing and singing is loud enough to distract them from the party's presence.
+
+At this stage, encourage the players to talk amongst themselves regarding what they wish to do about the Dread Pirate. If they attacked now, they could start an Engagement with a surprise. The longer they wait, the more they risk one of the crew accidentally noticing them as well.
+
+>**Creature**: Dwarf Pirate, **CR**: 2, **Health**: 4, **Movement**: 6
+>
+>**Armor Set**: Leather Hide (**AR** 1, **Cold** 1 **Fire** 1 **Acid** 1, **Vulnerability**: SPB)
+>
+>**Weapon**: Iron Cutlass (**Light**, Size 1, **Weapon Actions**: SP)
+>
+>**Weapon**: Shortbow (**Ranged**, Size 2, **Weapon Actions**: PB)
+
+>**Creature**: Dranz Llewellyn (Wyrm), **CR**: 2, **Health**: 4, **Movement**: 6
+>
+>**Armor Set**: Leather Hide (**AR** 1, **Cold** 1 **Fire** 1 **Acid** 1, **Vulnerability**: SPB)
+>
+>**Weapon**: Iron Cutlass (**Light**, Size 1, **Weapon Actions**: SP)
+>
+>**Weapon**: Shortbow (**Ranged**, Size 2, **Weapon Actions**: PB)
+
+>**Creature**: Dread Pirate Faerlasdar, **CR**: 3, **Health**: 6, **Movement**: 7
+>
+>**Armor Set**: Iron Brigandine (**AR** 3, **Fire** 2 **Acid** 1, **Vulnerability**: PB)
+>
+>**Weapon**: Iron Cutlass (**Light**, Size 1, **Weapon Actions**: SP)
+>
+>**Weapon**: Shortbow (**Ranged**, Size 2, **Weapon Actions**: PB)
 
 ## Setting a Trap
+If the players don't engage the Dread Pirate upon their own vessel, they can choose to try and trap the pirate in town. Faerlasdar's plan will only work if the ritual is cast during the period of night just before dawn. Therefore they will try to sneak into the city under the cover of darkness.
+
+Let the players get creative with their plans. However, let them know that if too many guards are in on it, Faerlasdar may get spooked and try to run.
+
+### Stealth
+If the characters intend to hide around the vacant Academy, they will need to make a Finesse Test to slip into Stealth. The result of this Test is measured against a creature's Sense rating. Most of Faerlasdar's crew is CR 2 meaning their Sense ratings are 2. However, Faerlasdar themselves is CR 3 which means they will have to earn at least that much in order to evade the Dread Pirate's suspicions.
+
+If a character earns a surplus of successes towards this endeavor, inform them that they may give some of their successes to struggling party members.
+
+This Stealth Test is eased by 1 for each area a creature is away from the point of Engagement so some less stealthy characters may either wish to move a distance.
+
+## End of the Adventure
+The adventure ends when Faerlasdar and his crew have been defeated. If the party managed to engage him upon his own ship, then they will find, in addition to the stolen goods, a small chest full of plundered coins they can either take for themselves or return to the local government of Arthay.
+
+If the players laid a trap for Faerlasdar, then the local government will seize the pirate's vessel moored offshore and reward the players for their efforts.
+
+As a result of their adventure, their Wealth increases to Wealth 4. If it was already at Wealth 4, then they gain 1 mark towards their Wealth rating. In addition, they gain an ally in Mogorn Varkellit who is entirely grateful for their assistance in recovering the stolen goods.
