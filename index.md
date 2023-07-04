@@ -33,6 +33,14 @@
 
 # The Worldbuilder's Gazetteer
 
+[Chapter 15 - Making Worlds](/chapter15_worlds.md)
+
+[Chapter 16 - Making Locations](/chapter16_locations.md)
+
+[Chapter 17 - Making Creatures](/chapter17_creatures.md)
+
+[Chapter 18 - Making Ancestries](/chapter18_ancestry.md)
+
 # Appendix
 
 [Appendix I - Traits](/appendix_traits.md)
