@@ -1,0 +1,10 @@
+# Place the cursor inside "graph" to get some refactoring options
+
+graph {
+    # To refactor nodes, place the cursor left to a node name
+    "Silver Street" -- "Wetzel's Pestle (Outside)"
+    "Wetzel's Pestle (Outside)" --  "Wetzel's Pestle (Inside)";
+    "Wetzel's Pestle (Inside)" --  "Wetzel's Pestle (Upstairs)";
+    "Wetzel's Pestle (Inside)" --  "Wetzel's Pestle (Backrooms)";
+    "Wetzel's Pestle (Backrooms)" -- "Wetzel's Pestle (Alley)";
+}
