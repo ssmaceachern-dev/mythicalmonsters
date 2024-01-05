@@ -208,7 +208,7 @@ The **Loose** action requires using ammunition to make a ranged Weapon action ag
 
 The **Aim** action allows a character to use a Contested Action to make a Finesse Test in order to increase the default base range of the ranged weapon. If a character can earn enough successes to match the size rating of the ranged weapon, then they can increase the base range by one increment. This range reverts back whenever a Loose action is made to fire the piece of ammunition.
 
->A character with Finesse 3 is trying to shoot at a target beyond the 60ft base range their Shortbow allows. They make an Aim action and start a Finesse Test against the size rating of the shortbow which is 2. After receiving 2 successes, they are able to increase the base range from 60ft to 120ft until their next Loose action.
+>A character with Finesse 3 is trying to shoot at a target beyond the 60ft base range their shortbow allows. They make an Aim action and start a Finesse Test against the size rating of the shortbow which is 2. After receiving 2 successes, they are able to increase the base range from 60ft to 120ft until their next Loose action.
 
 The **Hold** action is a free action that allows a character to turn the Loose action into a Concentrated action and allow for rolled successes to be saved until triggered the next round. The Hold action is useful in situations where a character wants to prepare a shot for a target that will be moving within the base range of the weapon. In order to use the Hold action, a character must succeed on a Strength Check. If the character fails, then the ammunition is spent and the successes are lost. Crossbows do not require a Strength Check in order to perform the Hold action.
 
@@ -335,7 +335,7 @@ Whenever a character within the group spends a Local action and advances the Wor
 If a Light is used as an improvised weapon, treat the Weapon Action normally. If the creature receiving the weapon action receives pressure, then they also receive Fire Pressure equal to the radiance of the Light source.
 
 ### Rations & Meals
-Heroism and ideals may sound good on paper, but they fall short on an empty stomach. Meals keep the wheels of adventure turning by allowing characters to restore lost Recovery as a result of spending vigor. The most basic form of meals are rations which comprise of dried meats, jerky, and oats to sustain an adventurer while on the road. 
+Heroism and ideals may sound good on paper, but they fall short on an empty stomach. Meals keep the wheels of adventure turning by allowing characters to restore lost Recovery as a result of spending vigor. The most basic form of meals are rations which comprise of dried meats, jerky, and oats to sustain an adventurer while on the road.
 
 | Item    | Size Rating | Rarity     |
 | ------- | ----------- | ---------- |
@@ -353,7 +353,7 @@ Meals function the same as rations except when a meal is used, its quality ratin
 Adventuring gear describes ordinary items that are used on a daily basis throughout a given adventure. The description of the item describes what they are used for as well as any additional properties.
 
 #### **Usage**
-Unless an item's description states otherwise, whenever an item is used in an action and the action, when paired with vigor, results in a Minor or Major Blunder, the the quality rating of the item decreases by 1.
+Unless an item's description states otherwise, whenever an item is used in an action and the action, when paired with vigor, results in a Minor or Major Blunder, the quality rating of the item decreases by 1.
 
 | Item               | Size Rating | Rarity | Description                                                                                                                                                                                                                                                                                                     |
 | ------------------ | ----------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -407,7 +407,7 @@ This section describes Mounts and the equipment associated with them. When purch
 | Mount Rations | 2              | 0      | Rations used to feed mounts. These can be substituted with normal Rations. Mounts must be fed at least once a day or else they will resist orders.                                         |
 
 ### Taverns
-Staying at a tavern can provide benefits in the forms of a place to rest and a level of quality care. The Market Value of a tavern indicates the level of Wealth a character must possess in order to stay one night at the establishment. 
+Staying at a tavern can provide benefits in the forms of a place to rest and a level of quality care. The Market Value of a tavern indicates the level of Wealth a character must possess in order to stay one night at the establishment.
 
 Staying at a tavern allows a character to use the Quality rating of the tavern to increase their Recovery Rating. If this increases the Recovery rating beyond their normal maximum, then the character can keep the excess.
 

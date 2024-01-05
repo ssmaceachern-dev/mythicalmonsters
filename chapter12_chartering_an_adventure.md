@@ -1,6 +1,6 @@
 # Chartering an Adventure
 
-While it may seem intimidating, building an adventure is a fun and creative endeavor in its own right. To make an adventure for Mythmaker, all you you need to do is answer a few questions. 
+While it may seem intimidating, building an adventure is a fun and creative endeavor in its own right. To make an adventure for Mythmaker, all you you need to do is answer a few questions.
 
 In Mythmaker, the core of an adventure is the _plot_ of the antagonist and the _clues_ revealing that plot to the characters.
 
@@ -17,7 +17,7 @@ The three most common Whos are *villains*, *subordinates*, and *minions*. Villai
 Alternatively, the plot may be driven be a natural event such as an erupting volcano or a looming storm. Or perhaps a supernatural creature even.
 
 ### **Why**
-The "Why" of a plot is the motivation or reason for why the "Who" is doing what they are doing. If the "Who" is a subordinate, then the obvious reason is that they are serving their leader. But for stand-alone villains or groups of minions, they have have devised their own answers. Consider one of the possible examples below as a possible reason for your antagonist's conniptions towards villainy. 
+The "Why" of a plot is the motivation or reason for why the "Who" is doing what they are doing. If the "Who" is a subordinate, then the obvious reason is that they are serving their leader. But for stand-alone villains or groups of minions, they have devised their own answers. Consider one of the possible examples below as a possible reason for your antagonist's conniptions towards villainy.
 
 Effective antagonists not only represent a physical obstacle for the party but also a moral one. Even if their intentions may seem good to themselves, the consequences of their actions yield terrible results for everyone around them.
 
@@ -219,7 +219,7 @@ The **form** of a clue is the actual object or embodiment of the clue. It is som
 
 The **challenge** of a clue is a situation the players must overcome in order to learn the information the clue is withholding. This may relate to the origin of the clue or require a particular kind of knowledge to glean something less obvious about the clue.
 
-|Challenges|Description|Examples| 
+|Challenges|Description|Examples|
 |-|-|-|
 |None|No challenge is attached to learning about the clue|A letter left out in the open upon a desk, an object found in plain view at a crime scene, or a notable smell in the air...|
 |Haggling/Wealth|Bribing someone or something to give the information, trading one item or piece of information for another...|Bribing a guard to look the other way, negotiating the sale of a key item from a shrewd merchant, selling a false piece of information to an eager informant...|
@@ -256,7 +256,7 @@ Optionally, the clue can possess **additional details** indicating the whereabou
 |Troubles|A detail indicating a moral or mental struggle the antagonist's forces may have|All of the money in a house being stolen to indicate a subordinate's greed, or how certain members of a murder were spared after a dog appeared to indicate a subordinate's fear of dogs|
 
 Some examples might include:
-- A letter bears a unique scent that when indentified reveals a particular brand of cigar only sold at one spot.
+- A letter bears a unique scent that when identified reveals a particular brand of cigar only sold at one spot.
 - Some goblins bearing brand new shorts and daggers, the quality of which is much too high for what they seem capable of purchasing.
 - The popped button of a blouse indicating someone of noble stature.
 - A pungent slime that could only have been obtained from a specific creature.
@@ -282,4 +282,4 @@ Passive hooks are events that happen around the characters. They invite casual i
 If this isn't the characters' first adventure, consider recycling an element left unattended or forgotten about from a previous adventure. If they've encountered any particular supporting characters or antagonists. Use these lingering elements as inspiration for creating the next adventure hook. Your world will feel richer for it and let the players feel as though their actions have impact.
 
 #### **Make it Personal**
-Drawing further wisdom active hooks, hooks will engage more if they hone in on a personal element of a character's backstory or desires. As the Storyteller you possess insight into the characters whether its the virtues they follow, the allies they cherish, or the things they covet. Provide them with a clue that implicates one of these notions having importance in your adventure and the players will follow. 
+Drawing further wisdom active hooks, hooks will engage more if they hone in on a personal element of a character's backstory or desires. As the Storyteller you possess insight into the characters whether its the virtues they follow, the allies they cherish, or the things they covet. Provide them with a clue that implicates one of these notions having importance in your adventure and the players will follow.

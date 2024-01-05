@@ -6,7 +6,7 @@
 
 As characters engage in the world of Mythmakers, they will undoubtedly experience moments of growth both physically and mentally. In the game, this growth is measured in terms of **_marks_**.
 
-Characters gain a mark when they invoke an aspect and then earn a Minor Success or a Major Success after spending vigor equal to their current rating in the aspect. 
+Characters gain a mark when they invoke an aspect and then earn a Minor Success or a Major Success after spending vigor equal to their current rating in the aspect.
 
 
 ---
@@ -19,7 +19,7 @@ Characters gain a mark when they invoke an aspect and then earn a Minor Success 
 When a character has earned six marks towards an aspect, then the aspect's rating increases by 1 and all marks are reset.
 
 ## Improving Knowledge
-Improving knowledge can occur when a character's Common, Esoteric, or Linguistic knowledge is used as Enhancement towards a Test. If the dice rolled result in a Minor or Major Success and the number of dice rolled equal the applied Knowledge's rating, then the applied knowledge rating gains a mark. When a given Knowledge gains six marks, its rating increases by 1 and all marks are reset.
+Improving Knowledge can occur when a character's Common, Esoteric, or Linguistic knowledge is used as Enhancement towards a Test. If the dice rolled result in a Minor or Major Success and the number of dice rolled equal the applied Knowledge's rating, then the applied Knowledge rating gains a mark. When a given Knowledge gains six marks, its rating increases by 1 and all marks are reset.
 
 However, a character's rating in a given Knowledge cannot exceed the rating of their Memory aspect. A character cannot receive marks unless their Memory rating is greater than the rating of the applied knowledge.
 
@@ -40,7 +40,7 @@ Creating a supernatural effect requires defining its four attributes: Power, Are
 
 ## Obtaining Mastery
 
-When an aspect, knowledge, profession, or practice rating reaches the maximum value of 6, any further marks go towards achieving a Mastery in that rating. A rank of Mastery allows a character to gain Ease towards Tests that use the rating equal to the rank of Mastery. 
+When an aspect, knowledge, profession, or practice rating reaches the maximum value of 6, any further marks go towards achieving a Mastery in that rating. A rank of Mastery allows a character to gain Ease towards Tests that use the rating equal to the rank of Mastery.
 
 When a character gains a rank in this fashion, the marks for that rating reset like normal but the rating remains at 6. Instead, a diamond adjacent to the aspect is filled to represent the character's ascent into mastering an ability.
 

@@ -1,7 +1,7 @@
 
 # Downtime
 
-After the characters have returned from their adventure, the Storyteller may provide Downtime to the players to do with as they wish. In Downtime, the rules of the game relax and the focus becomes the individual activities of the characters outside the scope of the usual adventure. 
+After the characters have returned from their adventure, the Storyteller may provide Downtime to the players to do with as they wish. In Downtime, the rules of the game relax and the focus becomes the individual activities of the characters outside the scope of the usual adventure.
 
 There are two kinds of Downtime Actions a character can perform: **Daily Actions** and **Weekly Actions**. As so named, Daily Actions take one day to complete and Weekly Actions take a week. This section describes a number Downtime Actions a character can take that can be either Daily or Weekly Actions.
 
@@ -94,7 +94,7 @@ ___
 
 ## Crafting
 
-Crafting allows for the the characters to create their gear and items. There are three requirements for crafting any item within the game: **Materials**, a rating in a relevant **Profession**, and a **Toolkit**.
+Crafting allows for the characters to create their gear and items. There are three requirements for crafting any item within the game: **Materials**, a rating in a relevant **Profession**, and a **Toolkit**.
 
 The **_Materials_** serve as the material components of the item. For most items, there is one core material with any others simply being auxiliary or to embellish the item with finer details.
 

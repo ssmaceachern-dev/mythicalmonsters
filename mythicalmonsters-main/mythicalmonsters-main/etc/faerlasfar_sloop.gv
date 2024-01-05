@@ -1,8 +1,0 @@
-# Place the cursor inside "graph" to get some refactoring options
-
-graph {
-    # To refactor nodes, place the cursor left to a node name
-    "Captain's Cabin" -- "Upper Deck"
-    "Lower Deck" --  "Upper Deck";
-    "Helm" --  "Upper Deck";
-}

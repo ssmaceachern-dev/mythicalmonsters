@@ -148,7 +148,7 @@ Natural conditions are conditions that can only be caused by natural pressures s
 
 ## Unconscious
 
-An unconscious creature cannot perform Actions or provide any form of active resistance apart from what their Armor or any lingering supernatural effects provide. 
+An unconscious creature cannot perform Actions or provide any form of active resistance apart from what their Armor or any lingering supernatural effects provide.
 
 If the creature is sleeping, then they must be roused awake by another creature or sufficiently loud noise.
 
@@ -159,7 +159,7 @@ When a creature’s Health rating is reduced to zero, they are on Death's Door. 
 
 During an Engagement, if a creature is on Death’s Door by the time the World Turns, then the creature must make an Endurance _or_ a Resolve Check. If the Check results in a failure, then they fall unconscious during the following turn.
 
-In addition, the first time a character is brought to Death's Door, they experience a Trauma. When this occurs, the player must add one new Trouble or Scar to their character's sheet. 
+In addition, the first time a character is brought to Death's Door, they experience a Trauma. When this occurs, the player must add one new Trouble or Scar to their character's sheet.
 
 Troubles force the character to make Resolve Checks whenever they are in a situation where their Trouble is invoked or receive hindrance towards future actions. Scars, on the other hand, cause one hindrance towards any actions that invoke a specific physical aspect.
 
@@ -201,7 +201,7 @@ The Forms of Contact comprise how the malady is acquired. There are four common 
 
 When a creature has been afflicted with a Malady, the affliction doesn't take effect until the end of the current Turn. If the **Test Interval** of a Malady happens at a more immediate stage of play, then the scene immediately shifts to that stage.
 
-At the end of the Turn, the afflcted creature must make an Endurance** Test** against the indicated **Strength** of the Malady. Upon success, the creature is fine and the Strength of the Malady is reduced by 1. When the Strength of the Malady has been reduced to zero, the Malady is overcome.
+At the end of the Turn, the afflicted creature must make an Endurance** Test** against the indicated **Strength** of the Malady. Upon success, the creature is fine and the Strength of the Malady is reduced by 1. When the Strength of the Malady has been reduced to zero, the Malady is overcome.
 
 On a failure, the afflicted character suffers the Side Effects of the Malady equal to the margin of failure and gains any symptoms associated with it.
 
