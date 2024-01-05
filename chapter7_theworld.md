@@ -16,7 +16,7 @@ Natural Damage represents the range of natural damage types that can be found in
 
 Light in Mythmaker is either illuminating or hindering depending on the creatures interacting with it. Fully Hindered indicates that any Test made during Daylight or Night for a given creature is hindered by 6. Torchlight or any light source that casts a radiance allows a creature with Common or Far Sight to act normally as long as they stay within the zones illuminated by the light.
 
-Actions made within an unlit zone are hindered by six. However, Actions made against creatures or objects within a lit zone do not suffer the same penalities as long as the creature performing them can influence the zone such as with ranged weapons or supernatural effects.
+Actions made within an unlit zone are hindered by six. However, Actions made against creatures or objects within a lit zone do not suffer the same penalties as long as the creature performing them can influence the zone such as with ranged weapons or supernatural effects.
 
 | Vision       | Daylight       | Night          |
 | ------------ | -------------- | -------------- |
@@ -41,11 +41,11 @@ Because Falling is a result of a natural force, any movement from falling takes 
 An able creature can attempt to resist some of the physical pressure by making a **Finesse Test**. If the physical pressure exerted is enough to surpass the falling creature's Health rating and remove all vigor afterwards immediately dies from the impact.
 
 
-## Stealth 
+## Stealth
 
 Stealth in Mythmaker is a developing contest between the creatures in stealth and their quarry. For the purposes of describing how Stealth works, the creature in stealth will be referred to as a Rogue and the creature on the other side will be referred to as an Observer.
 
-A Rogue begins Stealth by making a Finesse Test. The result of this Test acts as the creature's Stealth rating as they move around a location and shift between areas. During Stealth, a creature uses their Move Actions to shift from one location to another as if they were using Local Actions. 
+A Rogue begins Stealth by making a Finesse Test. The result of this Test acts as the creature's Stealth rating as they move around a location and shift between areas. During Stealth, a creature uses their Move Actions to shift from one location to another as if they were using Local Actions.
 
 For example, the tavern below would serve as a Location that contains multiple areas within it.
 
@@ -60,7 +60,7 @@ For example, the tavern below would serve as a Location that contains multiple a
 
 If a Rogue enters a location that also contains other creatures, then their Stealth Test is measured against the flat Sense ratings of the creatures within the location.
 
-An Observer begins Stealth in the state *oblivious*. They are unaware of the Rogue and go about their rountines as normal. A Rogue in this situation is *undetected* and gains the following abilities:
+An Observer begins Stealth in the state *oblivious*. They are unaware of the Rogue and go about their routines as normal. A Rogue in this situation is *undetected* and gains the following abilities:
 - An undetected Rogue gains the ability to start an Engagement and initiate a Surprise.
 - An undetected Rogue gains enhancement on the first Contested action they take equal to their current Stealth rating.
 

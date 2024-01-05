@@ -4,7 +4,7 @@
 
 This section is intended to guide you through the process of creating a world for your game of Mythmaker. The system is intended to be setting agnostic, meaning that you would be able to substitute it into any game setting you are playing in with some adjustments to the characters. For many people however, the desire to create a world of their very own drives them. To be the master over lore and domain.
 
-Worldbuilding as it is called in the hobby is handled in two ways: Top-down and Bottom-up. The Top Down approach starts with designing the big elements of the World such as the divinities in the setting before working step by step to the people and places themselves. This can take some time but the reward is that all of the minutiae of the world reflects the bigger concepts. 
+Worldbuilding as it is called in the hobby is handled in two ways: Top-down and Bottom-up. The Top Down approach starts with designing the big elements of the World such as the divinities in the setting before working step by step to the people and places themselves. This can take some time but the reward is that all of the minutiae of the world reflects the bigger concepts.
 
 Bottom-up worldbuilding on the other hand starts with the local area and lets you build upwards from there. This is recommended for Storytellers looking to quickly get set up and start with their game while leaving the rest of the map blank for the players to eventually discover.
 
@@ -368,7 +368,7 @@ Or perhaps your world is one not governed by gods. Many settings in fantasy get 
 </table>
 
 
-Of course, you could also take the middle route of having the existence of gods being ambiguous. Surely there could be some possible hints of divine influence in your setting but nothing that can be directly connected to any celestial beings from a higher plane of existence. 
+Of course, you could also take the middle route of having the existence of gods being ambiguous. Surely there could be some possible hints of divine influence in your setting but nothing that can be directly connected to any celestial beings from a higher plane of existence.
 
 
 <table>
@@ -613,11 +613,11 @@ There are eight classifications for communities in this regard and each pertains
 
 And just like characters, settlements can have Aspects of their very own:
 
-**Wealth** - The Wealth Aspect of a settlement describes its relative prosperity and the average Wealth rating of its inhabitants. The Wealth rating also stands to serve as the maximum **Market Value** of any object or item sold from its Marketplace. Generally, smaller settlements will have lesser Wealth ratings. Any exceptions are usually the result of a retired master or an heirloom 
+**Wealth** - The Wealth Aspect of a settlement describes its relative prosperity and the average Wealth rating of its inhabitants. The Wealth rating also stands to serve as the maximum **Market Value** of any object or item sold from its Marketplace. Generally, smaller settlements will have lesser Wealth ratings. Any exceptions are usually the result of a retired master or an heirloom
 
-**Defense -** A settlement’s Defense Aspect represents the average creature CR of its defense force. A Settlement with no defenses has no way of stopping plundering or any activity that would seek to affect its Wealth or Trades.
+**Defense** - A settlement’s Defense Aspect represents the average creature CR of its defense force. A Settlement with no defenses has no way of stopping plundering or any activity that would seek to affect its Wealth or Trades.
 
-**Trades -** Settlements within them will have a number of Trades that a majority of their population specializes in. A Settlement will only have as many trades as its Population Size rating. That isn’t to say that there won’t be exceptions but they will be in the stark minority compared to the rest of the populace. Below is a list of the available industries of Trade to choose from for a given settlement.
+**Trades** - Settlements within them will have a number of Trades that a majority of their population specializes in. A Settlement will only have as many trades as its Population Size rating. That isn’t to say that there won’t be exceptions but they will be in the stark minority compared to the rest of the populace. Below is a list of the available industries of Trade to choose from for a given settlement.
 
 **Agriculture,   Art,    Crafts,    Criminal,    Entertainment,    Government,    Medicine,   Merchant, Military,    Religion,    Sailor,    Scholarship,    Service,    Vagabond**
 
@@ -745,9 +745,9 @@ You can expand on this further by choosing a sub-industry below for the given Tr
 | --------- |
 | Merchant* |
 
-\*For the Merchant Profession, you must pick an item or trade that the Marketplace sells e.g. Spice Merchant or Weapons Merchant. 
+\*For the Merchant Profession, you must pick an item or trade that the Marketplace sells e.g., Spice Merchant or Weapons Merchant.
 
-Settlement Traits can also be used to further describe a place and provide a foundation from which to develop further details or ideas about the place. What does it mean for a Settlement to be Historical? Was the location once a battlefield before it became a series of houses upon the hillside? Below is a list of **_Settlement Traits_** that help to give it character and provide some room for thought about how the Traits are defined in the settlement itself. 
+Settlement Traits can also be used to further describe a place and provide a foundation from which to develop further details or ideas about the place. What does it mean for a Settlement to be Historical? Was the location once a battlefield before it became a series of houses upon the hillside? Below is a list of **_Settlement Traits_** that help to give it character and provide some room for thought about how the Traits are defined in the settlement itself.
 
 ---
 
@@ -812,7 +812,7 @@ Distinct Architecture
 
 Landmark
 
-Just as with characters, Settlements benefit from having a number of **Traits**, **Ideals,** and **Troubles** assigned to their _populace_ as well. When the characters interact with the town, what do they notice about the people? Are they a Hard-working (Trait) folk who prize Honor (Ideal) above all else but struggle with being a Humorless (Trouble) lot? Or are they an Adventurous people who embody unrelenting Enthusiasm (Ideal) but are also helplessly Reckless (Trouble) in their actions? Use the Natures section of the book to craft the common person for this Settlement. 
+Just as with characters, Settlements benefit from having a number of **Traits**, **Ideals,** and **Troubles** assigned to their _populace_ as well. When the characters interact with the town, what do they notice about the people? Are they a Hard-working (Trait) folk who prize Honor (Ideal) above all else but struggle with being a Humorless (Trouble) lot? Or are they an Adventurous people who embody unrelenting Enthusiasm (Ideal) but are also helplessly Reckless (Trouble) in their actions? Use the Natures section of the book to craft the common person for this Settlement.
 
 Some Settlement specific Troubles to consider are listed below as well. Each Trouble below as well as the ones listed under the Trouble list in the Natures section allow avenues for the players and their characters to interact with the town, either in the form of aiding against the Trouble or taking advantage of it.
 
@@ -866,7 +866,7 @@ For example, consider a Supernatural Law concerning equivalent exchange in regar
 
 The more Laws that govern an interaction between a character and another supernatural creature or area, the more inherently powerful that supernatural creature or area should be treated.
 
-A Supernatural Law may also be used to give a supernatural creature or area a particular weakness or limitation. For example, a creature might be given a weakness to anything made of Iron. 
+A Supernatural Law may also be used to give a supernatural creature or area a particular weakness or limitation. For example, a creature might be given a weakness to anything made of Iron.
 
 
 ### Lands
@@ -947,7 +947,7 @@ Keeping this magnitude a multiple of 10 makes for easy math but can be whatever 
 
 #### Size
 
-The physical size of a supernatural land can also widely vary. Some may be no larger than a cottage or a well while others may stretch infinitely onwards. This is important because the creatures inside a supernatural land cannot exceed the land’s own size. Areas as big as a pocket for instance, would require supernatural power to scale all visitors to the area to an appropriate size. 
+The physical size of a supernatural land can also widely vary. Some may be no larger than a cottage or a well while others may stretch infinitely onwards. This is important because the creatures inside a supernatural land cannot exceed the land’s own size. Areas as big as a pocket for instance, would require supernatural power to scale all visitors to the area to an appropriate size.
 
 
 #### Supernatural Traits

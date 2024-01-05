@@ -1,12 +1,12 @@
 # Best Laid Plans
-At this point you've either skipped the preceding chapters to figure out how the game is run or you've followed along with ideas percolating in your mind regarding the kind of adventure you woud like to run. This section is intended to teach you how to run the game and techniques for responding to the actions of the players that keep the game fun and help you have an easier time running the show.
+At this point you've either skipped the preceding chapters to figure out how the game is run or you've followed along with ideas percolating in your mind regarding the kind of adventure you would like to run. This section is intended to teach you how to run the game and techniques for responding to the actions of the players that keep the game fun and help you have an easier time running the show.
 
 ## Example Adventure
 For this chapter, we'll be using the example adventure below. Whenever we introduce a concept or technique, we'll make references to this specific plot to serve as an example.
 
 >**Who**: The antagonist is a dwarf named Faerlasdar who commands a group of dwarf pirates. Their first mate is Dranz Llewellyn, a wyrm.
 >
->**Why**: Revenge! Faerlasdar wants revenge on the governer who banished them from his service. Now that the pirate has acquired a magic tome, they plan to usurp the Governer!
+>**Why**: Revenge! Faerlasdar wants revenge on the governer who banished them from his service. Now that the pirate has acquired a magic tome, they plan to usurp the Governor!
 >
 >**What**: A Supernatural Army! Faerlasdar wants to summon a supernatural army capable of overpowering the guards and knights within the port town of Arthay.
 >
@@ -47,18 +47,18 @@ For this chapter, we'll be using the example adventure below. Whenever we introd
 >
 >**Challenge**: None
 >
->**Information**: **Who** - Rumors concerning the Dread Pirate Faerlasdar have been surfacing around the town of Arthay. Faerlasdar once served the governer of Arthay but was banished for taking things too far (**Why**).
+>**Information**: **Who** - Rumors concerning the Dread Pirate Faerlasdar have been surfacing around the town of Arthay. Faerlasdar once served the governor of Arthay but was banished for taking things too far (**Why**).
 >
 >**Additional Details**: None
 
 **SOMEONE'S OUT FOR THE GOVERNER**
 >**Location**: Posters around Arthay (Crime Scene)
 >
->**Form**: Posters depict the governer's image but with slashes or nooses around their neck (Writing)
+>**Form**: Posters depict the governor's image but with slashes or nooses around their neck (Writing)
 >
 >**Challenge**: None
 >
->**Information**: **Why** - Someone in Arthay (Faerlasdar) does not view the governer favorably.
+>**Information**: **Why** - Someone in Arthay (Faerlasdar) does not view the governor favorably.
 >
 >**Additional Details**: None
 
@@ -198,7 +198,7 @@ A character can make a number of Weapon Actions equal to the number of held weap
 | Throw         | Finesse        | Physical Pressure   |
 | Brace         | Strength       | Physical Resistance |
 ___
-Slash, Pierce, and Bludgeon are standard weapon actions that allow a character to invoke the aspect associated with them towards creating physical pressure. Physical pressure is potential damage that a target may receive at the end of the Engagement Turn when all pressure is added together. 
+Slash, Pierce, and Bludgeon are standard weapon actions that allow a character to invoke the aspect associated with them towards creating physical pressure. Physical pressure is potential damage that a target may receive at the end of the Engagement Turn when all pressure is added together.
 
 If a character satisfies the Strength Requirement of a given weapon, they can use the weapon's size rating as Enhancement towards the Test. A weapon will state which of the three actions its capable of performing. It is possible to attempt make a weapon action a weapon is not normally capable of but doing so results in the Test being hindered by 1.
 
@@ -261,7 +261,7 @@ As the Storyteller, you have access to a special dice pool known as Tension. At 
 
 Tension can be used to enhance the results of an antagonist's rolls or to either increase the challenge rating of an obstacle before the players.
 
-For example, when one of the dwarf pirates makes an attack on a player, you can declare after the roll that you are using Tension. 
+For example, when one of the dwarf pirates makes an attack on a player, you can declare after the roll that you are using Tension.
 
 When you use Tension, you take any number of dice (up to a maximum of 6) and roll them as if you were rolling vigor. Each success contributes towards your intent for the roll. However, when you use Tension, the affected characters gain the option to respond by spending additional vigor to resist the effect. If the Tension is used on a Weapon Action, the character can use vigor to invoke a Brace or a Parry in order to create resistance to the incoming pressure.
 

@@ -86,7 +86,7 @@ Contests are obstacles that are made between two active entities. With contests,
 
 
 #### **CONTEST EXAMPLES**
->Attacking in engagements, stealthing past oblivious guards, haggling in the marketplace
+>Attacking in engagements, sneaking past oblivious guards, haggling in the marketplace
 
 
 ### Perils
@@ -142,7 +142,7 @@ To spend vigor, a character subtracts an amount from their vigor equal to or les
 A character can spend as much vigor as they would like towards a Test; however, each **Usage** of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2. At the same time, there is a cost to spending vigor in the form of *fatigue*.
 
 ### Recovery
-A character begins play with a maximum Recovery rating equal to half of their vigor rating (rounded down). Whenever a certain period of time passes, a character regains vigor equal to their Recovery rating. However when a character spends vigor towards a Test in any amount, their Recovery rating decreases by 1. 
+A character begins play with a maximum Recovery rating equal to half of their vigor rating (rounded down). Whenever a certain period of time passes, a character regains vigor equal to their Recovery rating. However when a character spends vigor towards a Test in any amount, their Recovery rating decreases by 1.
 
 While their is a maximum value that a character's Recovery can be, there is no minimum meaning that it is possible to have a negative Recovery rating at a given point in time. When this occurs, a character loses vigor equal to the negative value. Restoring Recovery is achieved through Rests which are explained later on in this chapter.
 

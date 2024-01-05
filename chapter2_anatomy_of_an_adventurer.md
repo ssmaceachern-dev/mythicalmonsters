@@ -38,13 +38,13 @@ There are four tiers of starting experience: **Novice**, **Apprentice**, **Journ
     Everyone has sat down at the table to begin creating their characters. The Storyteller declares that everyone will be starting the adventure at the Novice tier.
 
 ## Determine Ancestry
-The next step of the character creation process is determining the ancestry of the character. For this step, have a look at the default Ancestries and choose one that appeals to you. 
+The next step of the character creation process is determining the ancestry of the character. For this step, have a look at the default Ancestries and choose one that appeals to you.
 
 Each Ancestry will have two options for a **Natural Aspect Advancement** specific to that species. Simply choose one for your character to inherit and advance the rating of the chosen Aspect by 1.
 
 Next, record the size and size rating of the ancestry. When adding senses to the sheet, some ancestries will either have options for a given sense or have an extra sense to add. You can review the senses in the section after Ancestries.
 
->Ingram Wolfsbane is a proud dwarf. Faced with the choice between Endurance or Resolve as their natural aspect advancement, lets go with Endurance to make them extra hardy. We'll find the Endurance aspect on the character sheet and increase it from its starting rating of 1 to 2. 
+>Ingram Wolfsbane is a proud dwarf. Faced with the choice between Endurance or Resolve as their natural aspect advancement, lets go with Endurance to make them extra hardy. We'll find the Endurance aspect on the character sheet and increase it from its starting rating of 1 to 2.
 >    
 >Next, we'll enter Average under the Size section and 4 under the Size Rating section. Under Sense Rating, we'll put 3. Now as we get to the Senses themselves, we have another choice: We can either give this dwarf Common Sight or Dark Sight. We'll choose Common Sight for now and add Common Hearing.
 
@@ -237,7 +237,7 @@ A character's aspects are also used to determine a set of calculated aspects cal
 
 
 ## Advance Professions
-Professions represent your character’s backgrounds and areas of expertise in a given trade before delving into the world of Mythmakers. 
+Professions represent your character’s backgrounds and areas of expertise in a given trade before delving into the world of Mythmakers.
 
 A given rating in a Profession represents an amount of Enhancement that can be added to Memory Tests that relate to a given skill set. It also allows characters to make items or perform services associated with that Profession by making a Profession Test.
 
@@ -380,13 +380,13 @@ Spend an advancement by picking a Trade that interests you and go to the Profess
 | --------- |
 | Merchant* |
 
-\*For the Merchant Profession, you must pick an item or trade that the Marketplace sells e.g. Spice Merchant or Weapons Merchant. 
+\*For the Merchant Profession, you must pick an item or trade that the Marketplace sells e.g. Spice Merchant or Weapons Merchant.
 
 
 ## Advance Knowledge
 Characters will also possess familiarity in certain areas of knowledge beyond their normal profession. A rating in a given knowledge acts as Enhancement whenever a character makes an Memory Test that uses that knowledge with some exceptions. In Mythmakers, there are two kinds of knowledge: *Common*, *Esoteric*, and *Linguistic*.
 
-Common Knowledge is knowledge that most people will have some familiarity with and is divided into four main areas: **Local**, **Occult**, **Nature**, and **Lore**. 
+Common Knowledge is knowledge that most people will have some familiarity with and is divided into four main areas: **Local**, **Occult**, **Nature**, and **Lore**.
 
 Esoteric Knowledge is specific knowledge that only a significantly smaller group of people know such as a knowledge of frogs or a dead language.
 
@@ -461,15 +461,15 @@ The table below summarizes the five intents available to you. Supernatural power
 
 | Form    | Summary                                                                                                                                                                                       |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arcanum | The purest and primevil form of supernatural power. This meta magic simply follows the basic intent of its wielder                                                                            |
+| Arcanum | The purest and primeval form of supernatural power. This meta magic simply follows the basic intent of its wielder                                                                            |
 | Fire    | The domain of fire comprises of flames, heat, and smoke. Light also resides in this domain as light is often derived from igniting materia or plants                                          |
 | Water   | The domain of water comprises of waters and all other liquids. Liquids inside a body do not fall under this domain                                                                            |
 | Materia | The domain of materia covers all inanimate materia such as stone, clay, metal, sand, glass, and other nonliving things                                                                        |
 | Wind    | The domain of air comprises not only winds but storms and weather phenomena as well                                                                                                           |
 | Anthro  | The domain of anthros deals with human or humanoid creatures. Many supernatural creatures fall into this domain as well as long as they possess a physical body                               |
 | Mind    | The domain of the mind covers that which is affected by the mind. Thoughts, emotions, and memories form the basis of what this domain touches                                                 |
-| Plant   | The domain of plants comprises of all living things exluding animals or anthropomorphic creatures. This also contains products obtained from plants such as toxins, wood, or fabric           |
-| Animal  | The domain of animals comprises of all living things exluding plants or anthropomorphic creatures. This also contains products obtained from animals such as leather, wool, or fur            |
+| Plant   | The domain of plants comprises of all living things excluding animals or anthropomorphic creatures. This also contains products obtained from plants such as toxins, wood, or fabric           |
+| Animal  | The domain of animals comprises of all living things excluding plants or anthropomorphic creatures. This also contains products obtained from animals such as leather, wool, or fur            |
 | Sense   | The domain of senses comprises the realms of what is perceivable by other forms. Odors, tastes, images, sounds, and sensations are but some examples of the breadth encapsulated by this form |
 
 #### **Supernatural Specializations**
@@ -653,7 +653,7 @@ Apparel describes what a given character is wearing that does not contribute tow
 ### Determine a Starting Pack
 Starting Packs are composed of goods to quickly get an adventurer on their way. In Mythmakers, a character's inventory consists of two parts: a pack and the held items.
 
-Packs are containers that a character or creature can equipt in order to carry items on their journeys. As with most items, packs have a size and quality rating. However, the capacity of a pack indicates the maximum total sum of size that can fit in it. A pack cannot have a size rating greater than the creature wearing it.
+Packs are containers that a character or creature can equip in order to carry items on their journeys. As with most items, packs have a size and quality rating. However, the capacity of a pack indicates the maximum total sum of size that can fit in it. A pack cannot have a size rating greater than the creature wearing it.
 
 Held items are just that: Items that have a size, rarity, and quality rating. However, the size of an item cannot surpass the size rating of the pack its inside.
 
@@ -748,7 +748,7 @@ TOTAL SIZE: 5
 ___
 
 ### Choose a Trinket
-Now it’s time to choose a Trinket. Trinkets are small items of an inconsequential size that add a touch of flavor to the character. Perhaps they acquired the Trinket from a mysterious origin or maybe it was handed down to them by a family member. 
+Now it’s time to choose a Trinket. Trinkets are small items of an inconsequential size that add a touch of flavor to the character. Perhaps they acquired the Trinket from a mysterious origin or maybe it was handed down to them by a family member.
 
 **When you get to this step**, you can either pick a Trinket that appeals to you from the list, use a random number generator to pick a number between 1 to 100, or approach the Storyteller with an idea for a Trinket of your very own.
 
@@ -773,7 +773,7 @@ Now it’s time to choose a Trinket. Trinkets are small items of an inconsequent
 | 15  | A worn-out book of jokes gifted to you from a deceased relative. It's dedicated to you even if you didn't meet them.                                                                                                                                            |
 | 16  | A tiny dragon preserved in amber.                                                                                                                                                                                                                               |
 | 17  | A smooth river stone that turns pale blue when held underwater.                                                                                                                                                                                                 |
-| 18  | A mouse skull that floats when placed over a fire                                                                                                                                                                                                               |
+| 18  | A mouse skull that floats when placed over a fire.                                                                                                                                                                                                               |
 | 19  | A small tooth with a romantic scene scrimshawed into it in the finest detail.                                                                                                                                                                                   |
 | 20  | A gem that projects an image of a girl in white upon a surface when held before light.                                                                                                                                                                          |
 | 21  | A stamp for a wax seal of a design you’ve never seen before.                                                                                                                                                                                                    |
@@ -843,7 +843,7 @@ Now it’s time to choose a Trinket. Trinkets are small items of an inconsequent
 | 85  | A small crystal ball filled with smoke. The smoke changes color to reflect the weather.                                                                                                                                                                         |
 | 86  | A paper animal that folds itself back into shape upon daybreak whenever left unfolded.                                                                                                                                                                          |
 | 87  | A brooch made from a large opal and in the style of an insect.                                                                                                                                                                                                  |
-| 88  | A strange feather that is capable of being used like a butterknife.                                                                                                                                                                                             |
+| 88  | A strange feather that is capable of being used like a butter knife.                                                                                                                                                                                             |
 | 89  | A bracelet of silver beads. If a bead is separated from the bracelet, it will always roll in the direction of the wearer.                                                                                                                                       |
 | 90  | A whistle that attracts small mammalian creatures when blown.                                                                                                                                                                                                   |
 | 91  | A miniature trident, with fey patterns inscribed on it.                                                                                                                                                                                                         |
@@ -859,10 +859,10 @@ Now it’s time to choose a Trinket. Trinkets are small items of an inconsequent
 
 
 ## Determine a Name and Appearance
-Now comes the hardest task of any would-be adventurer... choosing a name for oneself! Choosing the right name can be difficult sometimes but there is no shame in choosing a simple name. Your character could be the John of all Johns! Take a moment or two to consider some possible names before choosing one that strikes your fancy the most.
+Now comes the hardest task of any would-be adventurer... choosing a name for oneself! Choosing the right name can be difficult sometimes, but there is no shame in choosing a simple name. Your character could be the John of all Johns! Take a moment or two to consider some possible names before choosing one that strikes your fancy the most.
 
 From there, think about their appearance! There is an appearance section of the sheet where you can jot down key details such as hair or eye color. Or you can use the space to doodle what your character might look like instead.
 
->With Ingram Wolfsbane, we sort of cheated and gave them a name from the start. But lets describe their appearance. Ingram is a stocky character with braided raven-black hair. Their eyes are like coals but their nose is rosy red. There is a scar on their left brow as well.
+>With Ingram Wolfsbane, we sort of cheated and gave them a name from the start. But let's describe their appearance. Ingram is a stocky character with braided raven-black hair. Their eyes are like coals, but their nose is rosy red. There is a scar on their left brow as well.
 
 And just like that, you've got a character ready for play. If your character has a supernatural practice, it would be worth your time to review the Supernatural section next for more details on what it has to offer.

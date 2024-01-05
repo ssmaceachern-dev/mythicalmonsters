@@ -8,7 +8,7 @@ Creating an ancestry or a species of sapient creatures is not all that different
 ## Determine the Ancestry's Natural Aspects
 Every Ancestry as a pair of aspects they are naturally good at as a result of their natural development or due to the origins of their creation.
 
-The core common aspects an Ancestry may possess are: Strength, Finesse, Endurance, Sense, Memory, Insight, and Resolve. Choose any two to respresent the possible boons a character descending from this ancestry may receive when making their character.
+The core common aspects an Ancestry may possess are: Strength, Finesse, Endurance, Sense, Memory, Insight, and Resolve. Choose any two to represent the possible boons a character descending from this ancestry may receive when making their character.
 
 ## Determine the Ancestry's Natural Size
 Next, determine the average size a member of this ancestry may possess. The most common sizes range from Little to Giant. Anything more and the ancestry may experience some difficulty through the course of play.
@@ -62,6 +62,6 @@ A descriptor acts as a classification of the creature and describes addition abi
 |Winged|A creature can use its Movement to ascend or descend into vertical or adjacent areas|
 |Swimmer|A creature can use its Movement to move through water or non-viscous liquids unhindered|
 |Gilled|A creature can move through water without gaining ranks in the Suffocation impairment|
-|Slimy|A creature is immune to being restrained by creatures attempting to apply the Restained impairment to it|
+|Slimy|A creature is immune to being restrained by creatures attempting to apply the Restrained impairment to it|
 |Crawler|A creature can use its Movement to move along the surface of a wall or ceiling|
 |Barbed|Any creature that makes an unarmed strike or unarmed attempt to impair the barbed creature receives physical pressure equal to the creature's Size rating|

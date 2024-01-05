@@ -103,7 +103,7 @@ Intolerant
 
 Jealous
 
-Judgemental
+Judgmental
 
 Clumsy
 

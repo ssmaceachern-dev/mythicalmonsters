@@ -83,7 +83,7 @@ A character can make a number of Weapon Actions equal to the number of held weap
 | Throw         | Finesse        | Physical Pressure   |
 | Brace         | Strength       | Physical Resistance |
 ___
-Slash, Pierce, and Bludgeon are standard weapon actions that allow a character to invoke the aspect associated with them towards creating physical pressure. Physical pressure is potential damage that a target may receive at the end of the Engagement Turn when all pressure is added together. 
+Slash, Pierce, and Bludgeon are standard weapon actions that allow a character to invoke the aspect associated with them towards creating physical pressure. Physical pressure is potential damage that a target may receive at the end of the Engagement Turn when all pressure is added together.
 
 If a character satisfies the Strength Requirement of a given weapon, they can use the weapon's size rating as Enhancement towards the Test. A weapon will state which of the three actions its capable of performing. It is possible to attempt make a weapon action a weapon is not normally capable of but doing so results in the Test being hindered by 1.
 
@@ -97,7 +97,7 @@ Once a target is inside the base range, the creature making the throw makes a Fi
 
 
 #### **Impair**
-The Impair Action can be used to give a target an Impairment. Impairements are status conditions that can actively hinder a target without causing direct damage. To create Impairing Pressure, a player describes how they want to cause a specific impairment. Then the Storyteller answers with the kind of Test they would need to make.
+The Impair Action can be used to give a target an Impairment. Impairments are status conditions that can actively hinder a target without causing direct damage. To create Impairing Pressure, a player describes how they want to cause a specific impairment. Then the Storyteller answers with the kind of Test they would need to make.
 
 Generally, it can be assumed that physical impairments will require a physical aspect to be invoked. When the test is made, the target of the action makes a corresponding Test with a physical aspect of their choice.
 | Test                                | Resistance                              |
@@ -122,7 +122,7 @@ If the target receives excess pressure, then the target is considered *under pre
 ##### **Mental Impairments**
 | Impairment | Description                                                                                                                   | Effect                                                                                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Troubled   | A creature has been exposed to a personal trouble of theirs or has had a trouble creatued for them through supernatural means | All actions are hindered equal to the rank of this impairment                                                                                           |
+| Troubled   | A creature has been exposed to a personal trouble of theirs or has had a trouble created for them through supernatural means | All actions are hindered equal to the rank of this impairment                                                                                           |
 | Distracted | A creature's attention has been rapt by an entrancing pattern or been pulled by a grabbing display                            | All actions made towards a target other than the source of the distraction are hindered equal to the rank of this impairment                            |
 | Frightened | A creature has been intimidated or supernaturally frightened                                                                  | All actions made against the source of fear are hindered equal to the rank of this impairment. A creature cannot move closer to the source of the fear. |
 | Charmed    | A creature's disposition towards another has been altered or they have been supernaturally given an Virtue to follow           | All actions that act contrary to the Virtue are hindered equal to the rank of this impairment                                                            |
@@ -166,13 +166,13 @@ If the creature or object has a larger size rating than the shoving creature, th
 
 **Charge**
 
-A Charge maneuver is used to give Enhancement to an action through the use of movement along a surface. In order to make a Charge, a creature uses their Move Actions to move through a number of connected zones. The character then gains Enhancement to their next Contested Action equal to the number of zones they have moved across to reach their target. However, any Contested Actions made against the charing creature also gain an equal amount of Enhancement.
+A Charge maneuver is used to give Enhancement to an action through the use of movement along a surface. In order to make a Charge, a creature uses their Move Actions to move through a number of connected zones. The character then gains Enhancement to their next Contested Action equal to the number of zones they have moved across to reach their target. However, any Contested Actions made against the charging creature also gain an equal amount of Enhancement.
 
 A character under pressure cannot make a Charge until the pressure has been fully resisted.
 
 **Plummet**
 
-A Plummet maneuver is used to give Enhancement to an action through falling. In order to use a Plummet, a character must fall from one zone into another. 
+A Plummet maneuver is used to give Enhancement to an action through falling. In order to use a Plummet, a character must fall from one zone into another.
 
 Once this has been accomplished, a creature can use their Size rating as Enhancement towards their next Contested Action.
 
@@ -181,7 +181,7 @@ Once this has been accomplished, a creature can use their Size rating as Enhance
 A Swap maneuver is used when one character wants to switch places with another. Both characters must be within one Size Step of one another and must be within the same zone in order for a swap to occur. This consumes a Move Action from both participants. Any pressure that was on one character gets transferred to the character swapping in.
 
 ### Move Actions
-A Move Action allows a creature to move from one zone to another. A zone is a defined area within a given location. For example, the image below depicts a tavern broken up into a number of zones. During your Turn, you can move a number of zones equal to your character’s Size rating plus their Endurance rating. A character can move beyond this allotted amount by spending one point of vigor and subtracing one point from Recovery for each additional zone traveled.
+A Move Action allows a creature to move from one zone to another. A zone is a defined area within a given location. For example, the image below depicts a tavern broken up into a number of zones. During your Turn, you can move a number of zones equal to your character’s Size rating plus their Endurance rating. A character can move beyond this allotted amount by spending one point of vigor and subtracting one point from Recovery for each additional zone traveled.
 
 <div align="center">
 <img src="images/engagement_map_example.png" width="100%">
@@ -239,7 +239,7 @@ There are four conditions that can end an Engagement:
 
 * **Surrender** - When all active creatures in a group decide to end the engagement, leaving their fate in the hands of another group. For example, a group of creatures may all decide to appeal to mercy or a parley.
 * **Defeat** - When there are no more active creatures of a group left to contribute to the engagement.
-* **Natural Causes** - When there is no way for creatures to interact with each other in the engagement. 
+* **Natural Causes** - When there is no way for creatures to interact with each other in the engagement.
 * **Retreat** - When a group of creatures have fled from the area of Engagement.
 
 When an Engagement ends, the stage of play shifts back to the Exploration stage.

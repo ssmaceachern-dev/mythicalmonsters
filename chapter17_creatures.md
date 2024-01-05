@@ -83,7 +83,7 @@ A descriptor acts as a classification of the creature and describes addition abi
 |Winged|A creature can use its Movement to ascend or descend into vertical or adjacent areas|
 |Swimmer|A creature can use its Movement to move through water or non-viscous liquids unhindered|
 |Gilled|A creature can move through water without gaining ranks in the Suffocation impairment|
-|Slimy|A creature is immune to being restrained by creatures attempting to apply the Restained impairment to it|
+|Slimy|A creature is immune to being restrained by creatures attempting to apply the Restrained impairment to it|
 |Crawler|A creature can use its Movement to move along the surface of a wall or ceiling|
 |Barbed|Any creature that makes an unarmed strike or unarmed attempt to impair the barbed creature receives physical pressure equal to the creature's Size rating|
 
@@ -123,15 +123,15 @@ Here is the list of Intents and Forms below. Look to the Supernatural section fo
 
 | Form    | Summary                                                                                                                                                                                       |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arcanum | The purest and primevil form of supernatural power. This meta magic simply follows the basic intent of its wielder                                                                            |
+| Arcanum | The purest and primeval form of supernatural power. This meta magic simply follows the basic intent of its wielder                                                                            |
 | Fire    | The domain of fire comprises of flames, heat, and smoke. Light also resides in this domain as light is often derived from igniting materia or plants                                          |
 | Water   | The domain of water comprises of waters and all other liquids. Liquids inside a body do not fall under this domain                                                                            |
 | Materia | The domain of materia covers all inanimate materia such as stone, clay, metal, sand, glass, and other nonliving things                                                                        |
 | Wind    | The domain of air comprises not only winds but storms and weather phenomena as well                                                                                                           |
 | Anthro  | The domain of anthros deals with human or humanoid creatures. Many supernatural creatures fall into this domain as well as long as they possess a physical body                               |
 | Mind    | The domain of the mind covers that which is affected by the mind. Thoughts, emotions, and memories form the basis of what this domain touches                                                 |
-| Plant   | The domain of plants comprises of all living things exluding animals or anthropomorphic creatures. This also contains products obtained from plants such as toxins, wood, or fabric           |
-| Animal  | The domain of animals comprises of all living things exluding plants or anthropomorphic creatures. This also contains products obtained from animals such as leather, wool, or fur            |
+| Plant   | The domain of plants comprises of all living things excluding animals or anthropomorphic creatures. This also contains products obtained from plants such as toxins, wood, or fabric           |
+| Animal  | The domain of animals comprises of all living things excluding plants or anthropomorphic creatures. This also contains products obtained from animals such as leather, wool, or fur            |
 | Sense   | The domain of senses comprises the realms of what is perceivable by other forms. Odors, tastes, images, sounds, and sensations are but some examples of the breadth encapsulated by this form |
 
 ### **Behaviors**
@@ -146,7 +146,7 @@ Communication concerns how creatures of the same species communicate with one an
 Cyclic Behavior is an innate behavior that occurs in a repeating pattern. It often comes as a result of a shift in the environment. The most common form of a Cyclic Behavior is in daily cycles such as when owls will hunt when the day turns into night. Or perhaps the creature in question hibernates when the environment becomes too unwieldy, taking the time to stock up on fat and provisions before slumbering for an extended period of time. Migration is another common form of cyclic behavior with creatures moving to another area to either reproduce or adapt to the changing seasons.
 
 ### **Rarity**
-A creature's Rarity determines the effectiveness of Memory and Insight tests made to learn about the creature. If a character possesses ratings in Nature Knowledge or a relevant Esoteric, they can make a Memory Test if they encounter the creature. The challenge rating of this Test is equal to the creature's CR rating. If the character is successful, they know everything they could reasonably know from an academic source. 
+A creature's Rarity determines the effectiveness of Memory and Insight tests made to learn about the creature. If a character possesses ratings in Nature Knowledge or a relevant Esoteric, they can make a Memory Test if they encounter the creature. The challenge rating of this Test is equal to the creature's CR rating. If the character is successful, they know everything they could reasonably know from an academic source.
 
 If the creature also possesses a supernatural ability, then its challenge rating is increased by 1.
 
@@ -171,7 +171,7 @@ There will be occasions where inspiration for a creature will appear while the g
 
 To start, pick a Challenge Rating for the creature. This can be any number but using the threat rating and the challenge ratings of the party can give you a general baseline to work from.
 
-The threat rating of a party can be determined by taking the highest Strength, Finesse, or Supernatural Practice rating, doubling it. Each of the aspects chosen represent aspects or abilities a character can invoke to do harm. We then double it to account for the fact that some may use vigor during an Engagment.
+The threat rating of a party can be determined by taking the highest Strength, Finesse, or Supernatural Practice rating, doubling it. Each of the aspects chosen represent aspects or abilities a character can invoke to do harm. We then double it to account for the fact that some may use vigor during an Engagement.
 
 The challenge rating of the party is obtained by taking the threat rating and adding 1 for each member of the party.
 
@@ -207,7 +207,7 @@ When creatures form into a horde, they lose their Death’s Door rating as they 
 A Horde in this fashion does not take damage like a single character. Instead, the Group Size acts as a threshold to meet or exceed. When the Group accumulates enough Pressure equal to or greater than their Group Size at the end of a Turn, then the Group Size decreases by 1. When this occurs, the group must then make a **Resolve Check** enhanced by the remaining size of the group. If the Check succeeds, then they stay together as a group. Otherwise, the group disbands and flees from the party.
 
 # Supporting Characters
-Supporting characters are responsible for reinforcing the narratives that exist between the protagonist and the antagonist. A supporting character is a character who isn’t the main focus in the story but instead supports the protagonist in to ultimately help them achieve their goal, have a transformation, or move the story forward. They can exist as many different kinds of characters. 
+Supporting characters are responsible for reinforcing the narratives that exist between the protagonist and the antagonist. A supporting character is a character who isn’t the main focus in the story but instead supports the protagonist in to ultimately help them achieve their goal, have a transformation, or move the story forward. They can exist as many different kinds of characters.
 
 Common archetypes have often been used to describe each supporting character’s purpose. And of course, the supporting characters themselves could be antagonistic. Some of these archetypes are helpful to get the writer thinking of the purpose of each one of the characters.
 
@@ -236,12 +236,12 @@ Minions represent the grunt force of a given villain or antagonist. When a creat
 Minions are meant to embody the legions of disposable foes an antagonist has beset upon the party. And in the same turn, the characters should be able to cleave through them easily but still feel the power of their overwhelming numbers.
 
 ## Agents
-Agents have more free spirit than allies and are more powerful than minios. Agents represent characters either neutral to the plot of the adventure or characters with their own plots to follow that may either have them assist or hinder the players.
+Agents have more free spirit than allies and are more powerful than minions. Agents represent characters either neutral to the plot of the adventure or characters with their own plots to follow that may either have them assist or hinder the players.
 
-Agents possess a CR but also possess 2 Traits, 2 Virtues, and 2 Troubles just as a normal character would. Their involvment in the story largely reflects the will and intentions of the storyteller but act as a negotiable party should the players ever need their services.
+Agents possess a CR but also possess 2 Traits, 2 Virtues, and 2 Troubles just as a normal character would. Their involvement in the story largely reflects the will and intentions of the storyteller but act as a negotiable party should the players ever need their services.
 
 ### Powerful Agents
-A powerful agent is one who, by all accounts, is in a league of their own. Their powers far surpass the abilities of the players such that they can act as mentors or points of wisdom for the players to gain knowledge from. 
+A powerful agent is one who, by all accounts, is in a league of their own. Their powers far surpass the abilities of the players such that they can act as mentors or points of wisdom for the players to gain knowledge from.
 
 However, their role in the plot **should be limited**. The players are the stars of the show, after all. If the powerful agent could simply resolve the plot, then they would! But exterior circumstances prevent them from meddling or keep them otherwise occupied. If the players are desperate, then negotiating for the help of a powerful agent can become an option but that in itself should be a favor they have either earned from a previous adventure or one that requires great effort to obtain.
 
