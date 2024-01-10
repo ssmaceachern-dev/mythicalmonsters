@@ -1,13 +1,13 @@
 # The First Steps of Adventure
 When you think of an adventurer, who do you imagine? It's difficult to nail down a precise definition other than someone who goes on adventures. But *who* goes on adventures?
 
-Rich nobles, blessed clergymen, and master guildsmen have no need for adventure as what they're often satisfied with their station in life. No, adventurers seek what is beyond their grasp. A humble home in the hills. A family to share one's comforts. Wealth to surpass kings and queens. Master of both the body and the mind. You have none of these else why would you be an adventurer?
+Rich nobles, blessed clergymen, and master guildsmen have no need for adventure as what they're often satisfied or occupied with their station in life. Adventurers seek what is beyond their grasp. A humble home in the hills. A family to share one's comforts. Wealth to surpass regents and emporers. Master of both the body and the mind. You have none of these else why would you be an adventurer?
 
 But you've got that spark in you. There's a part of you that yearns for what lies beyond these foothills. To discover what fathomless yet wondrous riches lie in a land where giants wander.
 
 This section will guide you through the steps needed to form a character from the aether capable of adventuring in a world of Mythmakers.
 
-## The Recipe of a Legend
+## The Recipe of a Future Legend
 The creation of a given character for the Mythmakers Roleplaying Game follows the following steps. Each step will provide the default options available to you and walk you through what to add to your character sheet.
 
 1. Receive Starting Experience

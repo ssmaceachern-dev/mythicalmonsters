@@ -1,10 +1,10 @@
 # Myths & Dice
-Mythmakers is a collaborative fantasy roleplaying game about taking the roles of characters in a world of myths, magic, and monsters. One player, the Storyteller, acts as the world itself and the arbiter of the rules while the other players act as characters within the adventure created by the Storyteller.
+Mythmakers is a collaborative fantasy roleplaying game about taking the roles of characters in a world of myths, magic, and monsters. One person, the Storyteller, acts as the world itself and the arbiter of the rules while the other players act as characters within the adventure created by the Storyteller.
 
 # Your World
-The world of Mythmakers is setting agnostic. There is no fixed world or universe where the game is intended to take place. Instead, Mythmakers is meant to act as a system or a framework of rules for having adventures within a fantastical setting. The system assumes elements of fantasy exist but does not presume to know the precise details of your world.
+The world of Mythmakers is setting agnostic. There is no fixed world or universe where the game is intended to take place. Instead, Mythmakers is meant to act as a framework of rules for having adventures within any given fantasy setting. The system assumes certain elements of fantasy exist but does not presume to know the precise details of your world.
 
-Your world belongs to you. Even if you take inspiration from a canon setting in popular media or use one wholesale, it is still your world in the end.
+Your world belongs to you. Even if you take inspiration from a canon setting in popular media or use one of your own design, it is still your world in the end.
 
 However, if you require assistance, the Making Worlds section of the Storyteller Guide provides some ideas on how to begin creating a setting for play.
 
@@ -23,11 +23,11 @@ In Mythmakers, the outcomes of certain actions are determined by rolls of the di
 
 When dice are rolled, only the successes are initially counted. For example, a roll that produces the result **[1, 2, 4, 5, 6]** would equal **3** successes. Blunders in this sense are neutral and don’t negate successes except in certain circumstances which will be explained later on in this chapter.
 ## Pushes
-**6** is a special number in the game of Mythmakers. When a player rolls a 6 on a die, they gain a ***push***. When a character earns a push, not only does the player count the original roll as a success, but they can then roll the same die again. The player gains an additional push for each 6 they obtain. If anything other than a 6 is rolled during a push, then the push ends and the results are accounted for normally.
+**6** is a special number in Mythmakers. When a player rolls a 6 on any die, they gain a ***push***. When a character earns a push, not only does the player count the result of the original die as a success, but they can then roll the same die again. If anything other than a 6 is rolled then the results are counted as they would be normally.
 ________________
 
 
->The roll below measures out to 2 successes, but there is one 6 which means that the roller gains one push. They then take the one die and reroll it.
+>The roll below has resulted in 2 successes, but there is one 6 which means that the roller gains one push. They then take the one die and reroll it.
 >
 ><div align="center">
 ><img src="images/dice5.png" width="47">
@@ -35,7 +35,7 @@ ________________
 ><img src="images/dice1.png" width="48">
 ></div>
 >
->Since the roll didn’t result in a 6, the push ends and the roller adds the result to the previous roll causing the total to sum up to 3 successes.
+>In this case, they received a 4. Since the roll didn’t result in a 6, the roller just adds the result to the previous roll causing the total to sum up to 3 successes.
 ><div align="center">
 ><img src="images/dice4.png" width="48">
 ></div>
@@ -74,15 +74,15 @@ Blocks are challenges that passively resist forward progress. A block indicates 
 
 
 ### Snares
-Snares are challenges that passively resist movement. A snare indicates that if the players don’t gain enough successes to meet the challenge rating, then they must spend additional resources in order to overcome the challenge before they can proceed. Otherwise, they remain stuck in the snare.
+Snares are challenges that passively resist movement. A snare indicates the amount of movement a player must spend before they can make any additional movement within an area. Otherwise, they remain stuck in the snare.
 
 
 #### **SNARE EXAMPLES**
->A briar patch blocking a path through the woods, walking over a pile of collapsed rubble, walking through thick mud…
+>A crowded urban marketplace, a pile of collapsed rubble, walking through thick mud…
 
 
 ### Contests
-Contests are obstacles that are made between two active entities. With contests, one side is exerting pressure while another side provides resistance. If the contesting side earns more pressure than the contested side’s resistance, then an effect is achieved that benefits the contesting side. If the contesting side’s pressure is equal or less than the contested side’s resistance, then a stalemate is reached and nothing happens.
+Contests are obstacles that are made between two active entities. In a contest, one side is exerting pressure while another side attempts to resist. If the contesting side earns more pressure than the contested side’s resistance, then something happens to the contested side. If the contesting side’s pressure is equal or less than the contested side’s resistance, then a stalemate is reached and nothing happens.
 
 
 #### **CONTEST EXAMPLES**
@@ -106,7 +106,7 @@ A check is a challenge where only one success is required to pass. As long as at
 
 
 ### Open
-Open challenges do not have a strict challenge rating assigned to them. Open challenges are used as gauges to see how successful a character is at an open-ended action with the Storyteller themselves determining how much information they receive as a result of the action.
+Open challenges do not have a strict challenge rating assigned to them. Open challenges are used as gauges to see how successful a character is at an open-ended action. In these cases, the Storyteller themselves determines what happens to a character at different levels of success.
 
 
 #### **OPEN CHALLENGE EXAMPLES**
@@ -117,8 +117,7 @@ Players and their characters overcome challenges set forth by the Storyteller by
 
 A standard character has eight aspects to invoke: Strength, Finesse, Endurance, Sense, Memory, Insight, Resolve, Wealth, and Profession.
 
-
-> A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where their strength can apply.
+> A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where the use of strength can apply.
 
 The challenge rating of a Test can be affected by three modifiers: Enhancement, Hindrance, and Ease.
 
@@ -139,12 +138,12 @@ However, there will often be times when invoking an aspect is not enough to clea
 To spend vigor, a character subtracts an amount from their vigor equal to or less than the rating of the aspect being utilized. For example, if a character with Strength 2 wanted to spend vigor towards a Test, then they would only be able to subtract a maximum of 2 from their vigor pool to roll 2 additional dice towards the Test.
 
 
-A character can spend as much vigor as they would like towards a Test; however, each **Usage** of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2. At the same time, there is a cost to spending vigor in the form of *fatigue*.
+A character can spend as much vigor as they would like towards a Test; however, each **usage** of vigor cannot exceed the rating of the invoked aspect. For example, if a character with Strength 2 were to spend 4 vigor, it would be spent increments of 2. At the same time, there is a cost to spending vigor in the form of *fatigue*.
 
 ### Recovery
 A character begins play with a maximum Recovery rating equal to half of their vigor rating (rounded down). Whenever a certain period of time passes, a character regains vigor equal to their Recovery rating. However when a character spends vigor towards a Test in any amount, their Recovery rating decreases by 1.
 
-While their is a maximum value that a character's Recovery can be, there is no minimum meaning that it is possible to have a negative Recovery rating at a given point in time. When this occurs, a character loses vigor equal to the negative value. Restoring Recovery is achieved through Rests which are explained later on in this chapter.
+While there is a maximum value that a character's Recovery can be, there is no minimum meaning that it is possible to have a negative Recovery rating at a given point in time. When this occurs, a character loses vigor equal to the negative value. Restoring Recovery is achieved through Rests which are explained later on in this chapter.
 
 
 >A character with Strength 2 wants to spend 4 vigor towards a Test they've invoked their Strength aspect on. They subtract 2 from their vigor and roll the 2 dice while decreasing their Recovery rating by 1. Then they subtract another 2 dice, roll them, and decrease their Recovery rating by 1 yet again.
@@ -212,7 +211,7 @@ A world action is any action that spans a chunk of daytime. Generally, world act
 Allows a character to move up to a certain number of miles equal to their Movement rating.
 
 ### **Camp**
-Allows a character or a group of characters to establish a camp for the sake of rest, nourishment, and resisting the elements of the wild.
+Allows a character or a group of characters to establish a camp for the sake of rest, nourishment, and resisting the elements of the wild. See Camping in Chapter 7 for additional details.
 
 ### **Long Rest**
 A character that makes a Long Rest can increase their Recovery rating equal to their maximum Recovery value. The character can also make an Recovery Test to reduce their wounds equal to the number of successes achieved.
@@ -242,7 +241,7 @@ A Free Action is an action that any given character can perform with no hassle a
 ## Movement
 Walking through abandoned ruins, swimming across a river, and traveling the countryside are all examples of movement a character can make while on their adventures.
 
-In Mythmakers, a character moves through a landscape by making Move Actions. Move Actions are a form of free action that allow any character or creature to move through an uninhibiting space. Outside of engagements, a character spends an action to gain a number of Move Actions equal to their size plus their endurance rating.
+In Mythmaker, a character moves through a landscape by making Move Actions. Move Actions are a form of free action that allow any character or creature to move through an uninhibiting space. Outside of engagements, a character's movement resets whenever time passes after a Test has been completed.
 
 
 | Action             | Movement                                       |
@@ -279,7 +278,7 @@ The game of Mythmakers follows the following pattern.
 
 2. **The players decide what actions their characters take in response and the Storyteller determines the challenge.** The players can use their characters' abilities to react accordingly. The Storyteller takes this information and determines if there is anything challenging the actions of the characters.
 
-	>One player declares their intent to jump through one of the windows. The storyteller states that jumping through the window is fairly easy and says succeeding would require a CR 2 Finesse Test.
+	>One player declares their intent to jump through one of the windows. The storyteller states that jumping through the window is a fairly easy Block challenge and says succeeding would require a CR 2 Finesse Test.
 
 3. **The players invoke aspects against their Tests and determine if they wish to spend vigor.** The players roll dice according to the rating of their invoked aspects along with any enhancement.
 
