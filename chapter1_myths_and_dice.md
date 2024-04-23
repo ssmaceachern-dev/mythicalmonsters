@@ -2,11 +2,22 @@
 Mythmakers is a collaborative fantasy roleplaying game about taking the roles of characters in a world of myths, magic, and monsters. One person, the Storyteller, acts as the world itself and the arbiter of the rules while the other players act as characters within the adventure created by the Storyteller.
 
 # Your World
-The world of Mythmakers is setting agnostic. There is no fixed world or universe where the game is intended to take place. Instead, Mythmakers is meant to act as a framework of rules for having adventures within any given fantasy setting. The system assumes certain elements of fantasy exist but does not presume to know the precise details of your world.
+The world of Mythmaker takes place in a world of collaborative imagination agnostic of setting. That is to say, Mythmaker is intended to function as a system to facilitate fantasy adventures rather than serve as a setting guide. Certain elements such as magic, ancestries, and the supernatural are assumed but never enforced.
 
-Your world belongs to you. Even if you take inspiration from a canon setting in popular media or use one of your own design, it is still your world in the end.
+What this means is that your world both belongs and derives from you and the players at the table. Whether you're playing in an established setting or one of your very own creation, Mythmaker cares not. In fact, if some elements presented here conflict with the basis of your world, you should feel at liberty to rewrite them or even remove them wholesale.
 
-However, if you require assistance, the Making Worlds section of the Storyteller Guide provides some ideas on how to begin creating a setting for play.
+This system puts forward the ethos that your world is your own and what you do or how you make use of this system is entirely up to you.
+
+# What You Need To Play
+To play Mythmaker, you will need the following items:
+* Paper
+* Pencils
+* At least one six-sided die (We recommend six dice)
+* A Mythmaker Character Sheet
+* A group of 3-5 people
+
+The Mythmaker Character Sheet can be downloaded here:
+ [MYTHMAKER Character Sheet](res\MYTHMAKER_FILLABLE_SHEET.zip)
 
 # Dice Rules
 In Mythmakers, the outcomes of certain actions are determined by rolls of the dice. The numbers **4**, **5**, **6** are counted as **successes** while the numbers **1**, **2**, **3** are considered **blunders**.
@@ -119,6 +130,10 @@ A standard character has eight aspects to invoke: Strength, Finesse, Endurance, 
 
 > A character with a Strength rating of 3 can roll up to three dice when confronted by a challenge where the use of strength can apply.
 
+If a character has a rating in an aspect equivalent or greater to the CR of the Test, then they can choose to use their rating instead of rolling dice. However, if the player chooses to forgo this, then they must roll as normal and accept whatever result the dice produce.
+
+> A character with a Strength rating of 3 facing a Strength Test at CR 3 can choose to accept a result of 3 instead of rolling a number of dice equal to their Strength aspect.
+
 The challenge rating of a Test can be affected by three modifiers: Enhancement, Hindrance, and Ease.
 
 *Enhancement* is represents a number of dice that can be rolled in addition to the dice gained by invoking an aspect. Enhancement is often gained from the quality of an item or through supernatural means. Enhancement dice are rolled after an aspect has been invoked.
@@ -128,6 +143,7 @@ The challenge rating of a Test can be affected by three modifiers: Enhancement, 
 *Ease* on the other hand represents a number of automatic successes towards a given Test. These successes are counted before the Test is made. If Ease alone can satisfy the challenge rating of a given Test, then the Test automatically succeeds.
 
 However, there will often be times when invoking an aspect is not enough to clear a Test. When this occurs, a character may need to rely on their *vigor*.
+
 
 ##	Vigor
  Vigor represents a character’s vitality and is determined by taking the sum of a character’s physical and mental aspects (Strength, Finesse, Endurance, Memory, Insight, and Resolve). This number represents a pool of dice a character can draw from in order to obtain more successes for a given Test.
@@ -274,7 +290,7 @@ The game of Mythmakers follows the following pattern.
 
 1. **The Storyteller describes the environment and situation to the players.** The story begins and the characters are informed of their current circumstances.
 
-	>The characters find themselves in a burning tavern. There is fire all around and smoke threatens to steal their breaths away if they don’t react soon. A fire is blocking the main entrance out but there are windows all around.
+	>The characters find themselves in a burning tavern. There is fire all around and smoke threatens to steal their breaths away if they don’t react soon. A fire is blocking the main entrance but there are windows all around.
 
 2. **The players decide what actions their characters take in response and the Storyteller determines the challenge.** The players can use their characters' abilities to react accordingly. The Storyteller takes this information and determines if there is anything challenging the actions of the characters.
 
@@ -284,7 +300,7 @@ The game of Mythmakers follows the following pattern.
 
 	>The player jumping through the window makes their Finesse Test and obtains only 1 success. It's not enough and so they declare they would like to use vigor. They subtract a few dice from their vigor pool, add a point of fatigue, and roll the dice. They gain 2 more successes which allows them to complete the test
 
-4. **The Storyteller summarizes the results**. After the players have completed their Tests, the Storyteller narrates the aftermath. The Storyteller would decide here whether they would wish to add Tension to a Test's results.
+4. **The Storyteller describes the results**. After the players have completed their Tests, the Storyteller narrates the aftermath. The Storyteller would decide here whether they would wish to add Tension to a Test's results.
 
 	**No Tension**
 
